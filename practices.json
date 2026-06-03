@@ -126,14 +126,6 @@
               {
                 "speaker": "Heli",
                 "text": "I'd like a cappuccino and a piece of cake, please."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Waiter",
-                "text": "And for you?"
               },
               {
                 "speaker": "Mark",
@@ -174,11 +166,7 @@
               {
                 "speaker": "Heli",
                 "text": "Yes, thank you. Should we leave a tip?"
-              }
-            ]
-          },
-          {
-            "lines": [
+              },
               {
                 "speaker": "Mark",
                 "text": "Of course. The service was good. I'll add it when I pay."
