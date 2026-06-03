@@ -2,6 +2,7 @@
   "nouns": [
     {
       "english": "Head",
+      "hebrew": "רֹאשׁ",
       "know": 5,
       "conj": 3,
       "last": "lesson-02",
@@ -9,6 +10,7 @@
     },
     {
       "english": "Stomach",
+      "hebrew": "בֶּטֶן",
       "know": 5,
       "conj": 3,
       "last": "lesson-07",
@@ -16,6 +18,7 @@
     },
     {
       "english": "Back",
+      "hebrew": "גַּב",
       "know": 5,
       "conj": 4,
       "last": "lesson-13",
@@ -23,6 +26,7 @@
     },
     {
       "english": "Throat",
+      "hebrew": "גָּרוֹן",
       "know": 3,
       "conj": 3,
       "last": "lesson-10",
@@ -30,6 +34,7 @@
     },
     {
       "english": "Chest",
+      "hebrew": "חָזֶה",
       "know": 4,
       "conj": 3,
       "last": "lesson-03",
@@ -37,6 +42,7 @@
     },
     {
       "english": "Arm",
+      "hebrew": "זְרוֹעַ",
       "know": 5,
       "conj": 5,
       "last": "lesson-13",
@@ -44,6 +50,7 @@
     },
     {
       "english": "Leg",
+      "hebrew": "רֶגֶל",
       "know": 5,
       "conj": 5,
       "last": "lesson-13",
@@ -51,6 +58,7 @@
     },
     {
       "english": "Hand",
+      "hebrew": "יָד",
       "know": 5,
       "conj": 4,
       "last": "lesson-03",
@@ -58,6 +66,7 @@
     },
     {
       "english": "Eye",
+      "hebrew": "עַיִן",
       "know": 5,
       "conj": 5,
       "last": "lesson-03",
@@ -65,6 +74,7 @@
     },
     {
       "english": "Ear",
+      "hebrew": "אֹזֶן",
       "know": 5,
       "conj": 5,
       "last": "lesson-03",
@@ -72,6 +82,7 @@
     },
     {
       "english": "Pain",
+      "hebrew": "כְּאֵב",
       "know": 4,
       "conj": 4,
       "last": "lesson-13",
@@ -79,6 +90,7 @@
     },
     {
       "english": "Fever",
+      "hebrew": "חֹם",
       "know": 4,
       "conj": 3,
       "last": "lesson-07",
@@ -86,6 +98,7 @@
     },
     {
       "english": "Cough",
+      "hebrew": "שִׁיעוּל",
       "know": 3,
       "conj": 3,
       "last": "lesson-11",
@@ -93,6 +106,7 @@
     },
     {
       "english": "Cold",
+      "hebrew": "נֶזֶלֶת",
       "know": 2,
       "conj": 3,
       "last": "lesson-11",
@@ -100,6 +114,7 @@
     },
     {
       "english": "Headache",
+      "hebrew": "כְּאֵב רֹאשׁ",
       "know": 5,
       "conj": 4,
       "last": "lesson-07",
@@ -107,6 +122,7 @@
     },
     {
       "english": "Toothache",
+      "hebrew": "כְּאֵב שִׁינַּיִם",
       "know": 5,
       "conj": 2,
       "last": "lesson-03",
@@ -114,6 +130,7 @@
     },
     {
       "english": "Medicine",
+      "hebrew": "תְּרוּפָה",
       "know": 3,
       "conj": 4,
       "last": "lesson-07",
@@ -121,6 +138,7 @@
     },
     {
       "english": "Nurse",
+      "hebrew": "אָחוֹת",
       "know": 5,
       "conj": 5,
       "last": "lesson-03",
@@ -128,6 +146,7 @@
     },
     {
       "english": "Doctor",
+      "hebrew": "רוֹפֵא",
       "know": 4,
       "conj": 5,
       "last": "lesson-10",
@@ -135,6 +154,7 @@
     },
     {
       "english": "Hospital",
+      "hebrew": "בֵּית חוֹלִים",
       "know": 5,
       "conj": 5,
       "last": "lesson-09",
@@ -142,6 +162,7 @@
     },
     {
       "english": "Strain",
+      "hebrew": "מְתִיחָה",
       "know": 2,
       "conj": 3,
       "last": "lesson-13",
@@ -149,6 +170,7 @@
     },
     {
       "english": "Bank",
+      "hebrew": "בַּנְק",
       "know": 5,
       "conj": 4,
       "last": "lesson-09",
@@ -156,6 +178,7 @@
     },
     {
       "english": "Account",
+      "hebrew": "חֶשְׁבּוֹן",
       "know": 5,
       "conj": 3,
       "last": "lesson-05",
@@ -163,6 +186,7 @@
     },
     {
       "english": "Card",
+      "hebrew": "כַּרְטִיס",
       "know": 5,
       "conj": 5,
       "last": "lesson-08",
@@ -170,6 +194,7 @@
     },
     {
       "english": "Cash",
+      "hebrew": "מְזוּמָן",
       "know": 5,
       "conj": 3,
       "last": "lesson-08",
@@ -177,6 +202,7 @@
     },
     {
       "english": "Balance",
+      "hebrew": "יִתְרָה",
       "know": 4,
       "conj": 4,
       "last": "lesson-10",
@@ -184,6 +210,7 @@
     },
     {
       "english": "Transfer",
+      "hebrew": "הַעֲבָרָה",
       "know": 3,
       "conj": 3,
       "last": "lesson-07",
@@ -191,6 +218,7 @@
     },
     {
       "english": "Loan",
+      "hebrew": "הַלְוָאָה",
       "know": 3,
       "conj": 3,
       "last": "lesson-10",
@@ -198,6 +226,7 @@
     },
     {
       "english": "Payment",
+      "hebrew": "תַּשְׁלוּם",
       "know": 5,
       "conj": 4,
       "last": "lesson-04",
@@ -205,6 +234,7 @@
     },
     {
       "english": "Signature",
+      "hebrew": "חֲתִימָה",
       "know": 3,
       "conj": 4,
       "last": "lesson-11",
@@ -212,6 +242,7 @@
     },
     {
       "english": "Passport",
+      "hebrew": "דַּרְכּוֹן",
       "know": 5,
       "conj": 5,
       "last": "lesson-05",
@@ -219,6 +250,7 @@
     },
     {
       "english": "ATM",
+      "hebrew": "כַּסְפּוֹמַט",
       "know": 5,
       "conj": 2,
       "last": "lesson-07",
@@ -226,6 +258,7 @@
     },
     {
       "english": "Receipt",
+      "hebrew": "קַבָּלָה",
       "know": 4,
       "conj": 3,
       "last": "lesson-12",
@@ -233,6 +266,7 @@
     },
     {
       "english": "Savings",
+      "hebrew": "חִסָּכוֹן",
       "know": 3,
       "conj": 3,
       "last": "lesson-10",
@@ -240,6 +274,7 @@
     },
     {
       "english": "Check",
+      "hebrew": "שֵׁק",
       "know": 4,
       "conj": 5,
       "last": "lesson-05",
@@ -247,6 +282,7 @@
     },
     {
       "english": "Banknote",
+      "hebrew": "שְׁטָר",
       "know": 3,
       "conj": 4,
       "last": "lesson-05",
@@ -254,6 +290,7 @@
     },
     {
       "english": "PIN",
+      "hebrew": "קוֹד סוֹד",
       "know": 5,
       "conj": 5,
       "last": "lesson-08",
@@ -261,6 +298,7 @@
     },
     {
       "english": "Exchange",
+      "hebrew": "הַמָּרָה",
       "know": 2,
       "conj": 4,
       "last": "lesson-11",
@@ -268,6 +306,7 @@
     },
     {
       "english": "Deposit",
+      "hebrew": "הַפְקָדָה",
       "know": 3,
       "conj": 4,
       "last": "lesson-10",
@@ -275,6 +314,7 @@
     },
     {
       "english": "Withdraw",
+      "hebrew": "מְשִׁיכָה",
       "know": 4,
       "conj": 4,
       "last": "lesson-07",
@@ -282,6 +322,7 @@
     },
     {
       "english": "Taxi",
+      "hebrew": "מוֹנִית",
       "know": 4,
       "conj": 3,
       "last": "lesson-10",
@@ -289,6 +330,7 @@
     },
     {
       "english": "Driver",
+      "hebrew": "נַהָג",
       "know": 5,
       "conj": 4,
       "last": "lesson-06",
@@ -296,6 +338,7 @@
     },
     {
       "english": "Ride",
+      "hebrew": "נְסִיעָה",
       "know": 4,
       "conj": 4,
       "last": "lesson-06",
@@ -303,6 +346,7 @@
     },
     {
       "english": "Address",
+      "hebrew": "כְּתֹבֶת",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -310,6 +354,7 @@
     },
     {
       "english": "Street",
+      "hebrew": "רְחוֹב",
       "know": 5,
       "conj": 4,
       "last": "lesson-11",
@@ -317,6 +362,7 @@
     },
     {
       "english": "Hotel",
+      "hebrew": "מָלוֹן",
       "know": 5,
       "conj": 5,
       "last": "lesson-06",
@@ -324,6 +370,7 @@
     },
     {
       "english": "Airport",
+      "hebrew": "נְמַל תְּעוּפָה",
       "know": 4,
       "conj": 4,
       "last": "lesson-07",
@@ -331,6 +378,7 @@
     },
     {
       "english": "Traffic",
+      "hebrew": "פְּקַק",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -338,6 +386,7 @@
     },
     {
       "english": "Change",
+      "hebrew": "עֹדֶף",
       "know": 2,
       "conj": 4,
       "last": "lesson-10",
@@ -345,6 +394,7 @@
     },
     {
       "english": "Hammer",
+      "hebrew": "פַּטִּישׁ",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -352,6 +402,7 @@
     },
     {
       "english": "Screw",
+      "hebrew": "בֹּרֶג",
       "know": 4,
       "conj": 4,
       "last": "lesson-09",
@@ -359,6 +410,7 @@
     },
     {
       "english": "Nail",
+      "hebrew": "מַסְמֵר",
       "know": 2,
       "conj": 3,
       "last": "lesson-09",
@@ -366,6 +418,7 @@
     },
     {
       "english": "Drill",
+      "hebrew": "מַקְדֵּחָה",
       "know": 2,
       "conj": 3,
       "last": "lesson-09",
@@ -373,6 +426,7 @@
     },
     {
       "english": "Paint",
+      "hebrew": "צֶבַע",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -380,6 +434,7 @@
     },
     {
       "english": "Ladder",
+      "hebrew": "סֻלָּם",
       "know": 3,
       "conj": 4,
       "last": "lesson-09",
@@ -387,6 +442,7 @@
     },
     {
       "english": "Tape",
+      "hebrew": "סֶרֶט",
       "know": 4,
       "conj": 4,
       "last": "lesson-09",
@@ -394,6 +450,7 @@
     },
     {
       "english": "Brush",
+      "hebrew": "מִכְחוֹל",
       "know": 5,
       "conj": 5,
       "last": "lesson-09",
@@ -401,6 +458,7 @@
     },
     {
       "english": "Tool",
+      "hebrew": "כְּלִי",
       "know": 4,
       "conj": 5,
       "last": "lesson-09",
@@ -408,6 +466,7 @@
     },
     {
       "english": "Battery",
+      "hebrew": "סוֹלְלָה",
       "know": 5,
       "conj": 5,
       "last": "lesson-09",
@@ -415,6 +474,7 @@
     },
     {
       "english": "Wrench",
+      "hebrew": "מַפְתֵּחַ",
       "know": 3,
       "conj": 5,
       "last": "lesson-09",
@@ -422,6 +482,7 @@
     },
     {
       "english": "Saw",
+      "hebrew": "מַסּוֹר",
       "know": 1,
       "conj": 3,
       "last": "lesson-09",
@@ -429,6 +490,7 @@
     },
     {
       "english": "Pliers",
+      "hebrew": "צְבָת",
       "know": 5,
       "conj": 5,
       "last": "lesson-09",
@@ -436,6 +498,7 @@
     },
     {
       "english": "Wood",
+      "hebrew": "עֵץ",
       "know": 5,
       "conj": 5,
       "last": "lesson-09",
@@ -443,6 +506,7 @@
     },
     {
       "english": "Glue",
+      "hebrew": "דֶּבֶק",
       "know": 4,
       "conj": 3,
       "last": "lesson-09",
@@ -450,6 +514,7 @@
     },
     {
       "english": "Shelf",
+      "hebrew": "מַדָּף",
       "know": 4,
       "conj": 3,
       "last": "lesson-12",
@@ -457,6 +522,7 @@
     },
     {
       "english": "Box",
+      "hebrew": "קֻפְסָה",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -464,6 +530,7 @@
     },
     {
       "english": "Plank",
+      "hebrew": "קֶרֶשׁ",
       "know": 2,
       "conj": 4,
       "last": "lesson-10",
@@ -471,6 +538,7 @@
     },
     {
       "english": "Menu",
+      "hebrew": "תַּפְרִיט",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -478,6 +546,7 @@
     },
     {
       "english": "Sandwich",
+      "hebrew": "כָּרִיךְ",
       "know": 5,
       "conj": 4,
       "last": "lesson-10",
@@ -485,6 +554,7 @@
     },
     {
       "english": "Soup",
+      "hebrew": "מָרַק",
       "know": 5,
       "conj": 4,
       "last": "lesson-10",
@@ -492,6 +562,7 @@
     },
     {
       "english": "Salad",
+      "hebrew": "סָלַט",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -499,6 +570,7 @@
     },
     {
       "english": "Cake",
+      "hebrew": "עוּגָה",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -506,6 +578,7 @@
     },
     {
       "english": "Espresso",
+      "hebrew": "אֶסְפְּרֶסּוֹ",
       "know": 5,
       "conj": 2,
       "last": "lesson-10",
@@ -513,6 +586,7 @@
     },
     {
       "english": "Cappuccino",
+      "hebrew": "קַפּוּצִ'ינוֹ",
       "know": 4,
       "conj": 2,
       "last": "lesson-10",
@@ -520,6 +594,7 @@
     },
     {
       "english": "Decaf",
+      "hebrew": "נְטוּל קָפֵאִין",
       "know": 3,
       "conj": 4,
       "last": "lesson-10",
@@ -527,6 +602,7 @@
     },
     {
       "english": "Milk",
+      "hebrew": "חָלָב",
       "know": 4,
       "conj": 5,
       "last": "lesson-10",
@@ -534,6 +610,7 @@
     },
     {
       "english": "Sugar",
+      "hebrew": "סֻכָּר",
       "know": 5,
       "conj": 4,
       "last": "lesson-10",
@@ -541,6 +618,7 @@
     },
     {
       "english": "Waiter",
+      "hebrew": "מֶלְצַר",
       "know": 4,
       "conj": 4,
       "last": "lesson-10",
@@ -548,6 +626,7 @@
     },
     {
       "english": "Table",
+      "hebrew": "שֻׁלְחָן",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -555,6 +634,7 @@
     },
     {
       "english": "Bill",
+      "hebrew": "חֶשְׁבּוֹן",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -562,6 +642,7 @@
     },
     {
       "english": "Tip",
+      "hebrew": "טִיפּ",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -569,6 +650,7 @@
     },
     {
       "english": "Reservation",
+      "hebrew": "הַזְמָנָה",
       "know": 3,
       "conj": 4,
       "last": "lesson-10",
@@ -576,6 +658,7 @@
     },
     {
       "english": "Building",
+      "hebrew": "בִּנְיָן",
       "know": 5,
       "conj": 5,
       "last": "lesson-12",
@@ -583,6 +666,7 @@
     },
     {
       "english": "Traffic light",
+      "hebrew": "רַמְזוֹר",
       "know": 4,
       "conj": 3,
       "last": "lesson-12",
@@ -590,6 +674,7 @@
     },
     {
       "english": "Crosswalk",
+      "hebrew": "מַעֲבַר חֲצִיָּה",
       "know": 2,
       "conj": 3,
       "last": "lesson-12",
@@ -597,6 +682,7 @@
     },
     {
       "english": "Corner",
+      "hebrew": "פִּנָּה",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -604,6 +690,7 @@
     },
     {
       "english": "Park",
+      "hebrew": "גַּן",
       "know": 3,
       "conj": 3,
       "last": "lesson-12",
@@ -611,6 +698,7 @@
     },
     {
       "english": "Bridge",
+      "hebrew": "גֶּשֶׁר",
       "know": 3,
       "conj": 3,
       "last": "lesson-11",
@@ -618,6 +706,7 @@
     },
     {
       "english": "Bus",
+      "hebrew": "אוֹטוֹבּוּס",
       "know": 5,
       "conj": 4,
       "last": "lesson-12",
@@ -625,6 +714,7 @@
     },
     {
       "english": "Bicycle",
+      "hebrew": "אוֹפַנַּיִם",
       "know": 4,
       "conj": 5,
       "last": "lesson-12",
@@ -632,6 +722,7 @@
     },
     {
       "english": "Pedestrian",
+      "hebrew": "הוֹלֵךְ רֶגֶל",
       "know": 4,
       "conj": 5,
       "last": "lesson-11",
@@ -639,6 +730,7 @@
     },
     {
       "english": "Store",
+      "hebrew": "חֲנוּת",
       "know": 4,
       "conj": 5,
       "last": "lesson-12",
@@ -646,6 +738,7 @@
     },
     {
       "english": "Car",
+      "hebrew": "מְכוֹנִית",
       "know": 5,
       "conj": 4,
       "last": "lesson-12",
@@ -653,6 +746,7 @@
     },
     {
       "english": "Road",
+      "hebrew": "כְּבִישׁ",
       "know": 4,
       "conj": 5,
       "last": "lesson-12",
@@ -660,6 +754,7 @@
     },
     {
       "english": "Truck",
+      "hebrew": "מַשָּׂאִית",
       "know": 3,
       "conj": 3,
       "last": "lesson-12",
@@ -667,6 +762,7 @@
     },
     {
       "english": "Fence",
+      "hebrew": "גָּדֵר",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -674,6 +770,7 @@
     },
     {
       "english": "Bench",
+      "hebrew": "סַפְסָל",
       "know": 3,
       "conj": 4,
       "last": "lesson-12",
@@ -681,6 +778,7 @@
     },
     {
       "english": "Tree",
+      "hebrew": "עֵץ",
       "know": 5,
       "conj": 5,
       "last": "lesson-12",
@@ -688,6 +786,7 @@
     },
     {
       "english": "Dog",
+      "hebrew": "כֶּלֶב",
       "know": 5,
       "conj": 5,
       "last": "lesson-12",
@@ -695,6 +794,7 @@
     },
     {
       "english": "Turn",
+      "hebrew": "פְּנִיָּה",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -702,6 +802,7 @@
     },
     {
       "english": "Sign (traffic)",
+      "hebrew": "תַּמְרוּר",
       "know": 2,
       "conj": 3,
       "last": "lesson-11",
@@ -709,6 +810,7 @@
     },
     {
       "english": "Gym",
+      "hebrew": "חֶדֶר כּוֹשֶׁר",
       "know": 5,
       "conj": 5,
       "last": "lesson-13",
@@ -716,6 +818,7 @@
     },
     {
       "english": "Weights",
+      "hebrew": "מִשְׁקֹלוֹת",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -723,6 +826,7 @@
     },
     {
       "english": "Towel",
+      "hebrew": "מַגֶּבֶת",
       "know": 3,
       "conj": 5,
       "last": "lesson-13",
@@ -730,6 +834,7 @@
     },
     {
       "english": "Locker",
+      "hebrew": "לוֹקֶר",
       "know": 5,
       "conj": 5,
       "last": "lesson-13",
@@ -737,6 +842,7 @@
     },
     {
       "english": "Bottle",
+      "hebrew": "בַּקְבּוּק",
       "know": 5,
       "conj": 4,
       "last": "lesson-13",
@@ -744,6 +850,7 @@
     },
     {
       "english": "Membership",
+      "hebrew": "מֶנוּי",
       "know": 4,
       "conj": 3,
       "last": "lesson-13",
@@ -751,6 +858,7 @@
     },
     {
       "english": "Treadmill",
+      "hebrew": "הֲלִיכוֹן",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -758,6 +866,7 @@
     },
     {
       "english": "Trainer",
+      "hebrew": "מְאַמֵּן",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -765,6 +874,7 @@
     },
     {
       "english": "Muscle",
+      "hebrew": "שְׁרִיר",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -772,6 +882,7 @@
     },
     {
       "english": "Training session",
+      "hebrew": "אִימּוּן",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -779,6 +890,7 @@
     },
     {
       "english": "Warm-up",
+      "hebrew": "חִמּוּם",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -786,6 +898,7 @@
     },
     {
       "english": "Exercise",
+      "hebrew": "תַּרְגִּיל",
       "know": 2,
       "conj": 4,
       "last": "lesson-13",
@@ -793,6 +906,7 @@
     },
     {
       "english": "Stretch",
+      "hebrew": "מְתִיחָה",
       "know": 2,
       "conj": 4,
       "last": "lesson-13",
@@ -800,6 +914,7 @@
     },
     {
       "english": "Ice rink",
+      "hebrew": "קַרְחִיָּה",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -807,6 +922,7 @@
     },
     {
       "english": "Ice skates",
+      "hebrew": "מִגְלָשַׁיִם",
       "know": 4,
       "conj": 4,
       "last": "lesson-13",
@@ -814,6 +930,7 @@
     },
     {
       "english": "Price",
+      "hebrew": "מְחִיר",
       "know": 3,
       "conj": 5,
       "last": "lesson-13",
@@ -821,6 +938,7 @@
     },
     {
       "english": "Changing room",
+      "hebrew": "חֶדֶר הַלְבָּשָׁה",
       "know": 2,
       "conj": 5,
       "last": "lesson-13",
@@ -830,6 +948,7 @@
   "verbs": [
     {
       "english": "To feel (sick)",
+      "hebrew": "לְהַרְגִּישׁ",
       "know": 4,
       "conj": 4,
       "last": "lesson-03",
@@ -837,6 +956,7 @@
     },
     {
       "english": "To hurt",
+      "hebrew": "לִכְאֹב",
       "know": 5,
       "conj": 4,
       "last": "lesson-13",
@@ -844,6 +964,7 @@
     },
     {
       "english": "To check",
+      "hebrew": "לִבְדֹּק",
       "know": 5,
       "conj": 5,
       "last": "lesson-02",
@@ -851,6 +972,7 @@
     },
     {
       "english": "To take (medicine)",
+      "hebrew": "לָקַחַת",
       "know": 3,
       "conj": 4,
       "last": "lesson-03",
@@ -858,6 +980,7 @@
     },
     {
       "english": "To cough",
+      "hebrew": "לִשְׁעוֹל",
       "know": 2,
       "conj": 3,
       "last": "lesson-11",
@@ -865,6 +988,7 @@
     },
     {
       "english": "To swallow",
+      "hebrew": "לִבְלֹעַ",
       "know": 1,
       "conj": 2,
       "last": "lesson-03",
@@ -872,6 +996,7 @@
     },
     {
       "english": "To deposit",
+      "hebrew": "לְהַפְקִיד",
       "know": 3,
       "conj": 4,
       "last": "lesson-10",
@@ -879,6 +1004,7 @@
     },
     {
       "english": "To withdraw",
+      "hebrew": "לִמְשֹׁךְ",
       "know": 4,
       "conj": 4,
       "last": "lesson-07",
@@ -886,6 +1012,7 @@
     },
     {
       "english": "To transfer",
+      "hebrew": "לְהַעֲבִיר",
       "know": 4,
       "conj": 3,
       "last": "lesson-07",
@@ -893,6 +1020,7 @@
     },
     {
       "english": "To sign",
+      "hebrew": "לַחְתֹּם",
       "know": 3,
       "conj": 4,
       "last": "lesson-05",
@@ -900,6 +1028,7 @@
     },
     {
       "english": "To exchange",
+      "hebrew": "לְהַחְלִיף",
       "know": 2,
       "conj": 4,
       "last": "lesson-11",
@@ -907,6 +1036,7 @@
     },
     {
       "english": "To pay",
+      "hebrew": "לְשַׁלֵּם",
       "know": 5,
       "conj": 5,
       "last": "lesson-13",
@@ -914,6 +1044,7 @@
     },
     {
       "english": "To stop (halt/stop moving)",
+      "hebrew": "לַעֲצֹר",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -921,6 +1052,7 @@
     },
     {
       "english": "To drive",
+      "hebrew": "לִנְהֹג",
       "know": 5,
       "conj": 5,
       "last": "lesson-06",
@@ -928,6 +1060,7 @@
     },
     {
       "english": "To fix",
+      "hebrew": "לְתַקֵּן",
       "know": 4,
       "conj": 5,
       "last": "lesson-08",
@@ -935,6 +1068,7 @@
     },
     {
       "english": "To build",
+      "hebrew": "לִבְנוֹת",
       "know": 4,
       "conj": 4,
       "last": "lesson-08",
@@ -942,6 +1076,7 @@
     },
     {
       "english": "To carry",
+      "hebrew": "לִשְׂאֵת",
       "know": 3,
       "conj": 5,
       "last": "lesson-13",
@@ -949,6 +1084,7 @@
     },
     {
       "english": "To paint",
+      "hebrew": "לִצְבֹּעַ",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -956,6 +1092,7 @@
     },
     {
       "english": "To clean",
+      "hebrew": "לְנַקּוֹת",
       "know": 4,
       "conj": 5,
       "last": "lesson-08",
@@ -963,6 +1100,7 @@
     },
     {
       "english": "To hold",
+      "hebrew": "לְהַחְזִיק",
       "know": 2,
       "conj": 4,
       "last": "lesson-09",
@@ -970,6 +1108,7 @@
     },
     {
       "english": "To cut",
+      "hebrew": "לַחְתֹּךְ",
       "know": 4,
       "conj": 4,
       "last": "lesson-09",
@@ -977,6 +1116,7 @@
     },
     {
       "english": "To order",
+      "hebrew": "לְהַזְמִין",
       "know": 4,
       "conj": 4,
       "last": "lesson-10",
@@ -984,6 +1124,7 @@
     },
     {
       "english": "To serve",
+      "hebrew": "לְשָׁרֵת",
       "know": 2,
       "conj": 4,
       "last": "lesson-10",
@@ -991,6 +1132,7 @@
     },
     {
       "english": "To recommend",
+      "hebrew": "לְהַמְלִיץ",
       "know": 3,
       "conj": 4,
       "last": "lesson-10",
@@ -998,6 +1140,7 @@
     },
     {
       "english": "To share",
+      "hebrew": "לַחֲלֹק",
       "know": 2,
       "conj": 5,
       "last": "lesson-10",
@@ -1005,6 +1148,7 @@
     },
     {
       "english": "To turn",
+      "hebrew": "לִפְנוֹת",
       "know": 4,
       "conj": 4,
       "last": "lesson-12",
@@ -1012,6 +1156,7 @@
     },
     {
       "english": "To wait",
+      "hebrew": "לְהַמְתִּין",
       "know": 4,
       "conj": 4,
       "last": "lesson-13",
@@ -1019,6 +1164,7 @@
     },
     {
       "english": "To notice",
+      "hebrew": "לְהַבְחִין",
       "know": 3,
       "conj": 4,
       "last": "lesson-11",
@@ -1026,6 +1172,7 @@
     },
     {
       "english": "To train",
+      "hebrew": "לְהִתְאַמֵּן",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -1033,6 +1180,7 @@
     },
     {
       "english": "To run",
+      "hebrew": "לָרוּץ",
       "know": 5,
       "conj": 4,
       "last": "lesson-13",
@@ -1040,6 +1188,7 @@
     },
     {
       "english": "To lift",
+      "hebrew": "לְהָרִים",
       "know": 2,
       "conj": 4,
       "last": "lesson-13",
@@ -1047,6 +1196,7 @@
     },
     {
       "english": "To rest",
+      "hebrew": "לָנוּחַ",
       "know": 4,
       "conj": 3,
       "last": "lesson-13",
@@ -1054,6 +1204,7 @@
     },
     {
       "english": "To skate",
+      "hebrew": "לְהַחְלִיק",
       "know": 4,
       "conj": 4,
       "last": "lesson-13",
@@ -1061,6 +1212,7 @@
     },
     {
       "english": "To renew",
+      "hebrew": "לְחַדֵּשׁ",
       "know": 4,
       "conj": 5,
       "last": "lesson-13",
@@ -1068,6 +1220,7 @@
     },
     {
       "english": "To stop doing",
+      "hebrew": "לְהַפְסִיק",
       "know": 3,
       "conj": 5,
       "last": "lesson-13",
@@ -1075,6 +1228,7 @@
     },
     {
       "english": "To agree",
+      "hebrew": "לְהַסְכִּים",
       "know": 3,
       "conj": 4,
       "last": "lesson-13",
@@ -1084,6 +1238,7 @@
   "adjectives": [
     {
       "english": "Fast",
+      "hebrew": "מָהִיר",
       "know": 4,
       "conj": 3,
       "last": "lesson-06",
@@ -1091,6 +1246,7 @@
     },
     {
       "english": "Slow",
+      "hebrew": "אִטִּי",
       "know": 4,
       "conj": 3,
       "last": "lesson-06",
@@ -1098,6 +1254,7 @@
     },
     {
       "english": "Tired",
+      "hebrew": "עָיֵף",
       "know": 5,
       "conj": 5,
       "last": "lesson-13",
@@ -1105,6 +1262,7 @@
     },
     {
       "english": "Heavy",
+      "hebrew": "כָּבֵד",
       "know": 5,
       "conj": 4,
       "last": "lesson-13",
@@ -1112,6 +1270,7 @@
     },
     {
       "english": "Strong",
+      "hebrew": "חָזָק",
       "know": 5,
       "conj": 4,
       "last": "lesson-13",
@@ -1119,6 +1278,7 @@
     },
     {
       "english": "For both of us",
+      "hebrew": "לִשְׁנֵינוּ",
       "know": 4,
       "conj": 5,
       "last": "lesson-13",
