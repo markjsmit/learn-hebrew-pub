@@ -2978,7 +2978,7 @@
               {
                 "speaker": "Heli",
                 "text": "I think so.",
-                "turn": "teacher"
+                "turn": "student"
               },
               {
                 "speaker": "Mark",
@@ -3011,7 +3011,7 @@
               {
                 "speaker": "Heli",
                 "text": "Does the soup come with salad?",
-                "turn": "teacher"
+                "turn": "student"
               }
             ]
           },
@@ -3039,7 +3039,7 @@
               {
                 "speaker": "Heli",
                 "text": "I'd like a decaf cappuccino with soy milk please.",
-                "turn": "teacher"
+                "turn": "student"
               }
             ]
           },
@@ -3081,7 +3081,7 @@
               {
                 "speaker": "Heli",
                 "text": "Thank you.",
-                "turn": "teacher"
+                "turn": "student"
               },
               {
                 "speaker": "Waiter",
@@ -3217,7 +3217,7 @@
               {
                 "speaker": "Heli",
                 "text": "Thank you!",
-                "turn": "teacher"
+                "turn": "student"
               }
             ]
           }
@@ -4060,7 +4060,7 @@
               {
                 "speaker": "Heli",
                 "text": "Yes. We'd like to renew our membership.",
-                "turn": "teacher"
+                "turn": "student"
               }
             ]
           },
@@ -4102,7 +4102,7 @@
               {
                 "speaker": "Heli",
                 "text": "Three months, please. Is the price the same as before?",
-                "turn": "teacher"
+                "turn": "student"
               }
             ]
           },
@@ -4144,7 +4144,7 @@
               {
                 "speaker": "Heli",
                 "text": "Is that the locker that's near the changing rooms?",
-                "turn": "teacher"
+                "turn": "student"
               }
             ]
           },
