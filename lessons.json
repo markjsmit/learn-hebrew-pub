@@ -1,6 +1,6 @@
 [
   {
-    "id": "lesson-01-health-basic",
+    "id": "lesson-001-health-basic",
     "number": 1,
     "title": "First Doctor Visit",
     "subject": "Health",
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "id": "lesson-02-health-body-parts",
+    "id": "lesson-002-health-body-parts",
     "number": 2,
     "title": "Body Parts and Symptoms",
     "subject": "Health",
@@ -397,7 +397,7 @@
     ]
   },
   {
-    "id": "lesson-03-health-stories",
+    "id": "lesson-003-health-stories",
     "number": 3,
     "title": "Explaining How It Started",
     "subject": "Health",
@@ -669,7 +669,7 @@
     ]
   },
   {
-    "id": "lesson-04-bank-basic",
+    "id": "lesson-004-bank-basic",
     "number": 4,
     "title": "Opening an Account and Withdrawing",
     "subject": "Bank",
@@ -897,7 +897,7 @@
     ]
   },
   {
-    "id": "lesson-05-bank-advanced",
+    "id": "lesson-005-bank-advanced",
     "number": 5,
     "title": "Transfers, Loans, and Currency Exchange",
     "subject": "Bank",
@@ -1109,7 +1109,7 @@
     ]
   },
   {
-    "id": "lesson-06-taxi",
+    "id": "lesson-006-taxi",
     "number": 6,
     "title": "Getting to Your Destination",
     "subject": "Taxi",
@@ -1318,7 +1318,7 @@
     ]
   },
   {
-    "id": "lesson-07-review-long-day",
+    "id": "lesson-007-review-long-day",
     "number": 7,
     "title": "A Very Long Day",
     "subject": "Review",
@@ -1660,7 +1660,7 @@
     ]
   },
   {
-    "id": "lesson-08-hardware-store-shopping",
+    "id": "lesson-008-hardware-store-shopping",
     "number": 8,
     "title": "Shopping for Supplies",
     "subject": "Hardware Store",
@@ -1943,7 +1943,7 @@
     ]
   },
   {
-    "id": "lesson-09-hardware-store-building",
+    "id": "lesson-009-hardware-store-building",
     "number": 9,
     "title": "Building a Shelf at Home",
     "subject": "Hardware Store",
@@ -2404,7 +2404,7 @@
     ]
   },
   {
-    "id": "lesson-10-restaurant",
+    "id": "lesson-010-restaurant",
     "number": 10,
     "title": "Breakfast with Wife and a Waiter",
     "subject": "Restaurant",
@@ -2843,7 +2843,7 @@
     ]
   },
   {
-    "id": "lesson-11-street-driving-1",
+    "id": "lesson-011-street-driving-1",
     "number": 11,
     "title": "Driving Through the City (Part 1)",
     "subject": "Street & City",
@@ -3182,7 +3182,7 @@
     ]
   },
   {
-    "id": "lesson-12-street-driving-2",
+    "id": "lesson-012-street-driving-2",
     "number": 12,
     "title": "Driving Through the City (Part 2)",
     "subject": "Street & City",
@@ -3509,7 +3509,7 @@
     ]
   },
   {
-    "id": "lesson-13-gym-workout",
+    "id": "lesson-013-gym-workout",
     "number": 13,
     "title": "A Day at the Gym",
     "subject": "Gym & Sport",
