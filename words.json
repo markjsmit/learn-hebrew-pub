@@ -163,6 +163,7 @@
     {
       "english": "Strain",
       "hebrew": "מְתִיחָה",
+      "contextual": "מְתִיחַת שְׁרִיר (muscle strain — same word as Stretch in Gym)",
       "know": 2,
       "conj": 3,
       "last": "lesson-13",
@@ -179,6 +180,7 @@
     {
       "english": "Account",
       "hebrew": "חֶשְׁבּוֹן",
+      "contextual": "חֶשְׁבּוֹן בַּנְק (bank account — same word as Bill in Food & Dining)",
       "know": 5,
       "conj": 3,
       "last": "lesson-05",
@@ -299,6 +301,7 @@
     {
       "english": "Exchange",
       "hebrew": "הַמָּרָה",
+      "contextual": "הַמָּרַת מַטְבֵּעַ (currency exchange)",
       "know": 2,
       "conj": 4,
       "last": "lesson-11",
@@ -387,6 +390,7 @@
     {
       "english": "Change",
       "hebrew": "עֹדֶף",
+      "contextual": "עֹדֶף (change from payment — not the same as currency exchange הַמָּרָה)",
       "know": 2,
       "conj": 4,
       "last": "lesson-10",
@@ -443,6 +447,7 @@
     {
       "english": "Tape",
       "hebrew": "סֶרֶט",
+      "contextual": "סֶרֶט הֲדְבָּקָה (painter's tape / adhesive tape)",
       "know": 4,
       "conj": 4,
       "last": "lesson-09",
@@ -475,6 +480,7 @@
     {
       "english": "Wrench",
       "hebrew": "מַפְתֵּחַ",
+      "contextual": "מַפְתֵּחַ אֲנְגְלִי (wrench — lit. \"English key\")",
       "know": 3,
       "conj": 5,
       "last": "lesson-09",
@@ -499,6 +505,7 @@
     {
       "english": "Wood",
       "hebrew": "עֵץ",
+      "contextual": "עֵץ (material — same word as Tree in Street & City)",
       "know": 5,
       "conj": 5,
       "last": "lesson-09",
@@ -635,6 +642,7 @@
     {
       "english": "Bill",
       "hebrew": "חֶשְׁבּוֹן",
+      "contextual": "חֶשְׁבּוֹן (restaurant bill — same word as Account in Bank & Finance)",
       "know": 5,
       "conj": 5,
       "last": "lesson-10",
@@ -779,6 +787,7 @@
     {
       "english": "Tree",
       "hebrew": "עֵץ",
+      "contextual": "עֵץ (living tree — same word as Wood in Home & Tools)",
       "know": 5,
       "conj": 5,
       "last": "lesson-12",
@@ -907,6 +916,7 @@
     {
       "english": "Stretch",
       "hebrew": "מְתִיחָה",
+      "contextual": "מְתִיחוֹת (stretches — same word as Strain in Health & Body)",
       "know": 2,
       "conj": 4,
       "last": "lesson-13",
@@ -1029,6 +1039,7 @@
     {
       "english": "To exchange",
       "hebrew": "לְהַחְלִיף",
+      "contextual": "לְהַחְלִיף מַטְבֵּעַ (to exchange currency)",
       "know": 2,
       "conj": 4,
       "last": "lesson-11",
@@ -1043,7 +1054,7 @@
       "subject": "Bank & Finance"
     },
     {
-      "english": "To stop (halt/stop moving)",
+      "english": "To stop moving",
       "hebrew": "לַעֲצֹר",
       "know": 3,
       "conj": 4,
@@ -1189,6 +1200,7 @@
     {
       "english": "To lift",
       "hebrew": "לְהָרִים",
+      "contextual": "לְהָרִים מִשְׁקֹלוֹת (to lift weights — general לְהָרִים means lifting any object)",
       "know": 2,
       "conj": 4,
       "last": "lesson-13",
@@ -1213,6 +1225,7 @@
     {
       "english": "To renew",
       "hebrew": "לְחַדֵּשׁ",
+      "contextual": "לְחַדֵּשׁ מֶנוּי (to renew a membership)",
       "know": 4,
       "conj": 5,
       "last": "lesson-13",
