@@ -1,0 +1,1128 @@
+{
+  "nouns": [
+    {
+      "english": "Head",
+      "know": 5,
+      "conj": 3,
+      "last": "lesson-02",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Stomach",
+      "know": 5,
+      "conj": 3,
+      "last": "lesson-07",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Back",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Throat",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-10",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Chest",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Arm",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Leg",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Hand",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Eye",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Ear",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Pain",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Fever",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-07",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Cough",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-11",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Cold",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-11",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Headache",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-07",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Toothache",
+      "know": 5,
+      "conj": 2,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Medicine",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-07",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Nurse",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Doctor",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Hospital",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Strain",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-13",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Bank",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-09",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Account",
+      "know": 5,
+      "conj": 3,
+      "last": "lesson-05",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Card",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-08",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Cash",
+      "know": 5,
+      "conj": 3,
+      "last": "lesson-08",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Balance",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Transfer",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-07",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Loan",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-10",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Payment",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-04",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Signature",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-11",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Passport",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-05",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "ATM",
+      "know": 5,
+      "conj": 2,
+      "last": "lesson-07",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Receipt",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-12",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Savings",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-10",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Check",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-05",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Banknote",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-05",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "PIN",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-08",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Exchange",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-11",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Deposit",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Withdraw",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-07",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "Taxi",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-10",
+      "subject": "Transport"
+    },
+    {
+      "english": "Driver",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-06",
+      "subject": "Transport"
+    },
+    {
+      "english": "Ride",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-06",
+      "subject": "Transport"
+    },
+    {
+      "english": "Address",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Transport"
+    },
+    {
+      "english": "Street",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-11",
+      "subject": "Transport"
+    },
+    {
+      "english": "Hotel",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-06",
+      "subject": "Transport"
+    },
+    {
+      "english": "Airport",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-07",
+      "subject": "Transport"
+    },
+    {
+      "english": "Traffic",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Transport"
+    },
+    {
+      "english": "Change",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Transport"
+    },
+    {
+      "english": "Hammer",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Screw",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Nail",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Drill",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Paint",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Ladder",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Tape",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Brush",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Tool",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Battery",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Wrench",
+      "know": 3,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Saw",
+      "know": 1,
+      "conj": 3,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Pliers",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Wood",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Glue",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Shelf",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-12",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Box",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Plank",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "Menu",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Sandwich",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Soup",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Salad",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Cake",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Espresso",
+      "know": 5,
+      "conj": 2,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Cappuccino",
+      "know": 4,
+      "conj": 2,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Decaf",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Milk",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Sugar",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Waiter",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Table",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Bill",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Tip",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Reservation",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "Building",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Traffic light",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Crosswalk",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Corner",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Park",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Bridge",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-11",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Bus",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Bicycle",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Pedestrian",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-11",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Store",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Car",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Road",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Truck",
+      "know": 3,
+      "conj": 3,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Fence",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Bench",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Tree",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Dog",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Turn",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Sign (traffic)",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-11",
+      "subject": "Street & City"
+    },
+    {
+      "english": "Gym",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Weights",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Towel",
+      "know": 3,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Locker",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Bottle",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Membership",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Treadmill",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Trainer",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Muscle",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Training session",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Warm-up",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Exercise",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Stretch",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Ice rink",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Ice skates",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Price",
+      "know": 3,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Changing room",
+      "know": 2,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    }
+  ],
+  "verbs": [
+    {
+      "english": "To feel (sick)",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To hurt",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To check",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-02",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To take (medicine)",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To cough",
+      "know": 2,
+      "conj": 3,
+      "last": "lesson-11",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To swallow",
+      "know": 1,
+      "conj": 2,
+      "last": "lesson-03",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To deposit",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "To withdraw",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-07",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "To transfer",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-07",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "To sign",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-05",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "To exchange",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-11",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "To pay",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Bank & Finance"
+    },
+    {
+      "english": "To stop (halt/stop moving)",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Transport"
+    },
+    {
+      "english": "To drive",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-06",
+      "subject": "Transport"
+    },
+    {
+      "english": "To fix",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-08",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To build",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-08",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To carry",
+      "know": 3,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To paint",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To clean",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-08",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To hold",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To cut",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-09",
+      "subject": "Home & Tools"
+    },
+    {
+      "english": "To order",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "To serve",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "To recommend",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "To share",
+      "know": 2,
+      "conj": 5,
+      "last": "lesson-10",
+      "subject": "Food & Dining"
+    },
+    {
+      "english": "To turn",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-12",
+      "subject": "Street & City"
+    },
+    {
+      "english": "To wait",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Street & City"
+    },
+    {
+      "english": "To notice",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-11",
+      "subject": "Street & City"
+    },
+    {
+      "english": "To train",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To run",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To lift",
+      "know": 2,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To rest",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To skate",
+      "know": 4,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To renew",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To stop doing",
+      "know": 3,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "To agree",
+      "know": 3,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    }
+  ],
+  "adjectives": [
+    {
+      "english": "Fast",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-06",
+      "subject": "Transport"
+    },
+    {
+      "english": "Slow",
+      "know": 4,
+      "conj": 3,
+      "last": "lesson-06",
+      "subject": "Transport"
+    },
+    {
+      "english": "Tired",
+      "know": 5,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Heavy",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Strong",
+      "know": 5,
+      "conj": 4,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "For both of us",
+      "know": 4,
+      "conj": 5,
+      "last": "lesson-13",
+      "subject": "Gym & Sport"
+    }
+  ]
+}
