@@ -37,11 +37,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Hello. What is your problem?"
+                "text": "Hello. What is your problem?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Hello. I feel sick."
+                "speaker": "Mark",
+                "text": "Hello. I feel sick.",
+                "role": "student"
               }
             ]
           },
@@ -49,11 +51,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "What do you feel?"
+                "text": "What do you feel?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I have a headache and I feel tired."
+                "speaker": "Mark",
+                "text": "I have a headache and I feel tired.",
+                "role": "student"
               }
             ]
           },
@@ -61,11 +65,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you have a fever?"
+                "text": "Do you have a fever?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, a little."
+                "speaker": "Mark",
+                "text": "Yes, a little.",
+                "role": "student"
               }
             ]
           },
@@ -73,11 +79,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "How long do you feel like this?"
+                "text": "How long do you feel like this?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Two days."
+                "speaker": "Mark",
+                "text": "Two days.",
+                "role": "student"
               }
             ]
           },
@@ -85,11 +93,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you have a cough?"
+                "text": "Do you have a cough?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, I cough a little."
+                "speaker": "Mark",
+                "text": "Yes, I cough a little.",
+                "role": "student"
               }
             ]
           },
@@ -97,11 +107,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Okay. I will check you now."
+                "text": "Okay. I will check you now.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -109,11 +121,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "You have a mild infection. You need rest and water."
+                "text": "You have a mild infection. You need rest and water.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay, thank you."
+                "speaker": "Mark",
+                "text": "Okay, thank you.",
+                "role": "student"
               }
             ]
           },
@@ -121,11 +135,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "I will give you medicine. Take it two times a day."
+                "text": "I will give you medicine. Take it two times a day.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -133,11 +149,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Come back if you feel worse."
+                "text": "Come back if you feel worse.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I understand. Thank you, doctor."
+                "speaker": "Mark",
+                "text": "I understand. Thank you, doctor.",
+                "role": "student"
               }
             ]
           }
@@ -199,11 +217,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Hello. How can I help you?"
+                "text": "Hello. How can I help you?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Hello doctor. I feel sick."
+                "speaker": "Mark",
+                "text": "Hello doctor. I feel sick.",
+                "role": "student"
               }
             ]
           },
@@ -211,11 +231,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "What do you feel?"
+                "text": "What do you feel?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I have pain in my head and a headache."
+                "speaker": "Mark",
+                "text": "I have pain in my head and a headache.",
+                "role": "student"
               }
             ]
           },
@@ -223,11 +245,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you have a fever?"
+                "text": "Do you have a fever?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, and I have a cough and a cold."
+                "speaker": "Mark",
+                "text": "Yes, and I have a cough and a cold.",
+                "role": "student"
               }
             ]
           },
@@ -235,11 +259,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you feel pain in your throat or chest?"
+                "text": "Do you feel pain in your throat or chest?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, my throat hurts and my chest hurts."
+                "speaker": "Mark",
+                "text": "Yes, my throat hurts and my chest hurts.",
+                "role": "student"
               }
             ]
           },
@@ -247,11 +273,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "What about your stomach or back?"
+                "text": "What about your stomach or back?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "My stomach hurts a little, and my back hurts too."
+                "speaker": "Mark",
+                "text": "My stomach hurts a little, and my back hurts too.",
+                "role": "student"
               }
             ]
           },
@@ -259,11 +287,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do your arms or legs hurt?"
+                "text": "Do your arms or legs hurt?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "My arm hurts, but my leg is okay."
+                "speaker": "Mark",
+                "text": "My arm hurts, but my leg is okay.",
+                "role": "student"
               }
             ]
           },
@@ -271,11 +301,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "I will check your eyes and ears."
+                "text": "I will check your eyes and ears.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -283,11 +315,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "You need medicine. You can get it at the hospital."
+                "text": "You need medicine. You can get it at the hospital.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Thank you, doctor."
+                "speaker": "Mark",
+                "text": "Thank you, doctor.",
+                "role": "student"
               }
             ]
           }
@@ -300,11 +334,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Hello. What is the problem today?"
+                "text": "Hello. What is the problem today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Hello doctor. I feel bad."
+                "speaker": "Mark",
+                "text": "Hello doctor. I feel bad.",
+                "role": "student"
               }
             ]
           },
@@ -312,11 +348,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Where do you have pain?"
+                "text": "Where do you have pain?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I have pain in my hand and my leg."
+                "speaker": "Mark",
+                "text": "I have pain in my hand and my leg.",
+                "role": "student"
               }
             ]
           },
@@ -324,11 +362,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you have a fever or a cough?"
+                "text": "Do you have a fever or a cough?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "No fever, but I have a small cough and a cold."
+                "speaker": "Mark",
+                "text": "No fever, but I have a small cough and a cold.",
+                "role": "student"
               }
             ]
           },
@@ -336,11 +376,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do your eyes or ears hurt?"
+                "text": "Do your eyes or ears hurt?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "My eye hurts, but my ear is okay."
+                "speaker": "Mark",
+                "text": "My eye hurts, but my ear is okay.",
+                "role": "student"
               }
             ]
           },
@@ -348,11 +390,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you have a headache or toothache?"
+                "text": "Do you have a headache or toothache?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, I have a toothache."
+                "speaker": "Mark",
+                "text": "Yes, I have a toothache.",
+                "role": "student"
               }
             ]
           },
@@ -360,11 +404,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "How is your throat and chest?"
+                "text": "How is your throat and chest?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "My throat is okay, but my chest hurts a little."
+                "speaker": "Mark",
+                "text": "My throat is okay, but my chest hurts a little.",
+                "role": "student"
               }
             ]
           },
@@ -372,11 +418,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "I will ask the nurse to help."
+                "text": "I will ask the nurse to help.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -384,11 +432,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "You need medicine and rest. If you feel worse, go to the hospital."
+                "text": "You need medicine and rest. If you feel worse, go to the hospital.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Thank you, doctor."
+                "speaker": "Mark",
+                "text": "Thank you, doctor.",
+                "role": "student"
               }
             ]
           }
@@ -447,11 +497,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Hello. What brings you in today?"
+                "text": "Hello. What brings you in today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Hello doctor. I went for a walk, and later I feel pain in my stomach."
+                "speaker": "Mark",
+                "text": "Hello doctor. I went for a walk, and later I feel pain in my stomach.",
+                "role": "student"
               }
             ]
           },
@@ -459,11 +511,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "I see. Is the pain sharp, or more like pressure?"
+                "text": "I see. Is the pain sharp, or more like pressure?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I don't know the word… it just hurts here, in the stomach."
+                "speaker": "Mark",
+                "text": "I don't know the word… it just hurts here, in the stomach.",
+                "role": "student"
               }
             ]
           },
@@ -471,11 +525,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "That's okay. Does the pain move to your back or chest?"
+                "text": "That's okay. Does the pain move to your back or chest?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, a little to my back. Chest is a little pain too."
+                "speaker": "Mark",
+                "text": "Yes, a little to my back. Chest is a little pain too.",
+                "role": "student"
               }
             ]
           },
@@ -483,11 +539,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you also have a fever, cough, or cold?"
+                "text": "Do you also have a fever, cough, or cold?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "No fever. Small cough."
+                "speaker": "Mark",
+                "text": "No fever. Small cough.",
+                "role": "student"
               }
             ]
           },
@@ -495,11 +553,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Any headache or toothache?"
+                "text": "Any headache or toothache?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "No toothache. Small headache before."
+                "speaker": "Mark",
+                "text": "No toothache. Small headache before.",
+                "role": "student"
               }
             ]
           },
@@ -507,11 +567,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "How about your throat, does it hurt when you swallow?"
+                "text": "How about your throat, does it hurt when you swallow?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Throat is a little pain, yes."
+                "speaker": "Mark",
+                "text": "Throat is a little pain, yes.",
+                "role": "student"
               }
             ]
           },
@@ -519,11 +581,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "I'll check your eyes and ears, and then your stomach."
+                "text": "I'll check your eyes and ears, and then your stomach.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -531,11 +595,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Your symptoms are mild. I think you need rest and some medicine."
+                "text": "Your symptoms are mild. I think you need rest and some medicine.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay, thank you doctor."
+                "speaker": "Mark",
+                "text": "Okay, thank you doctor.",
+                "role": "student"
               }
             ]
           },
@@ -543,11 +609,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "If the pain gets worse, go to the hospital or come back."
+                "text": "If the pain gets worse, go to the hospital or come back.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I understand. Thank you."
+                "speaker": "Mark",
+                "text": "I understand. Thank you.",
+                "role": "student"
               }
             ]
           }
@@ -560,11 +628,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Hi. Can you tell me what's been bothering you?"
+                "text": "Hi. Can you tell me what's been bothering you?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Hello doctor. Yesterday I work, and my arm and hand start to hurt."
+                "speaker": "Mark",
+                "text": "Hello doctor. Yesterday I work, and my arm and hand start to hurt.",
+                "role": "student"
               }
             ]
           },
@@ -572,11 +642,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "What kind of work were you doing?"
+                "text": "What kind of work were you doing?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "I carry heavy things. After that, pain in arm and hand."
+                "speaker": "Mark",
+                "text": "I carry heavy things. After that, pain in arm and hand.",
+                "role": "student"
               }
             ]
           },
@@ -584,11 +656,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Understood. Does the pain go down to your leg or stay in the arm?"
+                "text": "Understood. Does the pain go down to your leg or stay in the arm?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Only arm and hand. Leg is okay."
+                "speaker": "Mark",
+                "text": "Only arm and hand. Leg is okay.",
+                "role": "student"
               }
             ]
           },
@@ -596,11 +670,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do you have any fever, or signs of a cold or cough?"
+                "text": "Do you have any fever, or signs of a cold or cough?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "No fever. No cold. Small cough before, but now okay."
+                "speaker": "Mark",
+                "text": "No fever. No cold. Small cough before, but now okay.",
+                "role": "student"
               }
             ]
           },
@@ -608,11 +684,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Any pain in your chest or back?"
+                "text": "Any pain in your chest or back?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Back a little pain. Chest no."
+                "speaker": "Mark",
+                "text": "Back a little pain. Chest no.",
+                "role": "student"
               }
             ]
           },
@@ -620,11 +698,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Do your eyes or ears feel normal?"
+                "text": "Do your eyes or ears feel normal?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Yes, eye and ear okay."
+                "speaker": "Mark",
+                "text": "Yes, eye and ear okay.",
+                "role": "student"
               }
             ]
           },
@@ -632,11 +712,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "And no headache or toothache?"
+                "text": "And no headache or toothache?",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "No, only arm pain."
+                "speaker": "Mark",
+                "text": "No, only arm pain.",
+                "role": "student"
               }
             ]
           },
@@ -644,11 +726,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Alright. I think this is from the strain. The nurse will help you with some medicine."
+                "text": "Alright. I think this is from the strain. The nurse will help you with some medicine.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -656,11 +740,13 @@
             "lines": [
               {
                 "speaker": "Doctor",
-                "text": "Rest your arm and hand. If it gets worse, you should visit the hospital."
+                "text": "Rest your arm and hand. If it gets worse, you should visit the hospital.",
+                "role": "teacher"
               },
               {
-                "speaker": "Patient",
-                "text": "Thank you doctor."
+                "speaker": "Mark",
+                "text": "Thank you doctor.",
+                "role": "student"
               }
             ]
           }
@@ -715,11 +801,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Hello. How can I help you today?"
+                "text": "Hello. How can I help you today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Hello. I want open bank account."
+                "speaker": "Mark",
+                "text": "Hello. I want open bank account.",
+                "role": "student"
               }
             ]
           },
@@ -727,11 +815,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Of course. Do you already have a passport with you?"
+                "text": "Of course. Do you already have a passport with you?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, I have passport here."
+                "speaker": "Mark",
+                "text": "Yes, I have passport here.",
+                "role": "student"
               }
             ]
           },
@@ -739,11 +829,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Great. I'll also need your signature on this paper."
+                "text": "Great. I'll also need your signature on this paper.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay. Here?"
+                "speaker": "Mark",
+                "text": "Okay. Here?",
+                "role": "student"
               }
             ]
           },
@@ -751,11 +843,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Yes, right there. Would you like a card for the account as well?"
+                "text": "Yes, right there. Would you like a card for the account as well?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes please. I need card for ATM and payment."
+                "speaker": "Mark",
+                "text": "Yes please. I need card for ATM and payment.",
+                "role": "student"
               }
             ]
           },
@@ -763,11 +857,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "No problem. Do you want to deposit any money today?"
+                "text": "No problem. Do you want to deposit any money today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes. I want deposit cash."
+                "speaker": "Mark",
+                "text": "Yes. I want deposit cash.",
+                "role": "student"
               }
             ]
           },
@@ -775,11 +871,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Alright. I'll put the money into your new account."
+                "text": "Alright. I'll put the money into your new account.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Thank you. Can I see balance now?"
+                "speaker": "Mark",
+                "text": "Thank you. Can I see balance now?",
+                "role": "student"
               }
             ]
           },
@@ -787,11 +885,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Yes, I'll print a receipt with your balance on it."
+                "text": "Yes, I'll print a receipt with your balance on it.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay, thank you very much."
+                "speaker": "Mark",
+                "text": "Okay, thank you very much.",
+                "role": "student"
               }
             ]
           }
@@ -804,11 +904,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Hi. What can I do for you today?"
+                "text": "Hi. What can I do for you today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Hello. I need take money from account."
+                "speaker": "Mark",
+                "text": "Hello. I need take money from account.",
+                "role": "student"
               }
             ]
           },
@@ -816,11 +918,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "You'd like to withdraw money?"
+                "text": "You'd like to withdraw money?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, withdraw money."
+                "speaker": "Mark",
+                "text": "Yes, withdraw money.",
+                "role": "student"
               }
             ]
           },
@@ -828,11 +932,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "No problem. Do you have your card or passport?"
+                "text": "No problem. Do you have your card or passport?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "I have card."
+                "speaker": "Mark",
+                "text": "I have card.",
+                "role": "student"
               }
             ]
           },
@@ -840,11 +946,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Thank you. How much cash would you like?"
+                "text": "Thank you. How much cash would you like?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Two hundred dollars."
+                "speaker": "Mark",
+                "text": "Two hundred dollars.",
+                "role": "student"
               }
             ]
           },
@@ -852,11 +960,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Alright. Your balance is still good after this withdraw."
+                "text": "Alright. Your balance is still good after this withdraw.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay. Also, I want transfer money next week."
+                "speaker": "Mark",
+                "text": "Okay. Also, I want transfer money next week.",
+                "role": "student"
               }
             ]
           },
@@ -864,11 +974,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "That's fine. We can help you with the transfer when you come back."
+                "text": "That's fine. We can help you with the transfer when you come back.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay. And maybe loan later."
+                "speaker": "Mark",
+                "text": "Okay. And maybe loan later.",
+                "role": "student"
               }
             ]
           },
@@ -876,11 +988,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Sure, we can also talk about a loan in the future."
+                "text": "Sure, we can also talk about a loan in the future.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Thank you very much."
+                "speaker": "Mark",
+                "text": "Thank you very much.",
+                "role": "student"
               }
             ]
           },
@@ -888,7 +1002,8 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "You're welcome. Here's your cash and your receipt."
+                "text": "You're welcome. Here's your cash and your receipt.",
+                "role": "teacher"
               }
             ]
           }
@@ -947,11 +1062,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Hello. What can I help you with today?"
+                "text": "Hello. What can I help you with today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Hello. I want withdraw money from my account."
+                "speaker": "Mark",
+                "text": "Hello. I want withdraw money from my account.",
+                "role": "student"
               }
             ]
           },
@@ -959,11 +1076,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Of course. How much would you like to withdraw?"
+                "text": "Of course. How much would you like to withdraw?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Three hundred dollars. Also, can you tell me my balance?"
+                "speaker": "Mark",
+                "text": "Three hundred dollars. Also, can you tell me my balance?",
+                "role": "student"
               }
             ]
           },
@@ -971,11 +1090,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Yes. Your balance after the withdraw will be one thousand dollars."
+                "text": "Yes. Your balance after the withdraw will be one thousand dollars.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay, good. I also want transfer money to another account."
+                "speaker": "Mark",
+                "text": "Okay, good. I also want transfer money to another account.",
+                "role": "student"
               }
             ]
           },
@@ -983,11 +1104,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "No problem. Please write the account number here and add your signature at the bottom."
+                "text": "No problem. Please write the account number here and add your signature at the bottom.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay. Done."
+                "speaker": "Mark",
+                "text": "Okay. Done.",
+                "role": "student"
               }
             ]
           },
@@ -995,11 +1118,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Thank you. Do you want the money as large banknotes or small banknotes?"
+                "text": "Thank you. Do you want the money as large banknotes or small banknotes?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Small banknotes please."
+                "speaker": "Mark",
+                "text": "Small banknotes please.",
+                "role": "student"
               }
             ]
           },
@@ -1007,11 +1132,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Alright. Here is your cash and your receipt."
+                "text": "Alright. Here is your cash and your receipt.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Thank you very much."
+                "speaker": "Mark",
+                "text": "Thank you very much.",
+                "role": "student"
               }
             ]
           }
@@ -1024,11 +1151,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Hi. How can I help you today?"
+                "text": "Hi. How can I help you today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Hello. I want ask about loan for car."
+                "speaker": "Mark",
+                "text": "Hello. I want ask about loan for car.",
+                "role": "student"
               }
             ]
           },
@@ -1036,11 +1165,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Sure. Do you already have a savings account with us?"
+                "text": "Sure. Do you already have a savings account with us?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, I have savings account here."
+                "speaker": "Mark",
+                "text": "Yes, I have savings account here.",
+                "role": "student"
               }
             ]
           },
@@ -1048,11 +1179,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Great. We'll need your signature on these papers."
+                "text": "Great. We'll need your signature on these papers.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay. Also, I forget my PIN for my card."
+                "speaker": "Mark",
+                "text": "Okay. Also, I forget my PIN for my card.",
+                "role": "student"
               }
             ]
           },
@@ -1060,11 +1193,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "That's alright. We can help you change it today."
+                "text": "That's alright. We can help you change it today.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Good. And I have one check to put in account."
+                "speaker": "Mark",
+                "text": "Good. And I have one check to put in account.",
+                "role": "student"
               }
             ]
           },
@@ -1072,11 +1207,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "You'd like to deposit the check?"
+                "text": "You'd like to deposit the check?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, deposit check."
+                "speaker": "Mark",
+                "text": "Yes, deposit check.",
+                "role": "student"
               }
             ]
           },
@@ -1084,11 +1221,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "No problem. Do you also need currency exchange today?"
+                "text": "No problem. Do you also need currency exchange today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, I want exchange shekels to dollars."
+                "speaker": "Mark",
+                "text": "Yes, I want exchange shekels to dollars.",
+                "role": "student"
               }
             ]
           },
@@ -1096,11 +1235,13 @@
             "lines": [
               {
                 "speaker": "Bank Worker",
-                "text": "Alright. Here is your receipt for the deposit and exchange."
+                "text": "Alright. Here is your receipt for the deposit and exchange.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Thank you very much."
+                "speaker": "Mark",
+                "text": "Thank you very much.",
+                "role": "student"
               }
             ]
           }
@@ -1156,11 +1297,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Hello. Where are you going today?"
+                "text": "Hello. Where are you going today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Hello. I go to hotel."
+                "speaker": "Mark",
+                "text": "Hello. I go to hotel.",
+                "role": "student"
               }
             ]
           },
@@ -1168,11 +1311,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Sure. What's the address?"
+                "text": "Sure. What's the address?",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "One moment… here. This street."
+                "speaker": "Mark",
+                "text": "One moment… here. This street.",
+                "role": "student"
               }
             ]
           },
@@ -1180,11 +1325,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Alright, I know it. It's near the airport."
+                "text": "Alright, I know it. It's near the airport.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Yes, correct."
+                "speaker": "Mark",
+                "text": "Yes, correct.",
+                "role": "student"
               }
             ]
           },
@@ -1192,11 +1339,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Do you want the fast way or the cheaper way? There's a lot of traffic right now."
+                "text": "Do you want the fast way or the cheaper way? There's a lot of traffic right now.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Fast please."
+                "speaker": "Mark",
+                "text": "Fast please.",
+                "role": "student"
               }
             ]
           },
@@ -1204,11 +1353,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "No problem. Please put your bag in the back."
+                "text": "No problem. Please put your bag in the back.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -1216,11 +1367,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "If you need anything, just tell me."
+                "text": "If you need anything, just tell me.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Okay, thank you driver."
+                "speaker": "Mark",
+                "text": "Okay, thank you driver.",
+                "role": "student"
               }
             ]
           }
@@ -1233,11 +1386,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "We're almost there. Your hotel is on the right."
+                "text": "We're almost there. Your hotel is on the right.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Okay, thank you."
+                "speaker": "Mark",
+                "text": "Okay, thank you.",
+                "role": "student"
               }
             ]
           },
@@ -1245,11 +1400,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Should I stop here or closer to the door?"
+                "text": "Should I stop here or closer to the door?",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Closer please."
+                "speaker": "Mark",
+                "text": "Closer please.",
+                "role": "student"
               }
             ]
           },
@@ -1257,11 +1414,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Alright."
+                "text": "Alright.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "This street very busy."
+                "speaker": "Mark",
+                "text": "This street very busy.",
+                "role": "student"
               }
             ]
           },
@@ -1269,11 +1428,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Yes, traffic is always slow here in the evening."
+                "text": "Yes, traffic is always slow here in the evening.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "How much for ride?"
+                "speaker": "Mark",
+                "text": "How much for ride?",
+                "role": "student"
               }
             ]
           },
@@ -1281,11 +1442,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "It's twenty dollars."
+                "text": "It's twenty dollars.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Okay. I pay cash."
+                "speaker": "Mark",
+                "text": "Okay. I pay cash.",
+                "role": "student"
               }
             ]
           },
@@ -1293,11 +1456,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "Thank you. Let me get your change."
+                "text": "Thank you. Let me get your change.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "Thank you very much."
+                "speaker": "Mark",
+                "text": "Thank you very much.",
+                "role": "student"
               }
             ]
           },
@@ -1305,11 +1470,13 @@
             "lines": [
               {
                 "speaker": "Driver",
-                "text": "You're welcome. Have a good evening."
+                "text": "You're welcome. Have a good evening.",
+                "role": "teacher"
               },
               {
-                "speaker": "Passenger",
-                "text": "You too."
+                "speaker": "Mark",
+                "text": "You too.",
+                "role": "student"
               }
             ]
           }
@@ -1371,11 +1538,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Hey! How was your day today?"
+                "text": "Hey! How was your day today?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Very busy day. I wake up early because I have pain in my stomach and back."
+                "speaker": "Mark",
+                "text": "Very busy day. I wake up early because I have pain in my stomach and back.",
+                "role": "student"
               }
             ]
           },
@@ -1383,11 +1552,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Really? Was it bad pain?"
+                "text": "Really? Was it bad pain?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Not very bad, but enough to go hospital and see doctor."
+                "speaker": "Mark",
+                "text": "Not very bad, but enough to go hospital and see doctor.",
+                "role": "student"
               }
             ]
           },
@@ -1395,11 +1566,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "How did you get there?"
+                "text": "How did you get there?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "I take taxi to hospital."
+                "speaker": "Mark",
+                "text": "I take taxi to hospital.",
+                "role": "student"
               }
             ]
           },
@@ -1407,11 +1580,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Was the traffic bad?"
+                "text": "Was the traffic bad?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, very slow. The driver say traffic near airport always slow in morning."
+                "speaker": "Mark",
+                "text": "Yes, very slow. The driver say traffic near airport always slow in morning.",
+                "role": "student"
               }
             ]
           },
@@ -1419,11 +1594,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you know the hospital address?"
+                "text": "Did you know the hospital address?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "I had address on my phone. I show driver the street."
+                "speaker": "Mark",
+                "text": "I had address on my phone. I show driver the street.",
+                "role": "student"
               }
             ]
           },
@@ -1431,11 +1608,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Nice. So what did the doctor say?"
+                "text": "Nice. So what did the doctor say?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Doctor ask many questions. He ask if I have fever, cough, cold, headache."
+                "speaker": "Mark",
+                "text": "Doctor ask many questions. He ask if I have fever, cough, cold, headache.",
+                "role": "student"
               }
             ]
           },
@@ -1443,11 +1622,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you?"
+                "text": "Did you?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Small headache and little cough, but no fever."
+                "speaker": "Mark",
+                "text": "Small headache and little cough, but no fever.",
+                "role": "student"
               }
             ]
           },
@@ -1455,11 +1636,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did he check you?"
+                "text": "Did he check you?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes. He check my stomach, back, throat, chest, eyes, and ears."
+                "speaker": "Mark",
+                "text": "Yes. He check my stomach, back, throat, chest, eyes, and ears.",
+                "role": "student"
               }
             ]
           },
@@ -1467,11 +1650,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Sounds serious."
+                "text": "Sounds serious.",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "No, doctor say it is okay. Maybe stress and bad food."
+                "speaker": "Mark",
+                "text": "No, doctor say it is okay. Maybe stress and bad food.",
+                "role": "student"
               }
             ]
           },
@@ -1479,11 +1664,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did he give medicine?"
+                "text": "Did he give medicine?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, medicine and rest."
+                "speaker": "Mark",
+                "text": "Yes, medicine and rest.",
+                "role": "student"
               }
             ]
           },
@@ -1491,11 +1678,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Good. Then what happened?"
+                "text": "Good. Then what happened?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "After hospital I take another taxi to bank."
+                "speaker": "Mark",
+                "text": "After hospital I take another taxi to bank.",
+                "role": "student"
               }
             ]
           },
@@ -1503,11 +1692,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Again traffic?"
+                "text": "Again traffic?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, but this driver go fast."
+                "speaker": "Mark",
+                "text": "Yes, but this driver go fast.",
+                "role": "student"
               }
             ]
           },
@@ -1515,11 +1706,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "What did you need at the bank?"
+                "text": "What did you need at the bank?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Many things. First I withdraw cash."
+                "speaker": "Mark",
+                "text": "Many things. First I withdraw cash.",
+                "role": "student"
               }
             ]
           },
@@ -1527,11 +1720,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "How much?"
+                "text": "How much?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Three hundred dollars. Then I check my balance."
+                "speaker": "Mark",
+                "text": "Three hundred dollars. Then I check my balance.",
+                "role": "student"
               }
             ]
           },
@@ -1539,11 +1734,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Was your balance okay?"
+                "text": "Was your balance okay?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, okay. Not amazing, but okay."
+                "speaker": "Mark",
+                "text": "Yes, okay. Not amazing, but okay.",
+                "role": "student"
               }
             ]
           },
@@ -1551,11 +1748,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you talk to the bank worker in English?"
+                "text": "Did you talk to the bank worker in English?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, but sometimes difficult."
+                "speaker": "Mark",
+                "text": "Yes, but sometimes difficult.",
+                "role": "student"
               }
             ]
           },
@@ -1563,11 +1762,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "What was difficult?"
+                "text": "What was difficult?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Words like transfer and receipt."
+                "speaker": "Mark",
+                "text": "Words like transfer and receipt.",
+                "role": "student"
               }
             ]
           },
@@ -1575,11 +1776,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Ah yes, those are hard at first. Did you make a transfer too?"
+                "text": "Ah yes, those are hard at first. Did you make a transfer too?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, small transfer to another account."
+                "speaker": "Mark",
+                "text": "Yes, small transfer to another account.",
+                "role": "student"
               }
             ]
           },
@@ -1587,11 +1790,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you need your signature?"
+                "text": "Did you need your signature?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes. I write signature many times."
+                "speaker": "Mark",
+                "text": "Yes. I write signature many times.",
+                "role": "student"
               }
             ]
           },
@@ -1599,11 +1804,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you use your card?"
+                "text": "Did you use your card?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, and I also use ATM outside bank."
+                "speaker": "Mark",
+                "text": "Yes, and I also use ATM outside bank.",
+                "role": "student"
               }
             ]
           },
@@ -1611,11 +1818,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Any problem with your PIN?"
+                "text": "Any problem with your PIN?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "No, this time okay. Last month I forget PIN."
+                "speaker": "Mark",
+                "text": "No, this time okay. Last month I forget PIN.",
+                "role": "student"
               }
             ]
           },
@@ -1623,11 +1832,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you ask about a loan too?"
+                "text": "Did you ask about a loan too?",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, small loan maybe next year."
+                "speaker": "Mark",
+                "text": "Yes, small loan maybe next year.",
+                "role": "student"
               }
             ]
           },
@@ -1635,11 +1846,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Sounds like you did everything today."
+                "text": "Sounds like you did everything today.",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Yes, hospital, taxi rides, bank… very long day."
+                "speaker": "Mark",
+                "text": "Yes, hospital, taxi rides, bank… very long day.",
+                "role": "student"
               }
             ]
           },
@@ -1647,11 +1860,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "At least your English gets better."
+                "text": "At least your English gets better.",
+                "role": "teacher"
               },
               {
-                "speaker": "You",
-                "text": "Slowly better, yes. Talking helps a lot."
+                "speaker": "Mark",
+                "text": "Slowly better, yes. Talking helps a lot.",
+                "role": "student"
               }
             ]
           }
@@ -1709,11 +1924,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "Hello. Can I help you find something?"
+                "text": "Hello. Can I help you find something?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Hello. Yes, I need tool for home."
+                "speaker": "Mark",
+                "text": "Hello. Yes, I need tool for home.",
+                "role": "student"
               }
             ]
           },
@@ -1721,11 +1938,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "Sure. What kind of tool are you looking for?"
+                "text": "Sure. What kind of tool are you looking for?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "I need hammer and nails. Also screws."
+                "speaker": "Mark",
+                "text": "I need hammer and nails. Also screws.",
+                "role": "student"
               }
             ]
           },
@@ -1733,11 +1952,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "No problem. The screws and nails are on the left. The hammers are next to the drills."
+                "text": "No problem. The screws and nails are on the left. The hammers are next to the drills.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay. I also need paint."
+                "speaker": "Mark",
+                "text": "Okay. I also need paint.",
+                "role": "student"
               }
             ]
           },
@@ -1745,11 +1966,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "What color paint do you want?"
+                "text": "What color paint do you want?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "White paint for small room."
+                "speaker": "Mark",
+                "text": "White paint for small room.",
+                "role": "student"
               }
             ]
           },
@@ -1757,11 +1980,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "Alright. Do you already have a brush?"
+                "text": "Alright. Do you already have a brush?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "No, I need brush and tape too."
+                "speaker": "Mark",
+                "text": "No, I need brush and tape too.",
+                "role": "student"
               }
             ]
           },
@@ -1769,11 +1994,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "Painter's tape?"
+                "text": "Painter's tape?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, tape for paint."
+                "speaker": "Mark",
+                "text": "Yes, tape for paint.",
+                "role": "student"
               }
             ]
           },
@@ -1781,11 +2008,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "Great. Anything else?"
+                "text": "Great. Anything else?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Maybe ladder. Small ladder."
+                "speaker": "Mark",
+                "text": "Maybe ladder. Small ladder.",
+                "role": "student"
               }
             ]
           },
@@ -1793,11 +2022,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "Those are near the back wall."
+                "text": "Those are near the back wall.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Okay thank you. My English not very good."
+                "speaker": "Mark",
+                "text": "Okay thank you. My English not very good.",
+                "role": "student"
               }
             ]
           },
@@ -1805,11 +2036,13 @@
             "lines": [
               {
                 "speaker": "Worker",
-                "text": "You're doing fine."
+                "text": "You're doing fine.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Thank you very much."
+                "speaker": "Mark",
+                "text": "Thank you very much.",
+                "role": "student"
               }
             ]
           }
@@ -1822,11 +2055,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Hi. Did you find everything you needed?"
+                "text": "Hi. Did you find everything you needed?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes, I think so."
+                "speaker": "Mark",
+                "text": "Yes, I think so.",
+                "role": "student"
               }
             ]
           },
@@ -1834,11 +2069,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Alright. I see paint, a brush, screws, nails, tape, and a battery."
+                "text": "Alright. I see paint, a brush, screws, nails, tape, and a battery.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes. Battery for drill."
+                "speaker": "Mark",
+                "text": "Yes. Battery for drill.",
+                "role": "student"
               }
             ]
           },
@@ -1846,11 +2083,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Got it. Are you paying cash or card today?"
+                "text": "Got it. Are you paying cash or card today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Card please."
+                "speaker": "Mark",
+                "text": "Card please.",
+                "role": "student"
               }
             ]
           },
@@ -1858,11 +2097,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Okay. You can enter your PIN here."
+                "text": "Okay. You can enter your PIN here.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "One moment… okay."
+                "speaker": "Mark",
+                "text": "One moment… okay.",
+                "role": "student"
               }
             ]
           },
@@ -1870,11 +2111,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Perfect. Do you want the receipt?"
+                "text": "Perfect. Do you want the receipt?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes please."
+                "speaker": "Mark",
+                "text": "Yes please.",
+                "role": "student"
               }
             ]
           },
@@ -1882,11 +2125,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Here you go."
+                "text": "Here you go.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Thank you."
+                "speaker": "Mark",
+                "text": "Thank you.",
+                "role": "student"
               }
             ]
           },
@@ -1894,11 +2139,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Are you working on something at home?"
+                "text": "Are you working on something at home?",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes. Small problem in room. Need paint and tool."
+                "speaker": "Mark",
+                "text": "Yes. Small problem in room. Need paint and tool.",
+                "role": "student"
               }
             ]
           },
@@ -1906,11 +2153,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Makes sense. Hopefully the ladder helps too."
+                "text": "Makes sense. Hopefully the ladder helps too.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes. Last time I stand on chair. Bad idea."
+                "speaker": "Mark",
+                "text": "Yes. Last time I stand on chair. Bad idea.",
+                "role": "student"
               }
             ]
           },
@@ -1918,11 +2167,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Yeah, a ladder is much safer."
+                "text": "Yeah, a ladder is much safer.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "Yes. Also my back still has pain from last time."
+                "speaker": "Mark",
+                "text": "Yes. Also my back still has pain from last time.",
+                "role": "student"
               }
             ]
           },
@@ -1930,11 +2181,13 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "Ouch. Be careful this time."
+                "text": "Ouch. Be careful this time.",
+                "role": "teacher"
               },
               {
-                "speaker": "Customer",
-                "text": "I will. Thank you."
+                "speaker": "Mark",
+                "text": "I will. Thank you.",
+                "role": "student"
               }
             ]
           }
@@ -1999,11 +2252,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Hey! Sorry I'm late. The traffic was very slow today."
+                "text": "Hey! Sorry I'm late. The traffic was very slow today.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "No problem. Come in."
+                "speaker": "Mark",
+                "text": "No problem. Come in.",
+                "role": "student"
               }
             ]
           },
@@ -2011,11 +2266,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Wow, this room already looks different. Almost like a hotel room now."
+                "text": "Wow, this room already looks different. Almost like a hotel room now.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Thank you. But still much work to do."
+                "speaker": "Mark",
+                "text": "Thank you. But still much work to do.",
+                "role": "student"
               }
             ]
           },
@@ -2023,11 +2280,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "So what do we need to fix first?"
+                "text": "So what do we need to fix first?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "First, shelf on wall. Then paint. Then clean everything."
+                "speaker": "Mark",
+                "text": "First, shelf on wall. Then paint. Then clean everything.",
+                "role": "student"
               }
             ]
           },
@@ -2035,11 +2294,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Sounds good. Did you buy all the tools?"
+                "text": "Sounds good. Did you buy all the tools?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I go hardware store yesterday."
+                "speaker": "Mark",
+                "text": "Yes, I go hardware store yesterday.",
+                "role": "student"
               }
             ]
           },
@@ -2047,11 +2308,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Nice. What did you get?"
+                "text": "Nice. What did you get?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Hammer, screws, nails, drill, tape, brush… many things."
+                "speaker": "Mark",
+                "text": "Hammer, screws, nails, drill, tape, brush… many things.",
+                "role": "student"
               }
             ]
           },
@@ -2059,11 +2322,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Good. Do you also have pliers and a wrench?"
+                "text": "Good. Do you also have pliers and a wrench?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, here in this box."
+                "speaker": "Mark",
+                "text": "Yes, here in this box.",
+                "role": "student"
               }
             ]
           },
@@ -2071,11 +2336,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Perfect. Where's the wood for the shelf?"
+                "text": "Perfect. Where's the wood for the shelf?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Here, next to ladder."
+                "speaker": "Mark",
+                "text": "Here, next to ladder.",
+                "role": "student"
               }
             ]
           },
@@ -2083,11 +2350,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Alright. I think we should build the shelf first before we paint."
+                "text": "Alright. I think we should build the shelf first before we paint.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, good idea."
+                "speaker": "Mark",
+                "text": "Yes, good idea.",
+                "role": "student"
               }
             ]
           },
@@ -2095,11 +2364,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Can you carry that wood for me?"
+                "text": "Can you carry that wood for me?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes… wow, heavy. My back still has little pain from last week."
+                "speaker": "Mark",
+                "text": "Yes… wow, heavy. My back still has little pain from last week.",
+                "role": "student"
               }
             ]
           },
@@ -2107,11 +2378,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "From the hospital visit?"
+                "text": "From the hospital visit?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. Doctor say rest, but I do room work anyway."
+                "speaker": "Mark",
+                "text": "Yes. Doctor say rest, but I do room work anyway.",
+                "role": "student"
               }
             ]
           },
@@ -2119,11 +2392,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "That sounds like a bad idea."
+                "text": "That sounds like a bad idea.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Maybe. But room need fixing."
+                "speaker": "Mark",
+                "text": "Maybe. But room need fixing.",
+                "role": "student"
               }
             ]
           },
@@ -2131,11 +2406,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Fair enough. Hand me the drill."
+                "text": "Fair enough. Hand me the drill.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Here."
+                "speaker": "Mark",
+                "text": "Here.",
+                "role": "student"
               }
             ]
           },
@@ -2143,11 +2420,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "And the screws too."
+                "text": "And the screws too.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Okay."
+                "speaker": "Mark",
+                "text": "Okay.",
+                "role": "student"
               }
             ]
           },
@@ -2155,11 +2434,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Hmm… this wall is stronger than I thought."
+                "text": "Hmm… this wall is stronger than I thought.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Need bigger drill?"
+                "speaker": "Mark",
+                "text": "Need bigger drill?",
+                "role": "student"
               }
             ]
           },
@@ -2167,11 +2448,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "No, this one is okay."
+                "text": "No, this one is okay.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I also buy extra battery for drill."
+                "speaker": "Mark",
+                "text": "I also buy extra battery for drill.",
+                "role": "student"
               }
             ]
           },
@@ -2179,11 +2462,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Smart. Last time my battery died in the middle of work."
+                "text": "Smart. Last time my battery died in the middle of work.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I remember. We finish very late that day."
+                "speaker": "Mark",
+                "text": "I remember. We finish very late that day.",
+                "role": "student"
               }
             ]
           },
@@ -2191,11 +2476,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Alright, now hold the shelf here."
+                "text": "Alright, now hold the shelf here.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Like this?"
+                "speaker": "Mark",
+                "text": "Like this?",
+                "role": "student"
               }
             ]
           },
@@ -2203,11 +2490,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Little more left. Yes, perfect."
+                "text": "Little more left. Yes, perfect.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Good?"
+                "speaker": "Mark",
+                "text": "Good?",
+                "role": "student"
               }
             ]
           },
@@ -2215,11 +2504,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Yep. Now I'll fix it to the wall."
+                "text": "Yep. Now I'll fix it to the wall.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Nice."
+                "speaker": "Mark",
+                "text": "Nice.",
+                "role": "student"
               }
             ]
           },
@@ -2227,11 +2518,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Okay, shelf is done."
+                "text": "Okay, shelf is done.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Wow, looks good!"
+                "speaker": "Mark",
+                "text": "Wow, looks good!",
+                "role": "student"
               }
             ]
           },
@@ -2239,11 +2532,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Now we can paint. Where's the paint and brush?"
+                "text": "Now we can paint. Where's the paint and brush?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "On the floor near the tape."
+                "speaker": "Mark",
+                "text": "On the floor near the tape.",
+                "role": "student"
               }
             ]
           },
@@ -2251,11 +2546,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you buy glue too?"
+                "text": "Did you buy glue too?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. Maybe for small problem near window."
+                "speaker": "Mark",
+                "text": "Yes. Maybe for small problem near window.",
+                "role": "student"
               }
             ]
           },
@@ -2263,11 +2560,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Good idea."
+                "text": "Good idea.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I think white paint is better for room. More light."
+                "speaker": "Mark",
+                "text": "I think white paint is better for room. More light.",
+                "role": "student"
               }
             ]
           },
@@ -2275,11 +2574,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Definitely. The room already feels bigger."
+                "text": "Definitely. The room already feels bigger.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Can you help me move this box?"
+                "speaker": "Mark",
+                "text": "Can you help me move this box?",
+                "role": "student"
               }
             ]
           },
@@ -2287,11 +2588,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Sure. What's inside?"
+                "text": "Sure. What's inside?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Old tools, bank papers, receipts… many things."
+                "speaker": "Mark",
+                "text": "Old tools, bank papers, receipts… many things.",
+                "role": "student"
               }
             ]
           },
@@ -2299,11 +2602,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Haha, you keep everything."
+                "text": "Haha, you keep everything.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. Even old bank receipt from when I withdraw cash."
+                "speaker": "Mark",
+                "text": "Yes. Even old bank receipt from when I withdraw cash.",
+                "role": "student"
               }
             ]
           },
@@ -2311,11 +2616,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "That's very organized actually."
+                "text": "That's very organized actually.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Okay, ready to paint?"
+                "speaker": "Mark",
+                "text": "Okay, ready to paint?",
+                "role": "student"
               }
             ]
           },
@@ -2323,11 +2630,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Ready. But first, let's clean the wall a little."
+                "text": "Ready. But first, let's clean the wall a little.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Good idea."
+                "speaker": "Mark",
+                "text": "Good idea.",
+                "role": "student"
               }
             ]
           },
@@ -2335,11 +2644,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Hey, pass me the saw."
+                "text": "Hey, pass me the saw.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Why?"
+                "speaker": "Mark",
+                "text": "Why?",
+                "role": "student"
               }
             ]
           },
@@ -2347,11 +2658,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "This wood is too long for the shelf. I need to cut it."
+                "text": "This wood is too long for the shelf. I need to cut it.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Ah okay. Here."
+                "speaker": "Mark",
+                "text": "Ah okay. Here.",
+                "role": "student"
               }
             ]
           },
@@ -2359,11 +2672,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Thanks."
+                "text": "Thanks.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "You know many tools."
+                "speaker": "Mark",
+                "text": "You know many tools.",
+                "role": "student"
               }
             ]
           },
@@ -2371,11 +2686,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "My father taught me when I was young."
+                "text": "My father taught me when I was young.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I still learn English and tools at same time."
+                "speaker": "Mark",
+                "text": "I still learn English and tools at same time.",
+                "role": "student"
               }
             ]
           },
@@ -2383,11 +2700,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Honestly, you're doing well with both."
+                "text": "Honestly, you're doing well with both.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Slowly better. Practice helps."
+                "speaker": "Mark",
+                "text": "Slowly better. Practice helps.",
+                "role": "student"
               }
             ]
           },
@@ -2395,7 +2714,8 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Exactly. By the end of today, you'll know every word in the hardware store."
+                "text": "Exactly. By the end of today, you'll know every word in the hardware store.",
+                "role": "teacher"
               }
             ]
           }
@@ -2469,196 +2789,182 @@
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Good morning. You look tired today."
+                "speaker": "Heli",
+                "text": "Good morning. You look tired today.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I still have little cough and my throat hurts a bit."
+                "speaker": "Mark",
+                "text": "Yes, I still have little cough and my throat hurts a bit.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Is it from the cold you had last week?"
+                "speaker": "Heli",
+                "text": "Is it from the cold you had last week?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I think so. But now much better than before."
+                "speaker": "Mark",
+                "text": "I think so. But now much better than before.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Did you finally finish the room yesterday?"
+                "speaker": "Heli",
+                "text": "Did you finally finish the room yesterday?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Almost. I still need to fix one shelf because the plank is too long."
+                "speaker": "Mark",
+                "text": "Almost. I still need to fix one shelf because the plank is too long.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Did you carry the wood upstairs again by yourself?"
+                "speaker": "Heli",
+                "text": "Did you carry the wood upstairs again by yourself?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. Bad idea. My back hurts now."
+                "speaker": "Mark",
+                "text": "Yes. Bad idea. My back hurts now.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "You really need help sometimes."
+                "speaker": "Heli",
+                "text": "You really need help sometimes.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I know. But after we paint the wall, the room looks much nicer."
+                "speaker": "Mark",
+                "text": "I know. But after we paint the wall, the room looks much nicer.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "That's true. Did you also go to the bank yesterday?"
+                "speaker": "Heli",
+                "text": "That's true. Did you also go to the bank yesterday?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. I needed to make deposit and check my savings balance."
+                "speaker": "Mark",
+                "text": "Yes. I needed to make deposit and check my savings balance.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Was everything okay there?"
+                "speaker": "Heli",
+                "text": "Was everything okay there?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Almost. I forgot my signature on one paper."
+                "speaker": "Mark",
+                "text": "Almost. I forgot my signature on one paper.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Again?"
+                "speaker": "Heli",
+                "text": "Again?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. The bank worker looked very tired of me."
+                "speaker": "Mark",
+                "text": "Yes. The bank worker looked very tired of me.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Did you also ask about the loan?"
+                "speaker": "Heli",
+                "text": "Did you also ask about the loan?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "A little. But I think maybe next year."
+                "speaker": "Mark",
+                "text": "A little. But I think maybe next year.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "And how did you get there? Taxi again?"
+                "speaker": "Heli",
+                "text": "And how did you get there? Taxi again?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. The traffic was terrible near my old address."
+                "speaker": "Mark",
+                "text": "Yes. The traffic was terrible near my old address.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Morning traffic is always horrible there."
+                "speaker": "Heli",
+                "text": "Morning traffic is always horrible there.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, and the driver gave me wrong change after I paid."
+                "speaker": "Mark",
+                "text": "Yes, and the driver gave me wrong change after I paid.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Did you notice immediately?"
+                "speaker": "Heli",
+                "text": "Did you notice immediately?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "No, only later when I checked the receipt."
+                "speaker": "Mark",
+                "text": "No, only later when I checked the receipt.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Ah, that's annoying."
+                "speaker": "Heli",
+                "text": "Ah, that's annoying.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, but not big problem. Oh look, waiter is coming."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Waiter",
-                "text": "Good morning! Here are your menus. Are you ready to order?"
-              },
-              {
-                "speaker": "Wife",
-                "text": "I think so."
-              },
-              {
-                "speaker": "Me",
-                "text": "Can I ask something first?"
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Waiter",
-                "text": "Of course. What would you like to know?"
-              },
-              {
-                "speaker": "Me",
-                "text": "Which sandwich do you recommend?"
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Waiter",
-                "text": "The chicken sandwich is very popular, and the soup today is also excellent."
-              },
-              {
-                "speaker": "Wife",
-                "text": "Does the soup come with salad?"
+                "speaker": "Mark",
+                "text": "Yes, but not big problem. Oh look, waiter is coming.",
+                "role": "student"
               }
             ]
           },
@@ -2666,11 +2972,18 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Yes, a small salad on the side."
+                "text": "Good morning! Here are your menus. Are you ready to order?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Okay. I want sandwich."
+                "speaker": "Heli",
+                "text": "I think so.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Can I ask something first?",
+                "role": "student"
               }
             ]
           },
@@ -2678,11 +2991,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Great. And for drinks?"
+                "text": "Of course. What would you like to know?",
+                "role": "teacher"
               },
               {
-                "speaker": "Wife",
-                "text": "I'd like a decaf cappuccino with soy milk please."
+                "speaker": "Mark",
+                "text": "Which sandwich do you recommend?",
+                "role": "student"
               }
             ]
           },
@@ -2690,11 +3005,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Absolutely."
+                "text": "The chicken sandwich is very popular, and the soup today is also excellent.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "And for me, long double espresso please. No sugar."
+                "speaker": "Heli",
+                "text": "Does the soup come with salad?",
+                "role": "teacher"
               }
             ]
           },
@@ -2702,11 +3019,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Certainly. Anything else?"
+                "text": "Yes, a small salad on the side.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "One chocolate cake to share."
+                "speaker": "Mark",
+                "text": "Okay. I want sandwich.",
+                "role": "student"
               }
             ]
           },
@@ -2714,87 +3033,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Perfect. I'll place the order now."
+                "text": "Great. And for drinks?",
+                "role": "teacher"
               },
               {
-                "speaker": "Wife",
-                "text": "Thank you."
-              },
-              {
-                "speaker": "Waiter",
-                "text": "My pleasure."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Wife",
-                "text": "Your English is getting more natural now."
-              },
-              {
-                "speaker": "Me",
-                "text": "Sometimes yes, but long explanations are still difficult."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Wife",
-                "text": "But today you explained many things very well."
-              },
-              {
-                "speaker": "Me",
-                "text": "I try. Words like deposit and exchange are still hard for me."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Wife",
-                "text": "You used them correctly though."
-              },
-              {
-                "speaker": "Me",
-                "text": "Yes, but I need more practice."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Wife",
-                "text": "That's normal. I still remember when you only knew \"bank\" and \"money.\""
-              },
-              {
-                "speaker": "Me",
-                "text": "True. Now I can explain traffic problems, wrong address, receipts… many things."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Wife",
-                "text": "Exactly. And you can even explain home repairs now."
-              },
-              {
-                "speaker": "Me",
-                "text": "Yes. I know plank, shelf, wood, paint… too many words now."
-              }
-            ]
-          },
-          {
-            "lines": [
-              {
-                "speaker": "Wife",
-                "text": "Soon you'll work in hardware store."
-              },
-              {
-                "speaker": "Me",
-                "text": "No thank you. Too much carrying heavy wood."
+                "speaker": "Heli",
+                "text": "I'd like a decaf cappuccino with soy milk please.",
+                "role": "teacher"
               }
             ]
           },
@@ -2802,11 +3047,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Here you are — one chicken sandwich, one soup and salad, one decaf cappuccino with soy milk, one long double espresso, and one chocolate cake."
+                "text": "Absolutely.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Sorry, I think the cake is missing."
+                "speaker": "Mark",
+                "text": "And for me, long double espresso please. No sugar.",
+                "role": "student"
               }
             ]
           },
@@ -2814,11 +3061,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Oh, you're absolutely right. I'm sorry about that. I'll bring it immediately."
+                "text": "Certainly. Anything else?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "No problem, thank you."
+                "speaker": "Mark",
+                "text": "One chocolate cake to share.",
+                "role": "student"
               }
             ]
           },
@@ -2826,15 +3075,149 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "And here's the cake. Enjoy everything!"
+                "text": "Perfect. I'll place the order now.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Thank you very much."
+                "speaker": "Heli",
+                "text": "Thank you.",
+                "role": "teacher"
               },
               {
-                "speaker": "Wife",
-                "text": "Thank you!"
+                "speaker": "Waiter",
+                "text": "My pleasure.",
+                "role": "teacher"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Your English is getting more natural now.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Sometimes yes, but long explanations are still difficult.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "But today you explained many things very well.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I try. Words like deposit and exchange are still hard for me.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "You used them correctly though.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, but I need more practice.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "That's normal. I still remember when you only knew \"bank\" and \"money.\"",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "True. Now I can explain traffic problems, wrong address, receipts… many things.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Exactly. And you can even explain home repairs now.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes. I know plank, shelf, wood, paint… too many words now.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Soon you'll work in hardware store.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "No thank you. Too much carrying heavy wood.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "text": "Here you are — one chicken sandwich, one soup and salad, one decaf cappuccino with soy milk, one long double espresso, and one chocolate cake.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Sorry, I think the cake is missing.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "text": "Oh, you're absolutely right. I'm sorry about that. I'll bring it immediately.",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "No problem, thank you.",
+                "role": "student"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "text": "And here's the cake. Enjoy everything!",
+                "role": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Thank you very much.",
+                "role": "student"
+              },
+              {
+                "speaker": "Heli",
+                "text": "Thank you!",
+                "role": "teacher"
               }
             ]
           }
@@ -2905,11 +3288,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Thanks again for helping me with the room today."
+                "text": "Thanks again for helping me with the room today.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "No problem. The shelf is much better now."
+                "speaker": "Mark",
+                "text": "No problem. The shelf is much better now.",
+                "role": "student"
               }
             ]
           },
@@ -2917,11 +3302,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Yes, the paint also looks good."
+                "text": "Yes, the paint also looks good.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, the room looks clean now."
+                "speaker": "Mark",
+                "text": "Yes, the room looks clean now.",
+                "role": "student"
               }
             ]
           },
@@ -2929,11 +3316,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "My cough is finally better."
+                "text": "My cough is finally better.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Good. My cold is also almost gone."
+                "speaker": "Mark",
+                "text": "Good. My cold is also almost gone.",
+                "role": "student"
               }
             ]
           },
@@ -2941,11 +3330,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "This street is always busy."
+                "text": "This street is always busy.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, a lot of traffic here."
+                "speaker": "Mark",
+                "text": "Yes, a lot of traffic here.",
+                "role": "student"
               }
             ]
           },
@@ -2953,11 +3344,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Look at that building."
+                "text": "Look at that building.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I see it. I never noticed it before."
+                "speaker": "Mark",
+                "text": "Yes, I see it. I never noticed it before.",
+                "role": "student"
               }
             ]
           },
@@ -2965,11 +3358,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "There is a traffic light."
+                "text": "There is a traffic light.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I see it. It is red. I will stop."
+                "speaker": "Mark",
+                "text": "I see it. It is red. I will stop.",
+                "role": "student"
               }
             ]
           },
@@ -2977,11 +3372,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "That bus is very big."
+                "text": "That bus is very big.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, many people inside."
+                "speaker": "Mark",
+                "text": "Yes, many people inside.",
+                "role": "student"
               }
             ]
           },
@@ -2989,11 +3386,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "A bicycle is coming."
+                "text": "A bicycle is coming.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I will wait."
+                "speaker": "Mark",
+                "text": "I will wait.",
+                "role": "student"
               }
             ]
           },
@@ -3001,11 +3400,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Look at the pedestrian."
+                "text": "Look at the pedestrian.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "He is crossing the street."
+                "speaker": "Mark",
+                "text": "He is crossing the street.",
+                "role": "student"
               }
             ]
           },
@@ -3013,11 +3414,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "You need to turn here."
+                "text": "You need to turn here.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Oh… I missed the turn."
+                "speaker": "Mark",
+                "text": "Oh… I missed the turn.",
+                "role": "student"
               }
             ]
           },
@@ -3025,11 +3428,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Again?"
+                "text": "Again?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I was not paying attention."
+                "speaker": "Mark",
+                "text": "Yes, I was not paying attention.",
+                "role": "student"
               }
             ]
           },
@@ -3037,11 +3442,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Do you know the address?"
+                "text": "Do you know the address?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I have it on my phone."
+                "speaker": "Mark",
+                "text": "Yes, I have it on my phone.",
+                "role": "student"
               }
             ]
           },
@@ -3049,11 +3456,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "That store looks new."
+                "text": "That store looks new.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I did not see it before."
+                "speaker": "Mark",
+                "text": "Yes, I did not see it before.",
+                "role": "student"
               }
             ]
           },
@@ -3061,11 +3470,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "This park is small."
+                "text": "This park is small.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, but nice."
+                "speaker": "Mark",
+                "text": "Yes, but nice.",
+                "role": "student"
               }
             ]
           },
@@ -3073,11 +3484,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "There is a bridge behind it."
+                "text": "There is a bridge behind it.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I see it now."
+                "speaker": "Mark",
+                "text": "I see it now.",
+                "role": "student"
               }
             ]
           },
@@ -3085,11 +3498,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "You are not very good with directions."
+                "text": "You are not very good with directions.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "True. I focus too much on traffic."
+                "speaker": "Mark",
+                "text": "True. I focus too much on traffic.",
+                "role": "student"
               }
             ]
           },
@@ -3097,11 +3512,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "You still have my exchange receipt?"
+                "text": "You still have my exchange receipt?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I think it is in my bag."
+                "speaker": "Mark",
+                "text": "Yes, I think it is in my bag.",
+                "role": "student"
               }
             ]
           },
@@ -3109,11 +3526,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Good. And your signature was correct at the bank?"
+                "text": "Good. And your signature was correct at the bank?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, this time I checked it twice."
+                "speaker": "Mark",
+                "text": "Yes, this time I checked it twice.",
+                "role": "student"
               }
             ]
           },
@@ -3121,11 +3540,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Good job."
+                "text": "Good job.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I am trying to remember everything better."
+                "speaker": "Mark",
+                "text": "I am trying to remember everything better.",
+                "role": "student"
               }
             ]
           },
@@ -3133,11 +3554,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Now just drive slowly."
+                "text": "Now just drive slowly.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I will stop at the next sign."
+                "speaker": "Mark",
+                "text": "Yes, I will stop at the next sign.",
+                "role": "student"
               }
             ]
           },
@@ -3145,11 +3568,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Then I will get out at the corner."
+                "text": "Then I will get out at the corner.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Okay, I will stop there."
+                "speaker": "Mark",
+                "text": "Okay, I will stop there.",
+                "role": "student"
               }
             ]
           },
@@ -3157,11 +3582,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Thanks for the ride."
+                "text": "Thanks for the ride.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "No problem. See you next time."
+                "speaker": "Mark",
+                "text": "No problem. See you next time.",
+                "role": "student"
               }
             ]
           },
@@ -3169,11 +3596,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "And try not to miss the turn next time."
+                "text": "And try not to miss the turn next time.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I will try…"
+                "speaker": "Mark",
+                "text": "I will try…",
+                "role": "student"
               }
             ]
           }
@@ -3232,11 +3661,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "We still have a few minutes before we get to my house."
+                "text": "We still have a few minutes before we get to my house.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, the traffic is moving slowly today."
+                "speaker": "Mark",
+                "text": "Yes, the traffic is moving slowly today.",
+                "role": "student"
               }
             ]
           },
@@ -3244,11 +3675,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Look at that truck in front of us."
+                "text": "Look at that truck in front of us.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, it is very big. I would not want to drive that."
+                "speaker": "Mark",
+                "text": "Yes, it is very big. I would not want to drive that.",
+                "role": "student"
               }
             ]
           },
@@ -3256,11 +3689,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Me neither. I prefer a normal car."
+                "text": "Me neither. I prefer a normal car.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Same. Parking must be difficult with a truck."
+                "speaker": "Mark",
+                "text": "Same. Parking must be difficult with a truck.",
+                "role": "student"
               }
             ]
           },
@@ -3268,11 +3703,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "There are a lot of trees on this street."
+                "text": "There are a lot of trees on this street.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I like that. It makes the street look nicer."
+                "speaker": "Mark",
+                "text": "Yes, I like that. It makes the street look nicer.",
+                "role": "student"
               }
             ]
           },
@@ -3280,11 +3717,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Oh, look at that dog."
+                "text": "Oh, look at that dog.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, it is running very fast."
+                "speaker": "Mark",
+                "text": "Yes, it is running very fast.",
+                "role": "student"
               }
             ]
           },
@@ -3292,11 +3731,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "The owner is trying to keep up with it."
+                "text": "The owner is trying to keep up with it.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "The dog looks like it has a lot of energy."
+                "speaker": "Mark",
+                "text": "The dog looks like it has a lot of energy.",
+                "role": "student"
               }
             ]
           },
@@ -3304,11 +3745,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "That park is busier than before."
+                "text": "That park is busier than before.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I can see more people there now."
+                "speaker": "Mark",
+                "text": "Yes, I can see more people there now.",
+                "role": "student"
               }
             ]
           },
@@ -3316,11 +3759,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "See that bench near the crosswalk?"
+                "text": "See that bench near the crosswalk?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. Two people are sitting there."
+                "speaker": "Mark",
+                "text": "Yes. Two people are sitting there.",
+                "role": "student"
               }
             ]
           },
@@ -3328,11 +3773,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Sometimes I sit there when I wait for a taxi."
+                "text": "Sometimes I sit there when I wait for a taxi.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Really? I usually just stand and wait."
+                "speaker": "Mark",
+                "text": "Really? I usually just stand and wait.",
+                "role": "student"
               }
             ]
           },
@@ -3340,11 +3787,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Look at the fence around that building."
+                "text": "Look at the fence around that building.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Maybe they are fixing something there."
+                "speaker": "Mark",
+                "text": "Maybe they are fixing something there.",
+                "role": "student"
               }
             ]
           },
@@ -3352,11 +3801,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Could be. The building looks old."
+                "text": "Could be. The building looks old.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, maybe they are painting it."
+                "speaker": "Mark",
+                "text": "Yes, maybe they are painting it.",
+                "role": "student"
               }
             ]
           },
@@ -3364,11 +3815,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "That reminds me, are you happy with the paint we used today?"
+                "text": "That reminds me, are you happy with the paint we used today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I think the color looks much better than before."
+                "speaker": "Mark",
+                "text": "Yes, I think the color looks much better than before.",
+                "role": "student"
               }
             ]
           },
@@ -3376,11 +3829,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "I agree. The room feels bigger now."
+                "text": "I agree. The room feels bigger now.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "And much cleaner too."
+                "speaker": "Mark",
+                "text": "And much cleaner too.",
+                "role": "student"
               }
             ]
           },
@@ -3388,11 +3843,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Did you remember to put all the tools away?"
+                "text": "Did you remember to put all the tools away?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, everything is back in the box."
+                "speaker": "Mark",
+                "text": "Yes, everything is back in the box.",
+                "role": "student"
               }
             ]
           },
@@ -3400,11 +3857,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Good. Last time we spent twenty minutes looking for the hammer."
+                "text": "Good. Last time we spent twenty minutes looking for the hammer.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, and it was on the shelf the whole time."
+                "speaker": "Mark",
+                "text": "Yes, and it was on the shelf the whole time.",
+                "role": "student"
               }
             ]
           },
@@ -3412,11 +3871,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "We are almost at my address now."
+                "text": "We are almost at my address now.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, just one more turn."
+                "speaker": "Mark",
+                "text": "Yes, just one more turn.",
+                "role": "student"
               }
             ]
           },
@@ -3424,11 +3885,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "The traffic light is green. Good timing."
+                "text": "The traffic light is green. Good timing.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Finally. We waited a long time at the last one."
+                "speaker": "Mark",
+                "text": "Finally. We waited a long time at the last one.",
+                "role": "student"
               }
             ]
           },
@@ -3436,11 +3899,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "I think that store sells bicycles."
+                "text": "I think that store sells bicycles.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, I can see several bicycles in the window."
+                "speaker": "Mark",
+                "text": "Yes, I can see several bicycles in the window.",
+                "role": "student"
               }
             ]
           },
@@ -3448,11 +3913,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Maybe I should buy one."
+                "text": "Maybe I should buy one.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Then you won't need a taxi so often."
+                "speaker": "Mark",
+                "text": "Then you won't need a taxi so often.",
+                "role": "student"
               }
             ]
           },
@@ -3460,11 +3927,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "True. It would also be cheaper."
+                "text": "True. It would also be cheaper.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "And probably faster when there is a lot of traffic."
+                "speaker": "Mark",
+                "text": "And probably faster when there is a lot of traffic.",
+                "role": "student"
               }
             ]
           },
@@ -3472,11 +3941,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Okay, this is my corner."
+                "text": "Okay, this is my corner.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Great, I will stop here."
+                "speaker": "Mark",
+                "text": "Great, I will stop here.",
+                "role": "student"
               }
             ]
           },
@@ -3484,11 +3955,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "Thanks again for helping with the room and for the ride."
+                "text": "Thanks again for helping with the room and for the ride.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "No problem. It was a good day."
+                "speaker": "Mark",
+                "text": "No problem. It was a good day.",
+                "role": "student"
               }
             ]
           },
@@ -3496,11 +3969,13 @@
             "lines": [
               {
                 "speaker": "Friend",
-                "text": "See you next week."
+                "text": "See you next week.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "See you!"
+                "speaker": "Mark",
+                "text": "See you!",
+                "role": "student"
               }
             ]
           }
@@ -3579,11 +4054,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "Welcome to the gym! Can I help you?"
+                "text": "Welcome to the gym! Can I help you?",
+                "role": "teacher"
               },
               {
-                "speaker": "Wife",
-                "text": "Yes. We'd like to renew our membership."
+                "speaker": "Heli",
+                "text": "Yes. We'd like to renew our membership.",
+                "role": "teacher"
               }
             ]
           },
@@ -3591,11 +4068,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "Of course. What name is it under?"
+                "text": "Of course. What name is it under?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I think it's under my name — Mark."
+                "speaker": "Mark",
+                "text": "I think it's under my name — Mark.",
+                "role": "student"
               }
             ]
           },
@@ -3603,11 +4082,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "I can see that you have a family membership."
+                "text": "I can see that you have a family membership.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, that's right. For both of us."
+                "speaker": "Mark",
+                "text": "Yes, that's right. For both of us.",
+                "role": "student"
               }
             ]
           },
@@ -3615,11 +4096,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "It expires at the end of the month. How many months would you like?"
+                "text": "It expires at the end of the month. How many months would you like?",
+                "role": "teacher"
               },
               {
-                "speaker": "Wife",
-                "text": "Three months, please. Is the price the same as before?"
+                "speaker": "Heli",
+                "text": "Three months, please. Is the price the same as before?",
+                "role": "teacher"
               }
             ]
           },
@@ -3627,11 +4110,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "Yes, 350 shekels per person. Shall I renew the membership now?"
+                "text": "Yes, 350 shekels per person. Shall I renew the membership now?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes please. I'll pay with a card."
+                "speaker": "Mark",
+                "text": "Yes please. I'll pay with a card.",
+                "role": "student"
               }
             ]
           },
@@ -3639,11 +4124,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "Do you also need a locker today?"
+                "text": "Do you also need a locker today?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. Do you have a free locker?"
+                "speaker": "Mark",
+                "text": "Yes. Do you have a free locker?",
+                "role": "student"
               }
             ]
           },
@@ -3651,11 +4138,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "The free locker is number eight. Here is the key."
+                "text": "The free locker is number eight. Here is the key.",
+                "role": "teacher"
               },
               {
-                "speaker": "Wife",
-                "text": "Is that the locker that's near the changing rooms?"
+                "speaker": "Heli",
+                "text": "Is that the locker that's near the changing rooms?",
+                "role": "teacher"
               }
             ]
           },
@@ -3663,11 +4152,13 @@
             "lines": [
               {
                 "speaker": "Receptionist",
-                "text": "Yes, exactly."
+                "text": "Yes, exactly.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Perfect. Thank you very much."
+                "speaker": "Mark",
+                "text": "Perfect. Thank you very much.",
+                "role": "student"
               }
             ]
           }
@@ -3679,136 +4170,159 @@
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Let's take a break. My legs are already tired."
+                "speaker": "Heli",
+                "text": "Let's take a break. My legs are already tired.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Me too. I think I trained too hard today."
+                "speaker": "Mark",
+                "text": "Me too. I think I trained too hard today.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Did you remember to bring a towel and a bottle?"
+                "speaker": "Heli",
+                "text": "Did you remember to bring a towel and a bottle?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, they're in my locker."
+                "speaker": "Mark",
+                "text": "Yes, they're in my locker.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "You lifted very heavy weights. Did you do a proper warm-up?"
+                "speaker": "Heli",
+                "text": "You lifted very heavy weights. Did you do a proper warm-up?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes, but my back hurts because the exercises were too heavy for me."
+                "speaker": "Mark",
+                "text": "Yes, but my back hurts because the exercises were too heavy for me.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "I think you should rest for a few minutes."
+                "speaker": "Heli",
+                "text": "I think you should rest for a few minutes.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. I also have pain in my arms."
+                "speaker": "Mark",
+                "text": "Yes. I also have pain in my arms.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "I ran on the treadmill for twenty minutes. Now I want to do some stretches."
+                "speaker": "Heli",
+                "text": "I ran on the treadmill for twenty minutes. Now I want to do some stretches.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Good idea. Actually, let me ask that man first about the machine."
+                "speaker": "Mark",
+                "text": "Good idea. Actually, let me ask that man first about the machine.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Me",
-                "text": "Excuse me, how many sets do you still have on this machine?"
+                "speaker": "Mark",
+                "text": "Excuse me, how many sets do you still have on this machine?",
+                "role": "student"
               },
               {
                 "speaker": "Gym-goer",
-                "text": "Just one more."
+                "text": "Just one more.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Thanks. I'll wait here."
+                "speaker": "Mark",
+                "text": "Thanks. I'll wait here.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Can you put the heavy weights back when you're done?"
+                "speaker": "Heli",
+                "text": "Can you put the heavy weights back when you're done?",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Of course. But the trainer told me I should carry less next time."
+                "speaker": "Mark",
+                "text": "Of course. But the trainer told me I should carry less next time.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "You look strong today, though."
+                "speaker": "Heli",
+                "text": "You look strong today, though.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I don't feel strong. I think I have a muscle strain."
+                "speaker": "Mark",
+                "text": "I don't feel strong. I think I have a muscle strain.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "When you have a strain, you should stop immediately."
+                "speaker": "Heli",
+                "text": "When you have a strain, you should stop immediately.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "I know. When I finish this exercise, I'll stop."
+                "speaker": "Mark",
+                "text": "I know. When I finish this exercise, I'll stop.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "Don't forget — we're going to the ice rink tonight. Your ice skates are in the car."
+                "speaker": "Heli",
+                "text": "Don't forget — we're going to the ice rink tonight. Your ice skates are in the car.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Yes. I hope I can still skate — my legs are already so tired."
+                "speaker": "Mark",
+                "text": "Yes. I hope I can still skate — my legs are already so tired.",
+                "role": "student"
               }
             ]
           },
           {
             "lines": [
               {
-                "speaker": "Wife",
-                "text": "The training session was too long today. Next time we should rest more between exercises."
+                "speaker": "Heli",
+                "text": "The training session was too long today. Next time we should rest more between exercises.",
+                "role": "teacher"
               },
               {
-                "speaker": "Me",
-                "text": "Agreed. Let's go get changed."
+                "speaker": "Mark",
+                "text": "Agreed. Let's go get changed.",
+                "role": "student"
               }
             ]
           }

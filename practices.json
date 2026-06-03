@@ -37,11 +37,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "My legs are so tired. I don't know why I agreed to walk after the gym."
+                "text": "My legs are so tired. I don't know why I agreed to walk after the gym.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Because the weather is nice. Look at that park over there."
+                "text": "Because the weather is nice. Look at that park over there.",
+                "role": "student"
               }
             ]
           },
@@ -49,11 +51,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "There's a bench near the bridge. Do you want to sit for a minute?"
+                "text": "There's a bench near the bridge. Do you want to sit for a minute?",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "No, let's keep going. We can rest at the café."
+                "text": "No, let's keep going. We can rest at the café.",
+                "role": "student"
               }
             ]
           },
@@ -61,11 +65,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Look at that dog. It's running so fast."
+                "text": "Look at that dog. It's running so fast.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Yes, its owner is trying to catch up with it."
+                "text": "Yes, its owner is trying to catch up with it.",
+                "role": "student"
               }
             ]
           },
@@ -73,11 +79,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Those trees are beautiful."
+                "text": "Those trees are beautiful.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Yes. And look at the building behind them — I think it's new."
+                "text": "Yes. And look at the building behind them — I think it's new.",
+                "role": "student"
               }
             ]
           },
@@ -85,11 +93,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "There are so many stores on this street."
+                "text": "There are so many stores on this street.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Yes. I want to look at that one later."
+                "text": "Yes. I want to look at that one later.",
+                "role": "student"
               }
             ]
           },
@@ -97,11 +107,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "You looked strong at the gym this morning."
+                "text": "You looked strong at the gym this morning.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "I don't feel strong right now. I'm very tired."
+                "text": "I don't feel strong right now. I'm very tired.",
+                "role": "student"
               }
             ]
           },
@@ -109,11 +121,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Me too. But we ran for twenty minutes — that's not bad."
+                "text": "Me too. But we ran for twenty minutes — that's not bad.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "True. But my legs feel heavy now."
+                "text": "True. But my legs feel heavy now.",
+                "role": "student"
               }
             ]
           },
@@ -121,15 +135,18 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Good afternoon. What can I get you?"
+                "text": "Good afternoon. What can I get you?",
+                "role": "teacher"
               },
               {
                 "speaker": "Heli",
-                "text": "I'd like a cappuccino and a piece of cake, please."
+                "text": "I'd like a cappuccino and a piece of cake, please.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "An espresso, please. And do you have a table outside?"
+                "text": "An espresso, please. And do you have a table outside?",
+                "role": "student"
               }
             ]
           },
@@ -137,11 +154,13 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Of course. Take any table you'd like."
+                "text": "Of course. Take any table you'd like.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Thank you. We'll take that one in the corner."
+                "text": "Thank you. We'll take that one in the corner.",
+                "role": "student"
               }
             ]
           },
@@ -149,11 +168,13 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "That cake was really good."
+                "text": "That cake was really good.",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Yes. Can we ask for the bill?"
+                "text": "Yes. Can we ask for the bill?",
+                "role": "student"
               }
             ]
           },
@@ -161,15 +182,18 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Here is the bill. I hope you enjoyed everything."
+                "text": "Here is the bill. I hope you enjoyed everything.",
+                "role": "teacher"
               },
               {
                 "speaker": "Heli",
-                "text": "Yes, thank you. Should we leave a tip?"
+                "text": "Yes, thank you. Should we leave a tip?",
+                "role": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "Of course. The service was good. I'll add it when I pay."
+                "text": "Of course. The service was good. I'll add it when I pay.",
+                "role": "student"
               }
             ]
           }
