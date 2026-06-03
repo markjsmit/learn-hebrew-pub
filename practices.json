@@ -141,7 +141,7 @@
               {
                 "speaker": "Heli",
                 "text": "I'd like a cappuccino and a piece of cake, please.",
-                "turn": "teacher"
+                "turn": "student"
               },
               {
                 "speaker": "Mark",
@@ -188,7 +188,7 @@
               {
                 "speaker": "Heli",
                 "text": "Yes, thank you. Should we leave a tip?",
-                "turn": "teacher"
+                "turn": "student"
               },
               {
                 "speaker": "Mark",

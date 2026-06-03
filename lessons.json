@@ -2791,7 +2791,7 @@
               {
                 "speaker": "Heli",
                 "text": "Good morning. You look tired today.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2805,7 +2805,7 @@
               {
                 "speaker": "Heli",
                 "text": "Is it from the cold you had last week?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2819,7 +2819,7 @@
               {
                 "speaker": "Heli",
                 "text": "Did you finally finish the room yesterday?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2833,7 +2833,7 @@
               {
                 "speaker": "Heli",
                 "text": "Did you carry the wood upstairs again by yourself?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2847,7 +2847,7 @@
               {
                 "speaker": "Heli",
                 "text": "You really need help sometimes.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2861,7 +2861,7 @@
               {
                 "speaker": "Heli",
                 "text": "That's true. Did you also go to the bank yesterday?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2875,7 +2875,7 @@
               {
                 "speaker": "Heli",
                 "text": "Was everything okay there?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2889,7 +2889,7 @@
               {
                 "speaker": "Heli",
                 "text": "Again?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2903,7 +2903,7 @@
               {
                 "speaker": "Heli",
                 "text": "Did you also ask about the loan?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2917,7 +2917,7 @@
               {
                 "speaker": "Heli",
                 "text": "And how did you get there? Taxi again?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2931,7 +2931,7 @@
               {
                 "speaker": "Heli",
                 "text": "Morning traffic is always horrible there.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2945,7 +2945,7 @@
               {
                 "speaker": "Heli",
                 "text": "Did you notice immediately?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2959,7 +2959,7 @@
               {
                 "speaker": "Heli",
                 "text": "Ah, that's annoying.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -2978,7 +2978,7 @@
               {
                 "speaker": "Heli",
                 "text": "I think so.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3011,7 +3011,7 @@
               {
                 "speaker": "Heli",
                 "text": "Does the soup come with salad?",
-                "turn": "student"
+                "turn": "teacher"
               }
             ]
           },
@@ -3039,7 +3039,7 @@
               {
                 "speaker": "Heli",
                 "text": "I'd like a decaf cappuccino with soy milk please.",
-                "turn": "student"
+                "turn": "teacher"
               }
             ]
           },
@@ -3081,7 +3081,7 @@
               {
                 "speaker": "Heli",
                 "text": "Thank you.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Waiter",
@@ -3095,7 +3095,7 @@
               {
                 "speaker": "Heli",
                 "text": "Your English is getting more natural now.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3109,7 +3109,7 @@
               {
                 "speaker": "Heli",
                 "text": "But today you explained many things very well.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3123,7 +3123,7 @@
               {
                 "speaker": "Heli",
                 "text": "You used them correctly though.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3137,7 +3137,7 @@
               {
                 "speaker": "Heli",
                 "text": "That's normal. I still remember when you only knew \"bank\" and \"money.\"",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3151,7 +3151,7 @@
               {
                 "speaker": "Heli",
                 "text": "Exactly. And you can even explain home repairs now.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3165,7 +3165,7 @@
               {
                 "speaker": "Heli",
                 "text": "Soon you'll work in hardware store.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -3217,7 +3217,7 @@
               {
                 "speaker": "Heli",
                 "text": "Thank you!",
-                "turn": "student"
+                "turn": "teacher"
               }
             ]
           }
@@ -4060,7 +4060,7 @@
               {
                 "speaker": "Heli",
                 "text": "Yes. We'd like to renew our membership.",
-                "turn": "student"
+                "turn": "teacher"
               }
             ]
           },
@@ -4102,7 +4102,7 @@
               {
                 "speaker": "Heli",
                 "text": "Three months, please. Is the price the same as before?",
-                "turn": "student"
+                "turn": "teacher"
               }
             ]
           },
@@ -4144,7 +4144,7 @@
               {
                 "speaker": "Heli",
                 "text": "Is that the locker that's near the changing rooms?",
-                "turn": "student"
+                "turn": "teacher"
               }
             ]
           },
@@ -4172,7 +4172,7 @@
               {
                 "speaker": "Heli",
                 "text": "Let's take a break. My legs are already tired.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4186,7 +4186,7 @@
               {
                 "speaker": "Heli",
                 "text": "Did you remember to bring a towel and a bottle?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4200,7 +4200,7 @@
               {
                 "speaker": "Heli",
                 "text": "You lifted very heavy weights. Did you do a proper warm-up?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4214,7 +4214,7 @@
               {
                 "speaker": "Heli",
                 "text": "I think you should rest for a few minutes.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4228,7 +4228,7 @@
               {
                 "speaker": "Heli",
                 "text": "I ran on the treadmill for twenty minutes. Now I want to do some stretches.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4261,7 +4261,7 @@
               {
                 "speaker": "Heli",
                 "text": "Can you put the heavy weights back when you're done?",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4275,7 +4275,7 @@
               {
                 "speaker": "Heli",
                 "text": "You look strong today, though.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4289,7 +4289,7 @@
               {
                 "speaker": "Heli",
                 "text": "When you have a strain, you should stop immediately.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4303,7 +4303,7 @@
               {
                 "speaker": "Heli",
                 "text": "Don't forget — we're going to the ice rink tonight. Your ice skates are in the car.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
@@ -4317,7 +4317,7 @@
               {
                 "speaker": "Heli",
                 "text": "The training session was too long today. Next time we should rest more between exercises.",
-                "turn": "student"
+                "turn": "teacher"
               },
               {
                 "speaker": "Mark",
