@@ -3,9 +3,9 @@
     "id": "practice-0001-after-lesson-13-afternoon-walk-cafe",
     "number": 1,
     "afterLesson": 13,
-    "title": "Afternoon Walk & Café",
-    "subject": "Street & City, Food & Dining",
-    "setting": "An afternoon walk with Heli through a neighborhood park after the gym. They talk about the workout, notice things along the way, and end up stopping at a café.",
+    "title": "",
+    "subject": "",
+    "setting": "An afternoon walk with Heli through a neighborhood park after the gym. They talk about the workout, notice things along the way, and end up stopping at a café.\n\n---",
     "goal": [
       "Use city and nature vocabulary (park, tree, dog, building, store, bench, bridge) without hesitating",
       "Talk about the gym and how you feel in a natural, flowing way",
@@ -29,6 +29,7 @@
       "To pay"
     ],
     "missedVocabulary": [],
+    "notes": "",
     "conversations": [
       {
         "title": null,
@@ -37,13 +38,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "My legs are so tired. I don't know why I agreed to walk after the gym.",
-                "turn": "teacher"
+                "text": "My legs are so tired. I don't know why I agreed to walk after the gym."
               },
               {
                 "speaker": "Mark",
-                "text": "Because the weather is nice. Look at that park over there.",
-                "turn": "student"
+                "text": "Because the weather is nice. Look at that park over there."
               }
             ]
           },
@@ -51,13 +50,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "There's a bench near the bridge. Do you want to sit for a minute?",
-                "turn": "teacher"
+                "text": "There's a bench near the bridge. Do you want to sit for a minute?"
               },
               {
                 "speaker": "Mark",
-                "text": "No, let's keep going. We can rest at the café.",
-                "turn": "student"
+                "text": "No, let's keep going. We can rest at the café."
               }
             ]
           },
@@ -65,13 +62,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Look at that dog. It's running so fast.",
-                "turn": "teacher"
+                "text": "Look at that dog. It's running so fast."
               },
               {
                 "speaker": "Mark",
-                "text": "Yes, its owner is trying to catch up with it.",
-                "turn": "student"
+                "text": "Yes, its owner is trying to catch up with it."
               }
             ]
           },
@@ -79,13 +74,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Those trees are beautiful.",
-                "turn": "teacher"
+                "text": "Those trees are beautiful."
               },
               {
                 "speaker": "Mark",
-                "text": "Yes. And look at the building behind them — I think it's new.",
-                "turn": "student"
+                "text": "Yes. And look at the building behind them — I think it's new."
               }
             ]
           },
@@ -93,13 +86,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "There are so many stores on this street.",
-                "turn": "teacher"
+                "text": "There are so many stores on this street."
               },
               {
                 "speaker": "Mark",
-                "text": "Yes. I want to look at that one later.",
-                "turn": "student"
+                "text": "Yes. I want to look at that one later."
               }
             ]
           },
@@ -107,13 +98,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "You looked strong at the gym this morning.",
-                "turn": "teacher"
+                "text": "You looked strong at the gym this morning."
               },
               {
                 "speaker": "Mark",
-                "text": "I don't feel strong right now. I'm very tired.",
-                "turn": "student"
+                "text": "I don't feel strong right now. I'm very tired."
               }
             ]
           },
@@ -121,13 +110,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Me too. But we ran for twenty minutes — that's not bad.",
-                "turn": "teacher"
+                "text": "Me too. But we ran for twenty minutes — that's not bad."
               },
               {
                 "speaker": "Mark",
-                "text": "True. But my legs feel heavy now.",
-                "turn": "student"
+                "text": "True. But my legs feel heavy now."
               }
             ]
           },
@@ -135,18 +122,15 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Good afternoon. What can I get you?",
-                "turn": "teacher"
+                "text": "Good afternoon. What can I get you?"
               },
               {
                 "speaker": "Heli",
-                "text": "I'd like a cappuccino and a piece of cake, please.",
-                "turn": "student"
+                "text": "I'd like a cappuccino and a piece of cake, please."
               },
               {
                 "speaker": "Mark",
-                "text": "An espresso, please. And do you have a table outside?",
-                "turn": "student"
+                "text": "An espresso, please. And do you have a table outside?"
               }
             ]
           },
@@ -154,13 +138,11 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Of course. Take any table you'd like.",
-                "turn": "teacher"
+                "text": "Of course. Take any table you'd like."
               },
               {
                 "speaker": "Mark",
-                "text": "Thank you. We'll take that one in the corner.",
-                "turn": "student"
+                "text": "Thank you. We'll take that one in the corner."
               }
             ]
           },
@@ -168,13 +150,11 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "That cake was really good.",
-                "turn": "teacher"
+                "text": "That cake was really good."
               },
               {
                 "speaker": "Mark",
-                "text": "Yes. Can we ask for the bill?",
-                "turn": "student"
+                "text": "Yes. Can we ask for the bill?"
               }
             ]
           },
@@ -182,18 +162,15 @@
             "lines": [
               {
                 "speaker": "Waiter",
-                "text": "Here is the bill. I hope you enjoyed everything.",
-                "turn": "teacher"
+                "text": "Here is the bill. I hope you enjoyed everything."
               },
               {
                 "speaker": "Heli",
-                "text": "Yes, thank you. Should we leave a tip?",
-                "turn": "student"
+                "text": "Yes, thank you. Should we leave a tip?"
               },
               {
                 "speaker": "Mark",
-                "text": "Of course. The service was good. I'll add it when I pay.",
-                "turn": "student"
+                "text": "Of course. The service was good. I'll add it when I pay."
               }
             ]
           }
