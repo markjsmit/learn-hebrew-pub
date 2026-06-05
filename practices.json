@@ -213,5 +213,160 @@
         ]
       }
     ]
+  },
+  {
+    "id": "practice-0002-after-lesson-13-sunday-morning",
+    "number": 2,
+    "afterLesson": 13,
+    "title": "Sunday Morning at Home",
+    "subject": "",
+    "setting": "A Sunday morning at home. Mark woke up with back pain and tells Heli over coffee. They talk about it briefly and make plans for the day — they need cash and have a small transfer to do, so they decide to head to the ATM together. Because Mark's back hurts, Heli suggests taking a taxi.\n\n---",
+    "goal": [
+      "Use health vocabulary (pain, back, hurt, feel) without hesitating when something is wrong",
+      "Handle a simple bank errand in conversation — cash, transfer, receipt — naturally",
+      "Maintain flow when moving between topics in a casual home conversation"
+    ],
+    "wordsPracticed": [
+      "Back",
+      "Pain",
+      "To hurt",
+      "To feel (sick)",
+      "Medicine",
+      "ATM",
+      "Cash",
+      "Card",
+      "To transfer",
+      "Taxi",
+      "Driver",
+      "Address",
+      "Receipt",
+      "To sign",
+      "To pay",
+      "Gym",
+      "Bank",
+      "Account",
+      "Road"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Good morning. How are you feeling?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Not well. I have pain in my back."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Did you hurt it yesterday at the gym?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I think so. I don't feel well this morning."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Take some medicine. There's some in the kitchen."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, I'll take it now."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "We need to go to the ATM today — we have no cash at home."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. How much do you want me to take out?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "About five hundred shekels. Can you also transfer some money to my account?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, I'll do that too. I'll use my card at the ATM."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we take a taxi? Your back still hurts."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, good idea. I'll call a taxi now."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Tell the driver the address — the bank near the main road."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. And I'll ask for a receipt this time."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Good. Don't forget to sign when you transfer."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I know. I'll pay and then we can go home."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
