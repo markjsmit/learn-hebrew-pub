@@ -50,10 +50,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "My legs are so tired. I don't know why I agreed to walk after the gym."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Because the weather is nice. Look at that park over there."
               }
             ]
@@ -62,10 +64,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "There's a bench near the bridge. Do you want to sit for a minute?"
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "No, let's keep going. We can rest at the café."
               }
             ]
@@ -74,10 +78,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "Look at that dog. It's running so fast."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Yes, its owner is trying to catch up with it."
               }
             ]
@@ -86,10 +92,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "Those trees are beautiful."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Yes. And look at the building behind them — I think it's new."
               }
             ]
@@ -98,10 +106,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "There are so many stores on this street."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Yes. I want to look at that one later."
               }
             ]
@@ -110,10 +120,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "You looked strong at the gym this morning."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "I don't feel strong right now. I'm very tired."
               }
             ]
@@ -122,10 +134,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "Me too. But we ran for twenty minutes — that's not bad."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "True. But my legs feel heavy now."
               }
             ]
@@ -134,14 +148,17 @@
             "lines": [
               {
                 "speaker": "Waiter",
+                "turn": "teacher",
                 "text": "Good afternoon. What can I get you?"
               },
               {
                 "speaker": "Heli",
+                "turn": "student",
                 "text": "I'd like a cappuccino and a piece of cake, please."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "An espresso, please. And do you have a table outside?"
               }
             ]
@@ -150,10 +167,12 @@
             "lines": [
               {
                 "speaker": "Waiter",
+                "turn": "teacher",
                 "text": "Of course. Take any table you'd like."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Thank you. We'll take that one in the corner."
               }
             ]
@@ -162,10 +181,12 @@
             "lines": [
               {
                 "speaker": "Heli",
+                "turn": "teacher",
                 "text": "That cake was really good."
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Yes. Can we ask for the bill?"
               }
             ]
@@ -174,14 +195,17 @@
             "lines": [
               {
                 "speaker": "Waiter",
+                "turn": "teacher",
                 "text": "Here is the bill. I hope you enjoyed everything."
               },
               {
                 "speaker": "Heli",
+                "turn": "student",
                 "text": "Yes, thank you. Should we leave a tip?"
               },
               {
                 "speaker": "Mark",
+                "turn": "student",
                 "text": "Of course. The service was good. I'll add it when I pay."
               }
             ]
