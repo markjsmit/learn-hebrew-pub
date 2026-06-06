@@ -368,5 +368,218 @@
         ]
       }
     ]
+  },
+  {
+    "id": "practice-0003-after-lesson-13-ice-rink",
+    "number": 3,
+    "afterLesson": 13,
+    "title": "At the Ice Rink",
+    "subject": "",
+    "setting": "An evening at the ice rink with Heli. They check in, sort out the locker, skate for a while, and take a break when Mark's leg starts hurting.\n\n---",
+    "goal": [
+      "Use skating and gym vocabulary (skates, locker, membership, bottle) without hesitating",
+      "Talk about how you feel physically in a natural, flowing way",
+      "Handle a simple check-in at a desk and move on without breaking the conversation"
+    ],
+    "wordsPracticed": [
+      "Ice rink",
+      "Ice skates",
+      "To skate",
+      "Locker",
+      "Bottle",
+      "Membership",
+      "To renew",
+      "Price",
+      "Tired",
+      "Fast",
+      "Slow",
+      "Strong",
+      "Pain",
+      "Leg",
+      "To rest",
+      "To check"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "This ice rink is busier than last week."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes. But there's still enough space to skate."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Let's find a locker first."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I'll go ask at the desk — I'm not sure if our membership is still valid."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Excuse me — is our membership still valid?"
+              },
+              {
+                "speaker": "Receptionist",
+                "turn": "teacher",
+                "text": "Yes, until the end of the month. Do you need a locker?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes please, thank you."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I put the bottles in the locker."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Good. Let's put our skates on and get on the ice."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "You're going very fast. Slow down a little."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I'm fine. I like to skate fast."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "You look so strong today."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I don't feel strong. I'm already tired."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Already? We've only been skating for twenty minutes."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I know. My legs are still tired from yesterday."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Let's take a break and drink something."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — my bottle is in the locker."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "How are your legs feeling now?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I have a little pain in my right leg."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Then let's rest for a bit. Sit down here."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. Maybe ten minutes and then we can skate again."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we renew the membership next month?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes. What's the price now?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I think it went up a little. I'll check."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. Let's do it before we leave today."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
