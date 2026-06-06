@@ -20,8 +20,8 @@
       "english": "Back",
       "hebrew": "גַּב",
       "know": 5,
-      "conj": 4,
-      "last": "lesson-013",
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Health & Body"
     },
     {
@@ -83,9 +83,9 @@
     {
       "english": "Pain",
       "hebrew": "כְּאֵב",
-      "know": 4,
-      "conj": 4,
-      "last": "lesson-013",
+      "know": 5,
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Health & Body"
     },
     {
@@ -131,9 +131,9 @@
     {
       "english": "Medicine",
       "hebrew": "תְּרוּפָה",
-      "know": 3,
-      "conj": 4,
-      "last": "lesson-007",
+      "know": 4,
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Health & Body"
     },
     {
@@ -173,15 +173,15 @@
       "hebrew": "בַּנְק",
       "know": 5,
       "conj": 4,
-      "last": "lesson-009",
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
       "english": "Account",
       "hebrew": "חֶשְׁבּוֹן",
       "know": 5,
-      "conj": 3,
-      "last": "lesson-005",
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
@@ -189,15 +189,15 @@
       "hebrew": "כַּרְטִיס",
       "know": 5,
       "conj": 5,
-      "last": "lesson-013",
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
       "english": "Cash",
       "hebrew": "מְזוּמָן",
       "know": 5,
-      "conj": 3,
-      "last": "lesson-008",
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
@@ -252,16 +252,16 @@
       "english": "ATM",
       "hebrew": "כַּסְפּוֹמַט",
       "know": 5,
-      "conj": 2,
-      "last": "lesson-007",
+      "conj": 4,
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
       "english": "Receipt",
       "hebrew": "קַבָּלָה",
-      "know": 4,
-      "conj": 3,
-      "last": "lesson-012",
+      "know": 5,
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
@@ -323,17 +323,17 @@
     {
       "english": "Taxi",
       "hebrew": "מוֹנִית",
-      "know": 4,
-      "conj": 3,
-      "last": "lesson-010",
+      "know": 3,
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Transport"
     },
     {
       "english": "Driver",
       "hebrew": "נַהָג",
       "know": 5,
-      "conj": 4,
-      "last": "lesson-006",
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Transport"
     },
     {
@@ -347,9 +347,9 @@
     {
       "english": "Address",
       "hebrew": "כְּתֹבֶת",
-      "know": 4,
+      "know": 5,
       "conj": 4,
-      "last": "lesson-012",
+      "last": "practice-0002",
       "subject": "Transport"
     },
     {
@@ -747,9 +747,9 @@
     {
       "english": "Road",
       "hebrew": "כְּבִישׁ",
-      "know": 4,
+      "know": 5,
       "conj": 5,
-      "last": "lesson-012",
+      "last": "practice-0002",
       "subject": "Street & City"
     },
     {
@@ -813,7 +813,7 @@
       "hebrew": "חֶדֶר כּוֹשֶׁר",
       "know": 5,
       "conj": 5,
-      "last": "practice-0001",
+      "last": "practice-0002",
       "subject": "Gym & Sport"
     },
     {
@@ -951,15 +951,15 @@
       "hebrew": "לְהַרְגִּישׁ",
       "know": 5,
       "conj": 4,
-      "last": "practice-0001",
+      "last": "practice-0002",
       "subject": "Health & Body"
     },
     {
       "english": "To hurt",
       "hebrew": "לִכְאֹב",
       "know": 5,
-      "conj": 4,
-      "last": "lesson-013",
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Health & Body"
     },
     {
@@ -1013,17 +1013,17 @@
     {
       "english": "To transfer",
       "hebrew": "לְהַעֲבִיר",
-      "know": 4,
-      "conj": 3,
-      "last": "lesson-007",
+      "know": 3,
+      "conj": 4,
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
       "english": "To sign",
       "hebrew": "לַחְתֹּם",
-      "know": 3,
-      "conj": 4,
-      "last": "lesson-005",
+      "know": 4,
+      "conj": 5,
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
@@ -1039,7 +1039,7 @@
       "hebrew": "לְשַׁלֵּם",
       "know": 5,
       "conj": 5,
-      "last": "practice-0001",
+      "last": "practice-0002",
       "subject": "Bank & Finance"
     },
     {
