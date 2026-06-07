@@ -3931,12 +3931,12 @@
               {
                 "speaker": "Physio",
                 "turn": "teacher",
-                "text": "That's what usually happens with your shoulder. The inflammation causes bad posture, and the posture causes tension in the neck. In other words, we need to treat the shoulder first."
+                "text": "That's what usually happens with your shoulder. The inflammation causes bad posture, and the posture causes tension in the neck."
               },
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Right. Actually, I think the gym made it worse this week."
+                "text": "In other words, the shoulder is causing all of it. Actually, I think the gym made it worse this week."
               }
             ]
           },
@@ -4071,12 +4071,12 @@
               {
                 "speaker": "Physio",
                 "turn": "teacher",
-                "text": "The headaches will improve once the shoulder improves. Anyway, let me press a bit deeper — try to breathe through it."
+                "text": "The headaches will improve once the shoulder improves. Let me press a bit deeper — try to breathe through it."
               },
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Okay. I should have come to the physiotherapist earlier this week."
+                "text": "Okay. Anyway, I should have come to the physiotherapist earlier this week."
               }
             ]
           },
