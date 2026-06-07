@@ -21,7 +21,7 @@
       "hebrew": "גַּב",
       "know": 5,
       "conj": 5,
-      "last": "practice-0002",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -29,7 +29,7 @@
       "hebrew": "גָּרוֹן",
       "know": 3,
       "conj": 3,
-      "last": "lesson-010",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -37,7 +37,7 @@
       "hebrew": "חָזֶה",
       "know": 4,
       "conj": 3,
-      "last": "lesson-003",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -45,7 +45,7 @@
       "hebrew": "זְרוֹעַ",
       "know": 5,
       "conj": 5,
-      "last": "lesson-013",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -85,7 +85,7 @@
       "hebrew": "כְּאֵב",
       "know": 5,
       "conj": 5,
-      "last": "practice-0003",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -117,7 +117,7 @@
       "hebrew": "כְּאֵב רֹאשׁ",
       "know": 5,
       "conj": 4,
-      "last": "lesson-007",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -166,6 +166,54 @@
       "know": 2,
       "conj": 3,
       "last": "lesson-013",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Shoulder",
+      "hebrew": "כָּתֵף",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Neck",
+      "hebrew": "צַוָּואר",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Inflammation",
+      "hebrew": "דַּלֶּקֶת",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Treatment",
+      "hebrew": "טִיפּוּל",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Physiotherapist",
+      "hebrew": "פִיזִיוֹתֶרָפִּיסְט",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "Posture",
+      "hebrew": "תַּנוּחָה",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -813,7 +861,7 @@
       "hebrew": "חֶדֶר כּוֹשֶׁר",
       "know": 5,
       "conj": 5,
-      "last": "practice-0002",
+      "last": "lesson-014",
       "subject": "Gym & Sport"
     },
     {
@@ -877,7 +925,7 @@
       "hebrew": "שְׁרִיר",
       "know": 3,
       "conj": 4,
-      "last": "lesson-013",
+      "last": "lesson-014",
       "subject": "Gym & Sport"
     },
     {
@@ -901,7 +949,7 @@
       "hebrew": "תַּרְגִּיל",
       "know": 2,
       "conj": 4,
-      "last": "lesson-013",
+      "last": "lesson-014",
       "subject": "Gym & Sport"
     },
     {
@@ -951,7 +999,7 @@
       "hebrew": "לְהַרְגִּישׁ",
       "know": 5,
       "conj": 4,
-      "last": "practice-0002",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -959,7 +1007,7 @@
       "hebrew": "לִכְאֹב",
       "know": 5,
       "conj": 5,
-      "last": "practice-0002",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -967,7 +1015,7 @@
       "hebrew": "לִבְדֹּק",
       "know": 5,
       "conj": 5,
-      "last": "practice-0003",
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -992,6 +1040,46 @@
       "know": 1,
       "conj": 2,
       "last": "lesson-003",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To cause",
+      "hebrew": "לְגָרֵם",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To improve",
+      "hebrew": "לְהִשְׁתַּפֵּר",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To press",
+      "hebrew": "לִלְחֹץ",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To release / loosen",
+      "hebrew": "לְשַׁחְרֵר",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To breathe",
+      "hebrew": "לִנְשֹׁם",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014",
       "subject": "Health & Body"
     },
     {
@@ -1103,7 +1191,7 @@
       "hebrew": "לְהַחְזִיק",
       "know": 2,
       "conj": 4,
-      "last": "lesson-009",
+      "last": "lesson-014",
       "subject": "Home & Tools"
     },
     {
@@ -1159,7 +1247,7 @@
       "hebrew": "לְהַמְתִּין",
       "know": 4,
       "conj": 4,
-      "last": "lesson-013",
+      "last": "lesson-014",
       "subject": "Street & City"
     },
     {
@@ -1289,7 +1377,7 @@
       "hebrew": "עָמוּס",
       "know": 3,
       "conj": 4,
-      "last": "practice-0003",
+      "last": "lesson-014",
       "subject": "Gym & Sport"
     },
     {
@@ -1297,8 +1385,80 @@
       "hebrew": "תָּקֵף",
       "know": 3,
       "conj": 4,
-      "last": "practice-0003",
+      "last": "lesson-014",
       "subject": "Gym & Sport"
+    }
+  ],
+  "functionWords": [
+    {
+      "english": "At least",
+      "hebrew": "לְפָחוֹת",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Actually / in fact",
+      "hebrew": "בְּעֶצֶם",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "At all",
+      "hebrew": "בִּכְלָל",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Anyway / in any case",
+      "hebrew": "בְּכָל מִקְרֶה",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "In other words / I mean",
+      "hebrew": "כְּלוֹמַר",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Still / nevertheless",
+      "hebrew": "בְּכָל זַאת",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Just / only",
+      "hebrew": "רַק",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Specifically / of all things",
+      "hebrew": "דַּוְקָא",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Even",
+      "hebrew": "אֲפִילּוּ",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
+    },
+    {
+      "english": "Just / for no reason",
+      "hebrew": "סְתָם",
+      "know": null,
+      "conj": null,
+      "last": "lesson-014"
     }
   ]
 }
