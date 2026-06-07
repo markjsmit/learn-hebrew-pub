@@ -3,1289 +3,1289 @@
     {
       "english": "Head",
       "hebrew": "רֹאשׁ",
-      "know": 5,
       "last": "lesson-002",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Stomach",
       "hebrew": "בֶּטֶן",
-      "know": 5,
       "last": "lesson-007",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Back",
       "hebrew": "גַּב",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Throat",
       "hebrew": "גָּרוֹן",
-      "know": 3,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 3
     },
     {
       "english": "Chest",
       "hebrew": "חָזֶה",
-      "know": 4,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 4
     },
     {
       "english": "Arm",
       "hebrew": "זְרוֹעַ",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Leg",
       "hebrew": "רֶגֶל",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Hand",
       "hebrew": "יָד",
-      "know": 5,
       "last": "lesson-003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Eye",
       "hebrew": "עַיִן",
-      "know": 5,
       "last": "lesson-003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Ear",
       "hebrew": "אֹזֶן",
-      "know": 5,
       "last": "lesson-003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Pain",
       "hebrew": "כְּאֵב",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Fever",
       "hebrew": "חֹם",
-      "know": 4,
       "last": "lesson-007",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 4
     },
     {
       "english": "Cough",
       "hebrew": "שִׁיעוּל",
-      "know": 3,
       "last": "lesson-011",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 3
     },
     {
       "english": "Cold",
       "hebrew": "נֶזֶלֶת",
-      "know": 2,
       "last": "lesson-011",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 2
     },
     {
       "english": "Headache",
       "hebrew": "כְּאֵב רֹאשׁ",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Toothache",
       "hebrew": "כְּאֵב שִׁינַּיִם",
-      "know": 5,
       "last": "lesson-003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Medicine",
       "hebrew": "תְּרוּפָה",
-      "know": 4,
       "last": "practice-0002",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 4
     },
     {
       "english": "Nurse",
       "hebrew": "אָחוֹת",
-      "know": 5,
       "last": "lesson-003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Doctor",
       "hebrew": "רוֹפֵא",
-      "know": 4,
       "last": "lesson-010",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 4
     },
     {
       "english": "Hospital",
       "hebrew": "בֵּית חוֹלִים",
-      "know": 5,
       "last": "lesson-009",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 5
     },
     {
       "english": "Strain",
       "hebrew": "מְתִיחָה",
-      "know": 2,
       "last": "lesson-013",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 2
     },
     {
       "english": "Shoulder",
       "hebrew": "כָּתֵף",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": null
     },
     {
       "english": "Neck",
       "hebrew": "צַוָּואר",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": null
     },
     {
       "english": "Inflammation",
       "hebrew": "דַּלֶּקֶת",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": null
     },
     {
       "english": "Treatment",
       "hebrew": "טִיפּוּל",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": null
     },
     {
       "english": "Physiotherapist",
       "hebrew": "פִיזִיוֹתֶרָפִּיסְט",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": null
     },
     {
       "english": "Posture",
       "hebrew": "תַּנוּחָה",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": null
     },
     {
       "english": "Bank",
       "hebrew": "בַּנְק",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Account",
       "hebrew": "חֶשְׁבּוֹן",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Card",
       "hebrew": "כַּרְטִיס",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Cash",
       "hebrew": "מְזוּמָן",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Balance",
       "hebrew": "יִתְרָה",
-      "know": 4,
       "last": "lesson-010",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 4
     },
     {
       "english": "Transfer",
       "hebrew": "הַעֲבָרָה",
-      "know": 3,
       "last": "lesson-007",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "Loan",
       "hebrew": "הַלְוָאָה",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "Payment",
       "hebrew": "תַּשְׁלוּם",
-      "know": 5,
       "last": "lesson-004",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Signature",
       "hebrew": "חֲתִימָה",
-      "know": 3,
       "last": "lesson-011",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "Passport",
       "hebrew": "דַּרְכּוֹן",
-      "know": 5,
       "last": "lesson-005",
-      "subject": "Bank & Finance"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "ATM",
       "hebrew": "כַּסְפּוֹמַט",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Receipt",
       "hebrew": "קַבָּלָה",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Savings",
       "hebrew": "חִסָּכוֹן",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "Check",
       "hebrew": "שֵׁק",
-      "know": 4,
       "last": "lesson-005",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 4
     },
     {
       "english": "Banknote",
       "hebrew": "שְׁטָר",
-      "know": 3,
       "last": "lesson-005",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "PIN",
       "hebrew": "קוֹד סוֹד",
-      "know": 5,
       "last": "lesson-008",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 5
     },
     {
       "english": "Exchange",
       "hebrew": "הַמָּרָה",
-      "know": 2,
       "last": "lesson-011",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 2
     },
     {
       "english": "Deposit",
       "hebrew": "הַפְקָדָה",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "Withdraw",
       "hebrew": "מְשִׁיכָה",
-      "know": 4,
       "last": "lesson-007",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 4
     },
     {
       "english": "Taxi",
       "hebrew": "מוֹנִית",
-      "know": 3,
       "last": "practice-0002",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 3
     },
     {
       "english": "Driver",
       "hebrew": "נַהָג",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 5
     },
     {
       "english": "Ride",
       "hebrew": "נְסִיעָה",
-      "know": 4,
       "last": "lesson-006",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 4
     },
     {
       "english": "Address",
       "hebrew": "כְּתֹבֶת",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 5
     },
     {
       "english": "Street",
       "hebrew": "רְחוֹב",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 5
     },
     {
       "english": "Hotel",
       "hebrew": "מָלוֹן",
-      "know": 5,
       "last": "lesson-006",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 5
     },
     {
       "english": "Airport",
       "hebrew": "נְמַל תְּעוּפָה",
-      "know": 4,
       "last": "lesson-007",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 4
     },
     {
       "english": "Traffic",
       "hebrew": "פְּקַק",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 4
     },
     {
       "english": "Change",
       "hebrew": "עֹדֶף",
-      "know": 2,
       "last": "lesson-010",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 2
     },
     {
       "english": "Hammer",
       "hebrew": "פַּטִּישׁ",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Screw",
       "hebrew": "בֹּרֶג",
-      "know": 4,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Nail",
       "hebrew": "מַסְמֵר",
-      "know": 2,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 2
     },
     {
       "english": "Drill",
       "hebrew": "מַקְדֵּחָה",
-      "know": 2,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 2
     },
     {
       "english": "Paint",
       "hebrew": "צֶבַע",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Ladder",
       "hebrew": "סֻלָּם",
-      "know": 3,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 3
     },
     {
       "english": "Tape",
       "hebrew": "סֶרֶט",
-      "know": 4,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Brush",
       "hebrew": "מִכְחוֹל",
-      "know": 5,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 5
     },
     {
       "english": "Tool",
       "hebrew": "כְּלִי",
-      "know": 4,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Battery",
       "hebrew": "סוֹלְלָה",
-      "know": 5,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 5
     },
     {
       "english": "Wrench",
       "hebrew": "מַפְתֵּחַ",
-      "know": 3,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 3
     },
     {
       "english": "Saw",
       "hebrew": "מַסּוֹר",
-      "know": 1,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 1
     },
     {
       "english": "Pliers",
       "hebrew": "צְבָת",
-      "know": 5,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 5
     },
     {
       "english": "Wood",
       "hebrew": "עֵץ",
-      "know": 5,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 5
     },
     {
       "english": "Glue",
       "hebrew": "דֶּבֶק",
-      "know": 4,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Shelf",
       "hebrew": "מַדָּף",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Box",
       "hebrew": "קֻפְסָה",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 4
     },
     {
       "english": "Plank",
       "hebrew": "קֶרֶשׁ",
-      "know": 2,
       "last": "lesson-010",
-      "subject": "Home & Tools"
+      "subject": "Home & Tools",
+      "score": 2
     },
     {
       "english": "Menu",
       "hebrew": "תַּפְרִיט",
-      "know": 5,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Sandwich",
       "hebrew": "כָּרִיךְ",
-      "know": 5,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Soup",
       "hebrew": "מָרַק",
-      "know": 5,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Salad",
       "hebrew": "סָלַט",
-      "know": 5,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Cake",
       "hebrew": "עוּגָה",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Espresso",
       "hebrew": "אֶסְפְּרֶסּוֹ",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Cappuccino",
       "hebrew": "קָפֶה הָפוּך",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Decaf",
       "hebrew": "נְטוּל קָפֵאִין",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 3
     },
     {
       "english": "Milk",
       "hebrew": "חָלָב",
-      "know": 4,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 4
     },
     {
       "english": "Sugar",
       "hebrew": "סֻכָּר",
-      "know": 5,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Waiter",
       "hebrew": "מֶלְצַר",
-      "know": 4,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 4
     },
     {
       "english": "Table",
       "hebrew": "שֻׁלְחָן",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Bill",
       "hebrew": "חֶשְׁבּוֹן",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Tip",
       "hebrew": "טִיפּ",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 5
     },
     {
       "english": "Reservation",
       "hebrew": "הַזְמָנָה",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "Food & Dining",
+      "score": 3
     },
     {
       "english": "Building",
       "hebrew": "בִּנְיָן",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Traffic light",
       "hebrew": "רַמְזוֹר",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Crosswalk",
       "hebrew": "מַעֲבַר חֲצִיָּה",
-      "know": 2,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 2
     },
     {
       "english": "Corner",
       "hebrew": "פִּנָּה",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Park",
       "hebrew": "גַּן",
-      "know": 4,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Bridge",
       "hebrew": "גֶּשֶׁר",
-      "know": 4,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Bus",
       "hebrew": "אוֹטוֹבּוּס",
-      "know": 5,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Bicycle",
       "hebrew": "אוֹפַנַּיִם",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Pedestrian",
       "hebrew": "הוֹלֵךְ רֶגֶל",
-      "know": 4,
       "last": "lesson-011",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Store",
       "hebrew": "חֲנוּת",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Car",
       "hebrew": "מְכוֹנִית",
-      "know": 5,
       "last": "lesson-013",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Road",
       "hebrew": "כְּבִישׁ",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Truck",
       "hebrew": "מַשָּׂאִית",
-      "know": 3,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 3
     },
     {
       "english": "Fence",
       "hebrew": "גָּדֵר",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Bench",
       "hebrew": "סַפְסָל",
-      "know": 4,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Tree",
       "hebrew": "עֵץ",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Dog",
       "hebrew": "כֶּלֶב",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 5
     },
     {
       "english": "Turn",
       "hebrew": "פְּנִיָּה",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 4
     },
     {
       "english": "Sign (traffic)",
       "hebrew": "תַּמְרוּר",
-      "know": 2,
       "last": "lesson-011",
-      "subject": "Street & City"
+      "subject": "Street & City",
+      "score": 2
     },
     {
       "english": "Gym",
       "hebrew": "חֶדֶר כּוֹשֶׁר",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 5
     },
     {
       "english": "Weights",
       "hebrew": "מִשְׁקֹלוֹת",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Towel",
       "hebrew": "מַגֶּבֶת",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Locker",
       "hebrew": "לוֹקֶר",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 5
     },
     {
       "english": "Bottle",
       "hebrew": "בַּקְבּוּק",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Membership",
       "hebrew": "מֶנוּי",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 5
     },
     {
       "english": "Treadmill",
       "hebrew": "הֲלִיכוֹן",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Trainer",
       "hebrew": "מְאַמֵּן",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Muscle",
       "hebrew": "שְׁרִיר",
-      "know": 3,
       "last": "lesson-014",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Training session",
       "hebrew": "אִימּוּן",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Warm-up",
       "hebrew": "חִמּוּם",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Exercise",
       "hebrew": "תַּרְגִּיל",
-      "know": 2,
       "last": "lesson-014",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 2
     },
     {
       "english": "Stretch",
       "hebrew": "מְתִיחָה",
-      "know": 2,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 2
     },
     {
       "english": "Ice rink",
       "hebrew": "קַרְחִיָּה",
-      "know": 3,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "Ice skates",
       "hebrew": "מִגְלָשַׁיִם",
-      "know": 4,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 4
     },
     {
       "english": "Price",
       "hebrew": "מְחִיר",
-      "know": 2,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 2
     },
     {
       "english": "Changing room",
       "hebrew": "מַלְתָּחָה",
-      "know": 2,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 2
     }
   ],
   "verbs": [
     {
       "english": "To feel (sick)",
       "hebrew": "לְהַרְגִּישׁ",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To hurt",
       "hebrew": "לִכְאֹב",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To check",
       "hebrew": "לִבְדֹּק",
-      "know": 5,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To take (medicine)",
       "hebrew": "לָקַחַת",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To cough",
       "hebrew": "לִשְׁעוֹל",
-      "know": 2,
       "last": "lesson-011",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 2
     },
     {
       "english": "To swallow",
       "hebrew": "לִבְלֹעַ",
-      "know": 1,
       "last": "lesson-003",
-      "subject": "Health & Body"
+      "subject": "Health & Body",
+      "score": 1
     },
     {
       "english": "To cause",
       "hebrew": "לְגָרֵם",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": null
     },
     {
       "english": "To improve",
       "hebrew": "לְהִשְׁתַּפֵּר",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": null
     },
     {
       "english": "To press",
       "hebrew": "לִלְחֹץ",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": null
     },
     {
       "english": "To release / loosen",
       "hebrew": "לְשַׁחְרֵר",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": null
     },
     {
       "english": "To breathe",
       "hebrew": "לִנְשֹׁם",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Health & Body"
+      "subject": "General",
+      "score": null
     },
     {
       "english": "To deposit",
       "hebrew": "לְהַפְקִיד",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "To withdraw",
       "hebrew": "לִמְשֹׁךְ",
-      "know": 4,
       "last": "lesson-007",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 4
     },
     {
       "english": "To transfer",
       "hebrew": "לְהַעֲבִיר",
-      "know": 3,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 3
     },
     {
       "english": "To sign",
       "hebrew": "לַחְתֹּם",
-      "know": 4,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To exchange",
       "hebrew": "לְהַחְלִיף",
-      "know": 2,
       "last": "lesson-011",
-      "subject": "Bank & Finance"
+      "subject": "Bank & Finance",
+      "score": 2
     },
     {
       "english": "To pay",
       "hebrew": "לְשַׁלֵּם",
-      "know": 5,
       "last": "practice-0002",
-      "subject": "Bank & Finance"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To stop moving",
       "hebrew": "לַעֲצֹר",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Transport"
+      "subject": "General",
+      "score": 3
     },
     {
       "english": "To drive",
       "hebrew": "לִנְהֹג",
-      "know": 5,
       "last": "lesson-006",
-      "subject": "Transport"
+      "subject": "Transport",
+      "score": 5
     },
     {
       "english": "To fix",
       "hebrew": "לְתַקֵּן",
-      "know": 4,
       "last": "lesson-008",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To build",
       "hebrew": "לִבְנוֹת",
-      "know": 4,
       "last": "lesson-008",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To carry",
       "hebrew": "לִשְׂאֵת",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 3
     },
     {
       "english": "To paint",
       "hebrew": "לִצְבֹּעַ",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To clean",
       "hebrew": "לְנַקּוֹת",
-      "know": 4,
       "last": "lesson-008",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To hold",
       "hebrew": "לְהַחְזִיק",
-      "know": 2,
       "last": "lesson-014",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 2
     },
     {
       "english": "To cut",
       "hebrew": "לַחְתֹּךְ",
-      "know": 4,
       "last": "lesson-009",
-      "subject": "Home & Tools"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To order",
       "hebrew": "לְהַזְמִין",
-      "know": 4,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To serve",
       "hebrew": "לְשָׁרֵת",
-      "know": 2,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "General",
+      "score": 2
     },
     {
       "english": "To recommend",
       "hebrew": "לְהַמְלִיץ",
-      "know": 3,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "General",
+      "score": 3
     },
     {
       "english": "To share",
       "hebrew": "לַחֲלֹק",
-      "know": 2,
       "last": "lesson-010",
-      "subject": "Food & Dining"
+      "subject": "General",
+      "score": 2
     },
     {
       "english": "To turn",
       "hebrew": "לִפְנוֹת",
-      "know": 4,
       "last": "lesson-012",
-      "subject": "Street & City"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To wait",
       "hebrew": "לְהַמְתִּין",
-      "know": 4,
       "last": "lesson-014",
-      "subject": "Street & City"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To notice",
       "hebrew": "לְהַבְחִין",
-      "know": 3,
       "last": "lesson-011",
-      "subject": "Street & City"
+      "subject": "General",
+      "score": 3
     },
     {
       "english": "To train",
       "hebrew": "לְהִתְאַמֵּן",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 3
     },
     {
       "english": "To run",
       "hebrew": "לָרוּץ",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To lift",
       "hebrew": "לְהָרִים",
-      "know": 2,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 2
     },
     {
       "english": "To rest",
       "hebrew": "לָנוּחַ",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "To skate",
       "hebrew": "לְהַחְלִיק",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "score": 5
     },
     {
       "english": "To renew",
       "hebrew": "לְחַדֵּשׁ",
-      "know": 4,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 4
     },
     {
       "english": "To stop doing",
       "hebrew": "לְהַפְסִיק",
-      "know": 3,
       "last": "lesson-013",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 3
     },
     {
       "english": "To agree",
       "hebrew": "לְהַסְכִּים",
-      "know": 3,
       "last": "practice-0001",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 3
     }
   ],
   "adjectives": [
     {
       "english": "Fast",
       "hebrew": "מָהִיר",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Transport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Slow",
       "hebrew": "אִטִּי",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Transport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Tired",
       "hebrew": "עָיֵף",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Heavy",
       "hebrew": "כָּבֵד",
-      "know": 5,
       "last": "practice-0001",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Strong",
       "hebrew": "חָזָק",
-      "know": 5,
       "last": "practice-0003",
-      "subject": "Gym & Sport"
-    },
-    {
-      "english": "For both of us",
-      "hebrew": "לִשְׁנֵינוּ",
-      "know": 4,
-      "last": "lesson-13",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Busy / crowded",
       "hebrew": "עָמוּס",
-      "know": 3,
       "last": "lesson-014",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 3
     },
     {
       "english": "Valid",
       "hebrew": "תָּקֵף",
-      "know": 3,
       "last": "lesson-014",
-      "subject": "Gym & Sport"
+      "subject": "General",
+      "score": 3
     }
   ],
   "functionWords": [
     {
       "english": "At least",
       "hebrew": "לְפָחוֹת",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Actually / in fact",
       "hebrew": "בְּעֶצֶם",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "At all",
       "hebrew": "בִּכְלָל",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Anyway / in any case",
       "hebrew": "בְּכָל מִקְרֶה",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "In other words / I mean",
       "hebrew": "כְּלוֹמַר",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Still / nevertheless",
       "hebrew": "בְּכָל זַאת",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Just / only",
       "hebrew": "רַק",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Specifically / of all things",
       "hebrew": "דַּוְקָא",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Even",
       "hebrew": "אֲפִילּוּ",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
     },
     {
       "english": "Just / for no reason",
       "hebrew": "סְתָם",
-      "know": null,
       "last": "lesson-014",
-      "subject": "Function Words"
+      "subject": "Function Words",
+      "score": null
+    },
+    {
+      "english": "For both of us",
+      "hebrew": "לִשְׁנֵינוּ",
+      "last": "lesson-013",
+      "subject": "Function Words",
+      "score": 4
     }
   ]
 }
