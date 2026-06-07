@@ -3922,7 +3922,7 @@
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Yes — I even have headaches now. I can't even turn my head properly."
+                "text": "Yes. I even have headaches now. I can't even turn my head properly."
               }
             ]
           },
@@ -3964,7 +3964,7 @@
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Yes — specifically there. Not at all on the other side."
+                "text": "Yes, specifically there. Not at all on the other side."
               }
             ]
           },
@@ -3973,7 +3973,7 @@
               {
                 "speaker": "Physio",
                 "turn": "teacher",
-                "text": "And when you sit at a desk for a long time — does it hurt there too?"
+                "text": "And when you sit at a desk for a long time, does it hurt there too?"
               },
               {
                 "speaker": "Mark",
@@ -4006,7 +4006,7 @@
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Yes — when the headache is really bad, my throat feels tight too."
+                "text": "Yes, when the headache is really bad, my throat feels tight too."
               }
             ]
           },
@@ -4071,7 +4071,7 @@
               {
                 "speaker": "Physio",
                 "turn": "teacher",
-                "text": "The headaches will improve once the shoulder improves. Let me press a bit deeper — try to breathe through it."
+                "text": "The headaches will improve once the shoulder improves. Let me press a bit deeper. Try to breathe through it."
               },
               {
                 "speaker": "Mark",
@@ -4104,7 +4104,7 @@
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Honestly — not every day."
+                "text": "Honestly, not every day."
               }
             ]
           },
