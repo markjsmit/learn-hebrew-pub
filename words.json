@@ -4,7 +4,6 @@
       "english": "Head",
       "hebrew": "רֹאשׁ",
       "know": 5,
-      "conj": 3,
       "last": "lesson-002",
       "subject": "Health & Body"
     },
@@ -12,7 +11,6 @@
       "english": "Stomach",
       "hebrew": "בֶּטֶן",
       "know": 5,
-      "conj": 3,
       "last": "lesson-007",
       "subject": "Health & Body"
     },
@@ -20,7 +18,6 @@
       "english": "Back",
       "hebrew": "גַּב",
       "know": 5,
-      "conj": 5,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -28,7 +25,6 @@
       "english": "Throat",
       "hebrew": "גָּרוֹן",
       "know": 3,
-      "conj": 3,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -36,7 +32,6 @@
       "english": "Chest",
       "hebrew": "חָזֶה",
       "know": 4,
-      "conj": 3,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -44,7 +39,6 @@
       "english": "Arm",
       "hebrew": "זְרוֹעַ",
       "know": 5,
-      "conj": 5,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -52,7 +46,6 @@
       "english": "Leg",
       "hebrew": "רֶגֶל",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Health & Body"
     },
@@ -60,7 +53,6 @@
       "english": "Hand",
       "hebrew": "יָד",
       "know": 5,
-      "conj": 4,
       "last": "lesson-003",
       "subject": "Health & Body"
     },
@@ -68,7 +60,6 @@
       "english": "Eye",
       "hebrew": "עַיִן",
       "know": 5,
-      "conj": 5,
       "last": "lesson-003",
       "subject": "Health & Body"
     },
@@ -76,7 +67,6 @@
       "english": "Ear",
       "hebrew": "אֹזֶן",
       "know": 5,
-      "conj": 5,
       "last": "lesson-003",
       "subject": "Health & Body"
     },
@@ -84,7 +74,6 @@
       "english": "Pain",
       "hebrew": "כְּאֵב",
       "know": 5,
-      "conj": 5,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -92,7 +81,6 @@
       "english": "Fever",
       "hebrew": "חֹם",
       "know": 4,
-      "conj": 3,
       "last": "lesson-007",
       "subject": "Health & Body"
     },
@@ -100,7 +88,6 @@
       "english": "Cough",
       "hebrew": "שִׁיעוּל",
       "know": 3,
-      "conj": 3,
       "last": "lesson-011",
       "subject": "Health & Body"
     },
@@ -108,7 +95,6 @@
       "english": "Cold",
       "hebrew": "נֶזֶלֶת",
       "know": 2,
-      "conj": 3,
       "last": "lesson-011",
       "subject": "Health & Body"
     },
@@ -116,7 +102,6 @@
       "english": "Headache",
       "hebrew": "כְּאֵב רֹאשׁ",
       "know": 5,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -124,7 +109,6 @@
       "english": "Toothache",
       "hebrew": "כְּאֵב שִׁינַּיִם",
       "know": 5,
-      "conj": 2,
       "last": "lesson-003",
       "subject": "Health & Body"
     },
@@ -132,7 +116,6 @@
       "english": "Medicine",
       "hebrew": "תְּרוּפָה",
       "know": 4,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Health & Body"
     },
@@ -140,7 +123,6 @@
       "english": "Nurse",
       "hebrew": "אָחוֹת",
       "know": 5,
-      "conj": 5,
       "last": "lesson-003",
       "subject": "Health & Body"
     },
@@ -148,7 +130,6 @@
       "english": "Doctor",
       "hebrew": "רוֹפֵא",
       "know": 4,
-      "conj": 5,
       "last": "lesson-010",
       "subject": "Health & Body"
     },
@@ -156,7 +137,6 @@
       "english": "Hospital",
       "hebrew": "בֵּית חוֹלִים",
       "know": 5,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Health & Body"
     },
@@ -164,7 +144,6 @@
       "english": "Strain",
       "hebrew": "מְתִיחָה",
       "know": 2,
-      "conj": 3,
       "last": "lesson-013",
       "subject": "Health & Body"
     },
@@ -172,7 +151,6 @@
       "english": "Shoulder",
       "hebrew": "כָּתֵף",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -180,7 +158,6 @@
       "english": "Neck",
       "hebrew": "צַוָּואר",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -188,7 +165,6 @@
       "english": "Inflammation",
       "hebrew": "דַּלֶּקֶת",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -196,7 +172,6 @@
       "english": "Treatment",
       "hebrew": "טִיפּוּל",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -204,7 +179,6 @@
       "english": "Physiotherapist",
       "hebrew": "פִיזִיוֹתֶרָפִּיסְט",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -212,7 +186,6 @@
       "english": "Posture",
       "hebrew": "תַּנוּחָה",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -220,7 +193,6 @@
       "english": "Bank",
       "hebrew": "בַּנְק",
       "know": 5,
-      "conj": 4,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -228,7 +200,6 @@
       "english": "Account",
       "hebrew": "חֶשְׁבּוֹן",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -236,7 +207,6 @@
       "english": "Card",
       "hebrew": "כַּרְטִיס",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -244,7 +214,6 @@
       "english": "Cash",
       "hebrew": "מְזוּמָן",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -252,7 +221,6 @@
       "english": "Balance",
       "hebrew": "יִתְרָה",
       "know": 4,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Bank & Finance"
     },
@@ -260,7 +228,6 @@
       "english": "Transfer",
       "hebrew": "הַעֲבָרָה",
       "know": 3,
-      "conj": 3,
       "last": "lesson-007",
       "subject": "Bank & Finance"
     },
@@ -268,7 +235,6 @@
       "english": "Loan",
       "hebrew": "הַלְוָאָה",
       "know": 3,
-      "conj": 3,
       "last": "lesson-010",
       "subject": "Bank & Finance"
     },
@@ -276,7 +242,6 @@
       "english": "Payment",
       "hebrew": "תַּשְׁלוּם",
       "know": 5,
-      "conj": 4,
       "last": "lesson-004",
       "subject": "Bank & Finance"
     },
@@ -284,7 +249,6 @@
       "english": "Signature",
       "hebrew": "חֲתִימָה",
       "know": 3,
-      "conj": 4,
       "last": "lesson-011",
       "subject": "Bank & Finance"
     },
@@ -292,7 +256,6 @@
       "english": "Passport",
       "hebrew": "דַּרְכּוֹן",
       "know": 5,
-      "conj": 5,
       "last": "lesson-005",
       "subject": "Bank & Finance"
     },
@@ -300,7 +263,6 @@
       "english": "ATM",
       "hebrew": "כַּסְפּוֹמַט",
       "know": 5,
-      "conj": 4,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -308,7 +270,6 @@
       "english": "Receipt",
       "hebrew": "קַבָּלָה",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -316,7 +277,6 @@
       "english": "Savings",
       "hebrew": "חִסָּכוֹן",
       "know": 3,
-      "conj": 3,
       "last": "lesson-010",
       "subject": "Bank & Finance"
     },
@@ -324,7 +284,6 @@
       "english": "Check",
       "hebrew": "שֵׁק",
       "know": 4,
-      "conj": 5,
       "last": "lesson-005",
       "subject": "Bank & Finance"
     },
@@ -332,7 +291,6 @@
       "english": "Banknote",
       "hebrew": "שְׁטָר",
       "know": 3,
-      "conj": 4,
       "last": "lesson-005",
       "subject": "Bank & Finance"
     },
@@ -340,7 +298,6 @@
       "english": "PIN",
       "hebrew": "קוֹד סוֹד",
       "know": 5,
-      "conj": 5,
       "last": "lesson-008",
       "subject": "Bank & Finance"
     },
@@ -348,7 +305,6 @@
       "english": "Exchange",
       "hebrew": "הַמָּרָה",
       "know": 2,
-      "conj": 4,
       "last": "lesson-011",
       "subject": "Bank & Finance"
     },
@@ -356,7 +312,6 @@
       "english": "Deposit",
       "hebrew": "הַפְקָדָה",
       "know": 3,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Bank & Finance"
     },
@@ -364,7 +319,6 @@
       "english": "Withdraw",
       "hebrew": "מְשִׁיכָה",
       "know": 4,
-      "conj": 4,
       "last": "lesson-007",
       "subject": "Bank & Finance"
     },
@@ -372,7 +326,6 @@
       "english": "Taxi",
       "hebrew": "מוֹנִית",
       "know": 3,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Transport"
     },
@@ -380,7 +333,6 @@
       "english": "Driver",
       "hebrew": "נַהָג",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Transport"
     },
@@ -388,7 +340,6 @@
       "english": "Ride",
       "hebrew": "נְסִיעָה",
       "know": 4,
-      "conj": 4,
       "last": "lesson-006",
       "subject": "Transport"
     },
@@ -396,7 +347,6 @@
       "english": "Address",
       "hebrew": "כְּתֹבֶת",
       "know": 5,
-      "conj": 4,
       "last": "practice-0002",
       "subject": "Transport"
     },
@@ -404,7 +354,6 @@
       "english": "Street",
       "hebrew": "רְחוֹב",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Transport"
     },
@@ -412,7 +361,6 @@
       "english": "Hotel",
       "hebrew": "מָלוֹן",
       "know": 5,
-      "conj": 5,
       "last": "lesson-006",
       "subject": "Transport"
     },
@@ -420,7 +368,6 @@
       "english": "Airport",
       "hebrew": "נְמַל תְּעוּפָה",
       "know": 4,
-      "conj": 4,
       "last": "lesson-007",
       "subject": "Transport"
     },
@@ -428,7 +375,6 @@
       "english": "Traffic",
       "hebrew": "פְּקַק",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Transport"
     },
@@ -436,7 +382,6 @@
       "english": "Change",
       "hebrew": "עֹדֶף",
       "know": 2,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Transport"
     },
@@ -444,7 +389,6 @@
       "english": "Hammer",
       "hebrew": "פַּטִּישׁ",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Home & Tools"
     },
@@ -452,7 +396,6 @@
       "english": "Screw",
       "hebrew": "בֹּרֶג",
       "know": 4,
-      "conj": 4,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -460,7 +403,6 @@
       "english": "Nail",
       "hebrew": "מַסְמֵר",
       "know": 2,
-      "conj": 3,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -468,7 +410,6 @@
       "english": "Drill",
       "hebrew": "מַקְדֵּחָה",
       "know": 2,
-      "conj": 3,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -476,7 +417,6 @@
       "english": "Paint",
       "hebrew": "צֶבַע",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Home & Tools"
     },
@@ -484,7 +424,6 @@
       "english": "Ladder",
       "hebrew": "סֻלָּם",
       "know": 3,
-      "conj": 4,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -492,7 +431,6 @@
       "english": "Tape",
       "hebrew": "סֶרֶט",
       "know": 4,
-      "conj": 4,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -500,7 +438,6 @@
       "english": "Brush",
       "hebrew": "מִכְחוֹל",
       "know": 5,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -508,7 +445,6 @@
       "english": "Tool",
       "hebrew": "כְּלִי",
       "know": 4,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -516,7 +452,6 @@
       "english": "Battery",
       "hebrew": "סוֹלְלָה",
       "know": 5,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -524,7 +459,6 @@
       "english": "Wrench",
       "hebrew": "מַפְתֵּחַ",
       "know": 3,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -532,7 +466,6 @@
       "english": "Saw",
       "hebrew": "מַסּוֹר",
       "know": 1,
-      "conj": 3,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -540,7 +473,6 @@
       "english": "Pliers",
       "hebrew": "צְבָת",
       "know": 5,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -548,7 +480,6 @@
       "english": "Wood",
       "hebrew": "עֵץ",
       "know": 5,
-      "conj": 5,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -556,7 +487,6 @@
       "english": "Glue",
       "hebrew": "דֶּבֶק",
       "know": 4,
-      "conj": 3,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -564,7 +494,6 @@
       "english": "Shelf",
       "hebrew": "מַדָּף",
       "know": 4,
-      "conj": 3,
       "last": "lesson-012",
       "subject": "Home & Tools"
     },
@@ -572,7 +501,6 @@
       "english": "Box",
       "hebrew": "קֻפְסָה",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Home & Tools"
     },
@@ -580,7 +508,6 @@
       "english": "Plank",
       "hebrew": "קֶרֶשׁ",
       "know": 2,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Home & Tools"
     },
@@ -588,7 +515,6 @@
       "english": "Menu",
       "hebrew": "תַּפְרִיט",
       "know": 5,
-      "conj": 5,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -596,7 +522,6 @@
       "english": "Sandwich",
       "hebrew": "כָּרִיךְ",
       "know": 5,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -604,7 +529,6 @@
       "english": "Soup",
       "hebrew": "מָרַק",
       "know": 5,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -612,7 +536,6 @@
       "english": "Salad",
       "hebrew": "סָלַט",
       "know": 5,
-      "conj": 5,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -620,7 +543,6 @@
       "english": "Cake",
       "hebrew": "עוּגָה",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Food & Dining"
     },
@@ -628,7 +550,6 @@
       "english": "Espresso",
       "hebrew": "אֶסְפְּרֶסּוֹ",
       "know": 5,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Food & Dining"
     },
@@ -636,7 +557,6 @@
       "english": "Cappuccino",
       "hebrew": "קָפֶה הָפוּך",
       "know": 5,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Food & Dining"
     },
@@ -644,7 +564,6 @@
       "english": "Decaf",
       "hebrew": "נְטוּל קָפֵאִין",
       "know": 3,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -652,7 +571,6 @@
       "english": "Milk",
       "hebrew": "חָלָב",
       "know": 4,
-      "conj": 5,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -660,7 +578,6 @@
       "english": "Sugar",
       "hebrew": "סֻכָּר",
       "know": 5,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -668,7 +585,6 @@
       "english": "Waiter",
       "hebrew": "מֶלְצַר",
       "know": 4,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -676,7 +592,6 @@
       "english": "Table",
       "hebrew": "שֻׁלְחָן",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Food & Dining"
     },
@@ -684,7 +599,6 @@
       "english": "Bill",
       "hebrew": "חֶשְׁבּוֹן",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Food & Dining"
     },
@@ -692,7 +606,6 @@
       "english": "Tip",
       "hebrew": "טִיפּ",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Food & Dining"
     },
@@ -700,7 +613,6 @@
       "english": "Reservation",
       "hebrew": "הַזְמָנָה",
       "know": 3,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -708,7 +620,6 @@
       "english": "Building",
       "hebrew": "בִּנְיָן",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -716,7 +627,6 @@
       "english": "Traffic light",
       "hebrew": "רַמְזוֹר",
       "know": 4,
-      "conj": 3,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -724,7 +634,6 @@
       "english": "Crosswalk",
       "hebrew": "מַעֲבַר חֲצִיָּה",
       "know": 2,
-      "conj": 3,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -732,7 +641,6 @@
       "english": "Corner",
       "hebrew": "פִּנָּה",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -740,7 +648,6 @@
       "english": "Park",
       "hebrew": "גַּן",
       "know": 4,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -748,7 +655,6 @@
       "english": "Bridge",
       "hebrew": "גֶּשֶׁר",
       "know": 4,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -756,7 +662,6 @@
       "english": "Bus",
       "hebrew": "אוֹטוֹבּוּס",
       "know": 5,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -764,7 +669,6 @@
       "english": "Bicycle",
       "hebrew": "אוֹפַנַּיִם",
       "know": 4,
-      "conj": 5,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -772,7 +676,6 @@
       "english": "Pedestrian",
       "hebrew": "הוֹלֵךְ רֶגֶל",
       "know": 4,
-      "conj": 5,
       "last": "lesson-011",
       "subject": "Street & City"
     },
@@ -780,7 +683,6 @@
       "english": "Store",
       "hebrew": "חֲנוּת",
       "know": 5,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -788,7 +690,6 @@
       "english": "Car",
       "hebrew": "מְכוֹנִית",
       "know": 5,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Street & City"
     },
@@ -796,7 +697,6 @@
       "english": "Road",
       "hebrew": "כְּבִישׁ",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Street & City"
     },
@@ -804,7 +704,6 @@
       "english": "Truck",
       "hebrew": "מַשָּׂאִית",
       "know": 3,
-      "conj": 3,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -812,7 +711,6 @@
       "english": "Fence",
       "hebrew": "גָּדֵר",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -820,7 +718,6 @@
       "english": "Bench",
       "hebrew": "סַפְסָל",
       "know": 4,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -828,7 +725,6 @@
       "english": "Tree",
       "hebrew": "עֵץ",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -836,7 +732,6 @@
       "english": "Dog",
       "hebrew": "כֶּלֶב",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Street & City"
     },
@@ -844,7 +739,6 @@
       "english": "Turn",
       "hebrew": "פְּנִיָּה",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -852,7 +746,6 @@
       "english": "Sign (traffic)",
       "hebrew": "תַּמְרוּר",
       "know": 2,
-      "conj": 3,
       "last": "lesson-011",
       "subject": "Street & City"
     },
@@ -860,7 +753,6 @@
       "english": "Gym",
       "hebrew": "חֶדֶר כּוֹשֶׁר",
       "know": 5,
-      "conj": 5,
       "last": "lesson-014",
       "subject": "Gym & Sport"
     },
@@ -868,7 +760,6 @@
       "english": "Weights",
       "hebrew": "מִשְׁקֹלוֹת",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -876,7 +767,6 @@
       "english": "Towel",
       "hebrew": "מַגֶּבֶת",
       "know": 3,
-      "conj": 5,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -884,7 +774,6 @@
       "english": "Locker",
       "hebrew": "לוֹקֶר",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -892,7 +781,6 @@
       "english": "Bottle",
       "hebrew": "בַּקְבּוּק",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -900,7 +788,6 @@
       "english": "Membership",
       "hebrew": "מֶנוּי",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -908,7 +795,6 @@
       "english": "Treadmill",
       "hebrew": "הֲלִיכוֹן",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -916,7 +802,6 @@
       "english": "Trainer",
       "hebrew": "מְאַמֵּן",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -924,7 +809,6 @@
       "english": "Muscle",
       "hebrew": "שְׁרִיר",
       "know": 3,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Gym & Sport"
     },
@@ -932,7 +816,6 @@
       "english": "Training session",
       "hebrew": "אִימּוּן",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -940,7 +823,6 @@
       "english": "Warm-up",
       "hebrew": "חִמּוּם",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -948,7 +830,6 @@
       "english": "Exercise",
       "hebrew": "תַּרְגִּיל",
       "know": 2,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Gym & Sport"
     },
@@ -956,7 +837,6 @@
       "english": "Stretch",
       "hebrew": "מְתִיחָה",
       "know": 2,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -964,7 +844,6 @@
       "english": "Ice rink",
       "hebrew": "קַרְחִיָּה",
       "know": 3,
-      "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -972,7 +851,6 @@
       "english": "Ice skates",
       "hebrew": "מִגְלָשַׁיִם",
       "know": 4,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -980,7 +858,6 @@
       "english": "Price",
       "hebrew": "מְחִיר",
       "know": 2,
-      "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -988,7 +865,6 @@
       "english": "Changing room",
       "hebrew": "מַלְתָּחָה",
       "know": 2,
-      "conj": 5,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     }
@@ -998,7 +874,6 @@
       "english": "To feel (sick)",
       "hebrew": "לְהַרְגִּישׁ",
       "know": 5,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1006,7 +881,6 @@
       "english": "To hurt",
       "hebrew": "לִכְאֹב",
       "know": 5,
-      "conj": 5,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1014,7 +888,6 @@
       "english": "To check",
       "hebrew": "לִבְדֹּק",
       "know": 5,
-      "conj": 5,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1022,7 +895,6 @@
       "english": "To take (medicine)",
       "hebrew": "לָקַחַת",
       "know": 5,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Health & Body"
     },
@@ -1030,7 +902,6 @@
       "english": "To cough",
       "hebrew": "לִשְׁעוֹל",
       "know": 2,
-      "conj": 3,
       "last": "lesson-011",
       "subject": "Health & Body"
     },
@@ -1038,7 +909,6 @@
       "english": "To swallow",
       "hebrew": "לִבְלֹעַ",
       "know": 1,
-      "conj": 2,
       "last": "lesson-003",
       "subject": "Health & Body"
     },
@@ -1046,7 +916,6 @@
       "english": "To cause",
       "hebrew": "לְגָרֵם",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1054,7 +923,6 @@
       "english": "To improve",
       "hebrew": "לְהִשְׁתַּפֵּר",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1062,7 +930,6 @@
       "english": "To press",
       "hebrew": "לִלְחֹץ",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1070,7 +937,6 @@
       "english": "To release / loosen",
       "hebrew": "לְשַׁחְרֵר",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1078,7 +944,6 @@
       "english": "To breathe",
       "hebrew": "לִנְשֹׁם",
       "know": null,
-      "conj": null,
       "last": "lesson-014",
       "subject": "Health & Body"
     },
@@ -1086,7 +951,6 @@
       "english": "To deposit",
       "hebrew": "לְהַפְקִיד",
       "know": 3,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Bank & Finance"
     },
@@ -1094,7 +958,6 @@
       "english": "To withdraw",
       "hebrew": "לִמְשֹׁךְ",
       "know": 4,
-      "conj": 4,
       "last": "lesson-007",
       "subject": "Bank & Finance"
     },
@@ -1102,7 +965,6 @@
       "english": "To transfer",
       "hebrew": "לְהַעֲבִיר",
       "know": 3,
-      "conj": 4,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -1110,7 +972,6 @@
       "english": "To sign",
       "hebrew": "לַחְתֹּם",
       "know": 4,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -1118,7 +979,6 @@
       "english": "To exchange",
       "hebrew": "לְהַחְלִיף",
       "know": 2,
-      "conj": 4,
       "last": "lesson-011",
       "subject": "Bank & Finance"
     },
@@ -1126,7 +986,6 @@
       "english": "To pay",
       "hebrew": "לְשַׁלֵּם",
       "know": 5,
-      "conj": 5,
       "last": "practice-0002",
       "subject": "Bank & Finance"
     },
@@ -1134,7 +993,6 @@
       "english": "To stop moving",
       "hebrew": "לַעֲצֹר",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Transport"
     },
@@ -1142,7 +1000,6 @@
       "english": "To drive",
       "hebrew": "לִנְהֹג",
       "know": 5,
-      "conj": 5,
       "last": "lesson-006",
       "subject": "Transport"
     },
@@ -1150,7 +1007,6 @@
       "english": "To fix",
       "hebrew": "לְתַקֵּן",
       "know": 4,
-      "conj": 5,
       "last": "lesson-008",
       "subject": "Home & Tools"
     },
@@ -1158,7 +1014,6 @@
       "english": "To build",
       "hebrew": "לִבְנוֹת",
       "know": 4,
-      "conj": 4,
       "last": "lesson-008",
       "subject": "Home & Tools"
     },
@@ -1166,7 +1021,6 @@
       "english": "To carry",
       "hebrew": "לִשְׂאֵת",
       "know": 3,
-      "conj": 5,
       "last": "lesson-013",
       "subject": "Home & Tools"
     },
@@ -1174,7 +1028,6 @@
       "english": "To paint",
       "hebrew": "לִצְבֹּעַ",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Home & Tools"
     },
@@ -1182,7 +1035,6 @@
       "english": "To clean",
       "hebrew": "לְנַקּוֹת",
       "know": 4,
-      "conj": 5,
       "last": "lesson-008",
       "subject": "Home & Tools"
     },
@@ -1190,7 +1042,6 @@
       "english": "To hold",
       "hebrew": "לְהַחְזִיק",
       "know": 2,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Home & Tools"
     },
@@ -1198,7 +1049,6 @@
       "english": "To cut",
       "hebrew": "לַחְתֹּךְ",
       "know": 4,
-      "conj": 4,
       "last": "lesson-009",
       "subject": "Home & Tools"
     },
@@ -1206,7 +1056,6 @@
       "english": "To order",
       "hebrew": "לְהַזְמִין",
       "know": 4,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -1214,7 +1063,6 @@
       "english": "To serve",
       "hebrew": "לְשָׁרֵת",
       "know": 2,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -1222,7 +1070,6 @@
       "english": "To recommend",
       "hebrew": "לְהַמְלִיץ",
       "know": 3,
-      "conj": 4,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -1230,7 +1077,6 @@
       "english": "To share",
       "hebrew": "לַחֲלֹק",
       "know": 2,
-      "conj": 5,
       "last": "lesson-010",
       "subject": "Food & Dining"
     },
@@ -1238,7 +1084,6 @@
       "english": "To turn",
       "hebrew": "לִפְנוֹת",
       "know": 4,
-      "conj": 4,
       "last": "lesson-012",
       "subject": "Street & City"
     },
@@ -1246,7 +1091,6 @@
       "english": "To wait",
       "hebrew": "לְהַמְתִּין",
       "know": 4,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Street & City"
     },
@@ -1254,7 +1098,6 @@
       "english": "To notice",
       "hebrew": "לְהַבְחִין",
       "know": 3,
-      "conj": 4,
       "last": "lesson-011",
       "subject": "Street & City"
     },
@@ -1262,7 +1105,6 @@
       "english": "To train",
       "hebrew": "לְהִתְאַמֵּן",
       "know": 3,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -1270,7 +1112,6 @@
       "english": "To run",
       "hebrew": "לָרוּץ",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Gym & Sport"
     },
@@ -1278,7 +1119,6 @@
       "english": "To lift",
       "hebrew": "לְהָרִים",
       "know": 2,
-      "conj": 4,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -1286,7 +1126,6 @@
       "english": "To rest",
       "hebrew": "לָנוּחַ",
       "know": 5,
-      "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1294,7 +1133,6 @@
       "english": "To skate",
       "hebrew": "לְהַחְלִיק",
       "know": 5,
-      "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1302,7 +1140,6 @@
       "english": "To renew",
       "hebrew": "לְחַדֵּשׁ",
       "know": 4,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1310,7 +1147,6 @@
       "english": "To stop doing",
       "hebrew": "לְהַפְסִיק",
       "know": 3,
-      "conj": 5,
       "last": "lesson-013",
       "subject": "Gym & Sport"
     },
@@ -1318,7 +1154,6 @@
       "english": "To agree",
       "hebrew": "לְהַסְכִּים",
       "know": 3,
-      "conj": 4,
       "last": "practice-0001",
       "subject": "Gym & Sport"
     }
@@ -1328,7 +1163,6 @@
       "english": "Fast",
       "hebrew": "מָהִיר",
       "know": 5,
-      "conj": 4,
       "last": "practice-0003",
       "subject": "Transport"
     },
@@ -1336,7 +1170,6 @@
       "english": "Slow",
       "hebrew": "אִטִּי",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Transport"
     },
@@ -1344,7 +1177,6 @@
       "english": "Tired",
       "hebrew": "עָיֵף",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1352,7 +1184,6 @@
       "english": "Heavy",
       "hebrew": "כָּבֵד",
       "know": 5,
-      "conj": 5,
       "last": "practice-0001",
       "subject": "Gym & Sport"
     },
@@ -1360,7 +1191,6 @@
       "english": "Strong",
       "hebrew": "חָזָק",
       "know": 5,
-      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1368,7 +1198,6 @@
       "english": "For both of us",
       "hebrew": "לִשְׁנֵינוּ",
       "know": 4,
-      "conj": 5,
       "last": "lesson-13",
       "subject": "Gym & Sport"
     },
@@ -1376,7 +1205,6 @@
       "english": "Busy / crowded",
       "hebrew": "עָמוּס",
       "know": 3,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Gym & Sport"
     },
@@ -1384,7 +1212,6 @@
       "english": "Valid",
       "hebrew": "תָּקֵף",
       "know": 3,
-      "conj": 4,
       "last": "lesson-014",
       "subject": "Gym & Sport"
     }
@@ -1394,70 +1221,60 @@
       "english": "At least",
       "hebrew": "לְפָחוֹת",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Actually / in fact",
       "hebrew": "בְּעֶצֶם",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "At all",
       "hebrew": "בִּכְלָל",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Anyway / in any case",
       "hebrew": "בְּכָל מִקְרֶה",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "In other words / I mean",
       "hebrew": "כְּלוֹמַר",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Still / nevertheless",
       "hebrew": "בְּכָל זַאת",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Just / only",
       "hebrew": "רַק",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Specifically / of all things",
       "hebrew": "דַּוְקָא",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Even",
       "hebrew": "אֲפִילּוּ",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     },
     {
       "english": "Just / for no reason",
       "hebrew": "סְתָם",
       "know": null,
-      "conj": null,
       "last": "lesson-014"
     }
   ]
