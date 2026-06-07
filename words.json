@@ -844,15 +844,15 @@
       "english": "Bottle",
       "hebrew": "בַּקְבּוּק",
       "know": 5,
-      "conj": 4,
+      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
     {
       "english": "Membership",
       "hebrew": "מֶנוּי",
-      "know": 4,
-      "conj": 3,
+      "know": 5,
+      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -924,15 +924,15 @@
       "english": "Ice skates",
       "hebrew": "מִגְלָשַׁיִם",
       "know": 4,
-      "conj": 4,
+      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
     {
       "english": "Price",
       "hebrew": "מְחִיר",
-      "know": 3,
-      "conj": 5,
+      "know": 2,
+      "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1197,7 +1197,7 @@
     {
       "english": "To rest",
       "hebrew": "לָנוּחַ",
-      "know": 4,
+      "know": 5,
       "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
@@ -1205,7 +1205,7 @@
     {
       "english": "To skate",
       "hebrew": "לְהַחְלִיק",
-      "know": 4,
+      "know": 5,
       "conj": 4,
       "last": "practice-0003",
       "subject": "Gym & Sport"
@@ -1240,15 +1240,15 @@
       "english": "Fast",
       "hebrew": "מָהִיר",
       "know": 5,
-      "conj": 5,
+      "conj": 4,
       "last": "practice-0003",
       "subject": "Transport"
     },
     {
       "english": "Slow",
       "hebrew": "אִטִּי",
-      "know": 4,
-      "conj": 3,
+      "know": 5,
+      "conj": 5,
       "last": "practice-0003",
       "subject": "Transport"
     },
@@ -1272,7 +1272,7 @@
       "english": "Strong",
       "hebrew": "חָזָק",
       "know": 5,
-      "conj": 4,
+      "conj": 5,
       "last": "practice-0003",
       "subject": "Gym & Sport"
     },
@@ -1282,6 +1282,22 @@
       "know": 4,
       "conj": 5,
       "last": "lesson-13",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Busy / crowded",
+      "hebrew": "עָמוּס",
+      "know": 3,
+      "conj": 4,
+      "last": "practice-0003",
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Valid",
+      "hebrew": "תָּקֵף",
+      "know": 3,
+      "conj": 4,
+      "last": "practice-0003",
       "subject": "Gym & Sport"
     }
   ]
