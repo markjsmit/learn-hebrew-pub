@@ -3852,9 +3852,8 @@
         "At all",
         "Anyway / in any case",
         "In other words / I mean",
-        "Still / nevertheless",
+        "Nevertheless / anyway",
         "Just / only",
-        "Specifically / of all things",
         "Even",
         "Just / for no reason"
       ],
@@ -3878,7 +3877,17 @@
         "To breathe"
       ]
     },
-    "missedVocabulary": [],
+    "missedVocabulary": [
+      "Properly / the right way",
+      "Worse",
+      "Like this / this way",
+      "To mention",
+      "Tight / tense",
+      "Won't let go (expression)",
+      "Bothering / disturbing",
+      "Insurance",
+      "Exactly"
+    ],
     "notes": "",
     "conversations": [
       {
