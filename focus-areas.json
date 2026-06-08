@@ -7,7 +7,7 @@
   {
     "area": "Feminine verb forms",
     "score": 4,
-    "last": "lesson-010"
+    "last": "lesson-015"
   },
   {
     "area": "Polite request forms (can you / I'd like / do you have)",
@@ -40,9 +40,14 @@
     "last": "lesson-012"
   },
   {
-    "area": "Explaining how something happened (narrative sequence)",
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
+    "score": 4,
+    "last": "lesson-015"
+  },
+  {
+    "area": "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
     "score": 3,
-    "last": "lesson-010"
+    "last": "lesson-015"
   },
   {
     "area": "Describing location / giving directions",
@@ -61,7 +66,7 @@
   },
   {
     "area": "Function words (at least, actually, at all, anyway, in other words, still, just, specifically, even)",
-    "score": null,
-    "last": "lesson-014"
+    "score": 2,
+    "last": "lesson-015"
   }
 ]
