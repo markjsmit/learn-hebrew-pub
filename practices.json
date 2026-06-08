@@ -58,7 +58,8 @@
                 "turn": "student",
                 "text": "Because the weather is nice. Look at that park over there."
               }
-            ]
+            ],
+            "id": 1
           },
           {
             "lines": [
@@ -72,7 +73,8 @@
                 "turn": "student",
                 "text": "No, let's keep going. We can rest at the café."
               }
-            ]
+            ],
+            "id": 2
           },
           {
             "lines": [
@@ -86,7 +88,8 @@
                 "turn": "student",
                 "text": "Yes, its owner is trying to catch up with it."
               }
-            ]
+            ],
+            "id": 3
           },
           {
             "lines": [
@@ -100,7 +103,8 @@
                 "turn": "student",
                 "text": "Yes. And look at the building behind them — I think it's new."
               }
-            ]
+            ],
+            "id": 4
           },
           {
             "lines": [
@@ -114,7 +118,8 @@
                 "turn": "student",
                 "text": "Yes. I want to look at that one later."
               }
-            ]
+            ],
+            "id": 5
           },
           {
             "lines": [
@@ -128,7 +133,8 @@
                 "turn": "student",
                 "text": "I don't feel strong right now. I'm very tired."
               }
-            ]
+            ],
+            "id": 6
           },
           {
             "lines": [
@@ -142,7 +148,8 @@
                 "turn": "student",
                 "text": "True. But my legs feel heavy now."
               }
-            ]
+            ],
+            "id": 7
           },
           {
             "lines": [
@@ -161,7 +168,8 @@
                 "turn": "student",
                 "text": "An espresso, please. And do you have a table outside?"
               }
-            ]
+            ],
+            "id": 8
           },
           {
             "lines": [
@@ -175,7 +183,8 @@
                 "turn": "student",
                 "text": "Thank you. We'll take that one in the corner."
               }
-            ]
+            ],
+            "id": 9
           },
           {
             "lines": [
@@ -189,7 +198,8 @@
                 "turn": "student",
                 "text": "Yes. Can we ask for the bill?"
               }
-            ]
+            ],
+            "id": 10
           },
           {
             "lines": [
@@ -208,11 +218,13 @@
                 "turn": "student",
                 "text": "Of course. The service was good. I'll add it when I pay."
               }
-            ]
+            ],
+            "id": 11
           }
         ]
       }
-    ]
+    ],
+    "comments": []
   },
   {
     "id": "practice-0002-after-lesson-13-sunday-morning",
@@ -265,7 +277,8 @@
                 "turn": "student",
                 "text": "Not well. I have pain in my back."
               }
-            ]
+            ],
+            "id": 1
           },
           {
             "lines": [
@@ -279,7 +292,8 @@
                 "turn": "student",
                 "text": "I think so. I don't feel well this morning."
               }
-            ]
+            ],
+            "id": 2
           },
           {
             "lines": [
@@ -293,7 +307,8 @@
                 "turn": "student",
                 "text": "Yes, I'll take it now."
               }
-            ]
+            ],
+            "id": 3
           },
           {
             "lines": [
@@ -307,7 +322,8 @@
                 "turn": "student",
                 "text": "Okay. How much do you want me to take out?"
               }
-            ]
+            ],
+            "id": 4
           },
           {
             "lines": [
@@ -321,7 +337,8 @@
                 "turn": "student",
                 "text": "Yes, I'll do that too. I'll use my card at the ATM."
               }
-            ]
+            ],
+            "id": 5
           },
           {
             "lines": [
@@ -335,7 +352,8 @@
                 "turn": "student",
                 "text": "Yes, good idea. I'll call a taxi now."
               }
-            ]
+            ],
+            "id": 6
           },
           {
             "lines": [
@@ -349,7 +367,8 @@
                 "turn": "student",
                 "text": "Okay. And I'll ask for a receipt this time."
               }
-            ]
+            ],
+            "id": 7
           },
           {
             "lines": [
@@ -363,11 +382,13 @@
                 "turn": "student",
                 "text": "I know. I'll pay and then we can go home."
               }
-            ]
+            ],
+            "id": 8
           }
         ]
       }
-    ]
+    ],
+    "comments": []
   },
   {
     "id": "practice-0003-after-lesson-13-ice-rink",
@@ -399,7 +420,10 @@
       "To rest",
       "To check"
     ],
-    "missedVocabulary": ["Busy / crowded", "Valid"],
+    "missedVocabulary": [
+      "Busy / crowded",
+      "Valid"
+    ],
     "notes": "",
     "conversations": [
       {
@@ -417,7 +441,8 @@
                 "turn": "student",
                 "text": "Yes. But there's still enough space to skate."
               }
-            ]
+            ],
+            "id": 1
           },
           {
             "lines": [
@@ -431,7 +456,8 @@
                 "turn": "student",
                 "text": "I'll go ask at the desk — I'm not sure if our membership is still valid."
               }
-            ]
+            ],
+            "id": 2
           },
           {
             "lines": [
@@ -450,7 +476,8 @@
                 "turn": "student",
                 "text": "Yes please, thank you."
               }
-            ]
+            ],
+            "id": 3
           },
           {
             "lines": [
@@ -464,7 +491,8 @@
                 "turn": "student",
                 "text": "Good. Let's put our skates on and get on the ice."
               }
-            ]
+            ],
+            "id": 4
           },
           {
             "lines": [
@@ -478,7 +506,8 @@
                 "turn": "student",
                 "text": "I'm fine. I like to skate fast."
               }
-            ]
+            ],
+            "id": 5
           },
           {
             "lines": [
@@ -492,7 +521,8 @@
                 "turn": "student",
                 "text": "I don't feel strong. I'm already tired."
               }
-            ]
+            ],
+            "id": 6
           },
           {
             "lines": [
@@ -506,7 +536,8 @@
                 "turn": "student",
                 "text": "I know. My legs are still tired from yesterday."
               }
-            ]
+            ],
+            "id": 7
           },
           {
             "lines": [
@@ -520,7 +551,8 @@
                 "turn": "student",
                 "text": "Yes — my bottle is in the locker."
               }
-            ]
+            ],
+            "id": 8
           },
           {
             "lines": [
@@ -534,7 +566,8 @@
                 "turn": "student",
                 "text": "I have a little pain in my right leg."
               }
-            ]
+            ],
+            "id": 9
           },
           {
             "lines": [
@@ -548,7 +581,8 @@
                 "turn": "student",
                 "text": "Okay. Maybe ten minutes and then we can skate again."
               }
-            ]
+            ],
+            "id": 10
           },
           {
             "lines": [
@@ -562,7 +596,8 @@
                 "turn": "student",
                 "text": "Yes. What's the price now?"
               }
-            ]
+            ],
+            "id": 11
           },
           {
             "lines": [
@@ -576,11 +611,13 @@
                 "turn": "student",
                 "text": "Okay. Let's do it before we leave today."
               }
-            ]
+            ],
+            "id": 12
           }
         ]
       }
-    ]
+    ],
+    "comments": []
   },
   {
     "id": "practice-0004-after-lesson-15-saturday-diy",
@@ -635,7 +672,8 @@
                 "turn": "student",
                 "text": "Yes, perfect. I want to start with the shelf."
               }
-            ]
+            ],
+            "id": 1
           },
           {
             "lines": [
@@ -649,7 +687,8 @@
                 "turn": "student",
                 "text": "Yes. Can you hold the other end?"
               }
-            ]
+            ],
+            "id": 2
           },
           {
             "lines": [
@@ -663,7 +702,8 @@
                 "turn": "student",
                 "text": "Both, please."
               }
-            ]
+            ],
+            "id": 3
           },
           {
             "lines": [
@@ -677,7 +717,8 @@
                 "turn": "student",
                 "text": "Yes, I have extra batteries in the box."
               }
-            ]
+            ],
+            "id": 4
           },
           {
             "lines": [
@@ -691,7 +732,8 @@
                 "turn": "student",
                 "text": "Yes please. Hold it straight."
               }
-            ]
+            ],
+            "id": 5
           },
           {
             "lines": [
@@ -705,7 +747,8 @@
                 "turn": "student",
                 "text": "I know. Can you hold the ladder for me?"
               }
-            ]
+            ],
+            "id": 6
           },
           {
             "lines": [
@@ -719,7 +762,8 @@
                 "turn": "student",
                 "text": "You're right. I can already feel it a little."
               }
-            ]
+            ],
+            "id": 7
           },
           {
             "lines": [
@@ -733,7 +777,8 @@
                 "turn": "student",
                 "text": "Just the screws — they're enough."
               }
-            ]
+            ],
+            "id": 8
           },
           {
             "lines": [
@@ -747,7 +792,8 @@
                 "turn": "student",
                 "text": "Here. I'll clean the wall first. Then we can paint."
               }
-            ]
+            ],
+            "id": 9
           },
           {
             "lines": [
@@ -761,7 +807,8 @@
                 "turn": "student",
                 "text": "I put the ladder back against the wall in the hallway."
               }
-            ]
+            ],
+            "id": 10
           },
           {
             "lines": [
@@ -775,7 +822,8 @@
                 "turn": "student",
                 "text": "Good idea. I'm tired — that shelf was really heavy."
               }
-            ]
+            ],
+            "id": 11
           },
           {
             "lines": [
@@ -789,7 +837,8 @@
                 "turn": "student",
                 "text": "My neck is fine. I was careful."
               }
-            ]
+            ],
+            "id": 12
           },
           {
             "lines": [
@@ -803,7 +852,8 @@
                 "turn": "student",
                 "text": "Not yet. I'll do it after coffee."
               }
-            ]
+            ],
+            "id": 13
           },
           {
             "lines": [
@@ -817,10 +867,12 @@
                 "turn": "student",
                 "text": "Sure. I just need to clean up first."
               }
-            ]
+            ],
+            "id": 14
           }
         ]
       }
-    ]
+    ],
+    "comments": []
   }
 ]
