@@ -581,5 +581,246 @@
         ]
       }
     ]
+  },
+  {
+    "id": "practice-0004-after-lesson-15-saturday-diy",
+    "number": 4,
+    "afterLesson": 15,
+    "title": "Saturday DIY at Home",
+    "subject": "",
+    "setting": "A Saturday afternoon at home. Mark has laid out the tools to put up a new shelf in the living room. Heli helps — holding the ladder, handing tools over, and doing a small paint touch-up on the wall around the shelf. Somewhere in the middle they take a coffee break.\n\n---",
+    "goal": [
+      "Use home and tools vocabulary — shelf, hammer, screws, glue, brush — without hesitating",
+      "Handle short requests and instructions naturally — \"can you hold this\", \"pass me the...\"",
+      "Talk about what you're doing and what comes next with simple present and future tense"
+    ],
+    "wordsPracticed": [
+      "Shelf",
+      "Hammer",
+      "Screw",
+      "Tool",
+      "Battery",
+      "Box",
+      "Glue",
+      "Paint",
+      "Brush",
+      "Ladder",
+      "Neck",
+      "Store",
+      "To paint",
+      "To fix",
+      "To clean",
+      "To carry",
+      "To hold",
+      "To feel (sick)",
+      "To hurt",
+      "Heavy",
+      "Tired"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I put the box with the tools in the living room. Is that where you want to work?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, perfect. I want to start with the shelf."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "This shelf is really heavy. Can you carry it?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes. Can you hold the other end?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "What do you need first — the hammer or the screws?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Both, please."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "The battery in the clock is dead. Can you change it too?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, I have extra batteries in the box."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Do you need me to hold the shelf while you fix it?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes please. Hold it straight."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "You'll need the ladder to reach up there."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I know. Can you hold the ladder for me?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Be careful on the ladder. Your neck will start hurting."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "You're right. I can already feel it a little."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we use glue here or just the screws?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Just the screws — they're enough."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "The wall needs a little paint around the shelf. Can you pass me the brush?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Here. I'll clean the wall first. Then we can paint."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Where did you put the ladder? I need to move it."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I put the ladder back against the wall in the hallway."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Let's take a break. I'll make coffee."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Good idea. I'm tired — that shelf was really heavy."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Is your neck still okay? You were on the ladder for a while."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "My neck is fine. I was careful."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Did you put the tools back in the box?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Not yet. I'll do it after coffee."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Do you want to go to the store after this? I need a few things."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Sure. I just need to clean up first."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
