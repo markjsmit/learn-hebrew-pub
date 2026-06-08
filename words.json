@@ -1273,113 +1273,99 @@
       "english": "At least",
       "hebrew": "לְפָחוֹת",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "3"
+      "score": 3,
+      "last": "lesson-014"
     },
     {
       "english": "Actually / in fact",
       "hebrew": "בְּעֶצֶם",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "3"
+      "score": 3,
+      "last": "lesson-014"
     },
     {
       "english": "At all",
       "hebrew": "בִּכְלָל",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "4"
+      "score": 4,
+      "last": "lesson-014"
     },
     {
       "english": "Anyway / in any case",
       "hebrew": "בְּכָל מִקְרֶה",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "3"
+      "score": 3,
+      "last": "lesson-014"
     },
     {
       "english": "In other words / I mean",
       "hebrew": "כְּלוֹמַר",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "4"
+      "score": 4,
+      "last": "lesson-014"
     },
     {
       "english": "Nevertheless / anyway",
       "hebrew": "בְּכָל זַאת",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "3"
+      "score": 3,
+      "last": "lesson-014"
     },
     {
       "english": "Just / only",
       "hebrew": "רַק",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "5"
+      "score": 5,
+      "last": "lesson-014"
     },
     {
       "english": "Exactly",
       "hebrew": "בְּדִיוּק",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "4"
+      "score": 4,
+      "last": "lesson-014"
     },
     {
       "english": "Like this / this way",
       "hebrew": "כָּכָה",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "4"
+      "score": 4,
+      "last": "lesson-014"
     },
     {
       "english": "Properly / the right way",
       "hebrew": "כְּמוֹ שֶׁצָּרִיךְ",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "2"
+      "score": 2,
+      "last": "lesson-014"
     },
     {
       "english": "Won't let go (expression)",
       "hebrew": "לֹא מַרְפֶּה",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "2"
+      "score": 2,
+      "last": "lesson-014"
     },
     {
       "english": "Even",
       "hebrew": "אֲפִילּוּ",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "4"
+      "score": 4,
+      "last": "lesson-014"
     },
     {
       "english": "Just / for no reason",
       "hebrew": "סְתָם",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "5"
+      "score": 5,
+      "last": "lesson-014"
     },
     {
       "english": "For both of us",
       "hebrew": "לִשְׁנֵינוּ",
       "subject": "General",
-      "score": null,
-      "last": "",
-      "contextual": "4"
+      "score": 4,
+      "last": "lesson-014"
     }
   ]
 }
