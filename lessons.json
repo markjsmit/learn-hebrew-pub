@@ -4162,5 +4162,363 @@
         ]
       }
     ]
+  },
+  {
+    "id": "lesson-015-physio-followup",
+    "number": 15,
+    "title": "Back at the Physio",
+    "subject": "Health",
+    "setting": "Mark comes in for a follow-up session a few days after the last visit. His shoulder has improved since he started doing the exercises, but now the neck and headaches are the main problem. The physiotherapist focuses on the neck this time, talks through his posture at work, and sends him off with neck exercises he can do at his desk.\n\n---",
+    "goal": [
+      "Report a health update — what improved and what's still a problem — and explain how symptoms connect",
+      "Understand and follow a physiotherapist's instructions during treatment",
+      "Use function words — at least, actually, at all, anyway, in other words, even, exactly — naturally in conversation"
+    ],
+    "wordsReused": [
+      "Shoulder",
+      "Neck",
+      "Inflammation",
+      "Treatment",
+      "Posture",
+      "Back",
+      "Arm",
+      "Pain",
+      "Headache",
+      "Muscle",
+      "Chest",
+      "Exercise",
+      "Gym",
+      "Insurance",
+      "To hurt",
+      "To feel",
+      "To press",
+      "To release / loosen",
+      "To breathe",
+      "To cause",
+      "To improve",
+      "To hold",
+      "To check",
+      "To wait",
+      "To fix",
+      "To lift",
+      "Tight / tense",
+      "Bothering / disturbing",
+      "Worse",
+      "At least",
+      "Actually / in fact",
+      "At all",
+      "Anyway / in any case",
+      "In other words / I mean",
+      "Even",
+      "Just / only",
+      "Exactly",
+      "Like this / this way",
+      "Properly / the right way",
+      "Won't let go"
+    ],
+    "newWords": {},
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Come in, Mark. How's the shoulder since last time?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Better, actually. The inflammation is almost gone. But my neck is really bothering me now."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "And headaches?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, every day. The pain just won't let go in the mornings."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Did you do the exercises?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Most days. I skipped a couple of days at the gym, but otherwise yes."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Good — that's probably why the shoulder improved. Sit down and let me check the neck."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. It hurts most right here."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "I can feel the tension. When I press here, does the pain go up to your head?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, exactly there. That's where the headache starts."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "That's the neck muscle — it's too tight. It won't let go on its own."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I thought it would improve a bit on its own. At least a little."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "The shoulder, yes. But the neck — not at all. Lie down and breathe normally."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Like this?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Yes. I'll press on the neck now. Tell me if it hurts too much."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "It's strong, but okay. I can feel it releasing a bit."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Good. Try to breathe and not hold your chest."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Sorry. I always do that when something hurts."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "How's your posture at work? Are you sitting properly?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "No, not properly. I sit at a desk for hours and don't even notice."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "That's causing a lot of this. The neck tension comes from the back."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "In other words, even when the shoulder is fine, the posture is still the problem."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "You need to fix how you sit, not just treat the pain."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Exactly. I know. It just happens — I don't notice it at all."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Any pain in the arm or the chest?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Just a bit in the arm when I lift it. No chest pain at all, actually."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "I'll do a few more minutes on the neck, then I'll check the back."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Anyway, I should have come in earlier this week. I waited too long."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "When the headaches start, come in. Don't wait until it gets worse."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Exactly — I just didn't think it would get this bad."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "You have two sessions left on your insurance. Come in next week."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Is Tuesday okay?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Yes. And let me show you the neck exercises — you can do them at your desk."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I'll do them properly this time."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Good. The exercises are what keep the inflammation from coming back."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "In other words, I need to do them every day, not just when it hurts."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Tilt your head slowly to the side and hold for ten seconds."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Like this?"
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Yes. Twice a day, both sides."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "At least they're easy. That's something."
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "speaker": "Physio",
+                "turn": "teacher",
+                "text": "Good. See you Tuesday."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Anyway, thank you. See you then."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
