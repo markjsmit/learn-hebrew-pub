@@ -874,5 +874,241 @@
       }
     ],
     "comments": []
+  },
+  {
+    "id": "practice-0005-after-lesson-15-neighborhood-walk",
+    "number": 5,
+    "afterLesson": 15,
+    "title": "A Walk Through a New Neighborhood",
+    "subject": "",
+    "setting": "A Saturday afternoon walk through a Tel Aviv neighborhood Mark and Heli don't usually visit. Mark has just had his second physio session and is feeling noticeably better. Heli asks how he's doing as they walk, and they talk while noticing things around the city.\n\n---",
+    "goal": [
+      "Use city vocabulary — traffic light, pedestrian, bicycle, bridge, fence, turn — without hesitating",
+      "Give a health update naturally — shoulder, neck, inflammation, muscle — without stopping to think",
+      "Use past tense and cause-effect chains naturally in casual conversation"
+    ],
+    "wordsPracticed": [
+      "Pedestrian",
+      "Traffic light",
+      "Bicycle",
+      "Fence",
+      "To turn",
+      "Bridge",
+      "Park",
+      "Shoulder",
+      "Muscle",
+      "Exercise",
+      "Neck",
+      "Inflammation",
+      "Worse",
+      "Physiotherapist",
+      "Pain",
+      "To feel (sick)"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "You're walking so much more freely today. Is the inflammation going down?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — a lot. The shoulder feels almost normal."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "And your neck? You had so much pain there last week."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, it was much worse last week. Now I can move it without thinking about it."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Let's turn right here — I think there's more to see this way."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. There's a traffic light ahead. We can cross there."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Look how different this part of the city is."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — and look at all the pedestrians and bicycles. There are so many people here."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "There's a bridge over there. I've never walked across it."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Let's go. I see a nice old fence along the path."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "There's a park on the other side. Do you want to walk through it?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes. Let's go through the park and then head back slowly."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Did the physiotherapist give you new exercises this time?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes. She showed me some for the neck — I need to do them twice a day."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "And the muscle in your shoulder — is there still pain?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Not really. The muscle feels much better than last week."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "It sounds like things are going much better this time."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — the inflammation is almost gone. I can feel the difference."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "As long as you keep doing the exercises."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I will. She said that without the exercises, the inflammation comes back."
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we stop somewhere after the park? There's usually a market around here on Saturdays."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Good idea. Let's see what they have."
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "It's past the park — we turn left after the bridge."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. Let's go."
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I'm really glad you're feeling better. The inflammation was so bad last week."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I know. But I'm fine now. Let's keep going."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": []
   }
 ]
