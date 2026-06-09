@@ -1,18 +1,191 @@
 [
-  { "date": "2026-06-02", "area": "Past tense", "old": "—", "new": "4", "source": "manual" },
-  { "date": "2026-06-02", "area": "Feminine verb forms", "old": "—", "new": "4", "source": "manual" },
-  { "date": "2026-06-02", "area": "Polite request forms (can you / I'd like / do you have)", "old": "—", "new": "4", "source": "manual" },
-  { "date": "2026-06-02", "area": "Time expressions (yesterday / tomorrow / last week)", "old": "—", "new": "4", "source": "manual" },
-  { "date": "2026-06-02", "area": "Numbers in conversation", "old": "—", "new": "4", "source": "manual" },
-  { "date": "2026-06-02", "area": "Future tense", "old": "—", "new": "3", "source": "manual" },
-  { "date": "2026-06-02", "area": "Plural forms", "old": "—", "new": "3", "source": "manual" },
-  { "date": "2026-06-02", "area": "Connecting sentences (because / so / when / since)", "old": "—", "new": "3", "source": "manual" },
-  { "date": "2026-06-02", "area": "Explaining how something happened (narrative sequence)", "old": "—", "new": "3", "source": "manual" },
-  { "date": "2026-06-02", "area": "Describing location / giving directions", "old": "—", "new": "3", "source": "manual" },
-  { "date": "2026-06-02", "area": "Asking for help or information from a stranger", "old": "—", "new": "2", "source": "manual" },
-  { "date": "2026-06-03", "area": "Asking for help or information from a stranger", "old": "2", "new": "3", "source": "lesson-013" },
-  { "date": "2026-06-03", "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)", "old": "—", "new": "3", "source": "lesson-013" },
-  { "date": "2026-06-08", "area": "Cause-effect chains (because / so / that's why — 2 steps)", "old": "—", "new": "4", "source": "lesson-014" },
-  { "date": "2026-06-08", "area": "Function words (at least, actually, at all, anyway, in other words, still, just, specifically, even)", "old": "—", "new": "2", "source": "lesson-014" },
-  { "date": "2026-06-08", "area": "Longer narrative chains (3+ steps, avoiding repetition of the same connective)", "old": "—", "new": "3", "source": "lesson-014" }
+  {
+    "date": "2026-06-03",
+    "area": "Asking for help or information from a stranger",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Connecting sentences (because / so / when / since)",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Describing location / giving directions",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Explaining how something happened (narrative sequence)",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Feminine verb forms",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Future tense",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Numbers in conversation",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Past tense",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Plural forms",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Polite request forms (can you / I'd like / do you have)",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-03",
+    "area": "Time expressions (yesterday / tomorrow / last week)",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-013"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Asking for help or information from a stranger",
+    "old": "3",
+    "new": "3",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Connecting sentences (because / so / when / since)",
+    "old": "3",
+    "new": "3",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Explaining how something happened (narrative sequence)",
+    "old": "3",
+    "new": "3",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
+    "old": "3",
+    "new": "3",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Past tense",
+    "old": "4",
+    "new": "4",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Polite request forms (can you / I'd like / do you have)",
+    "old": "4",
+    "new": "4",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-07",
+    "area": "Time expressions (yesterday / tomorrow / last week)",
+    "old": "4",
+    "new": "4",
+    "source": "practice-001/002/003"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Asking for help or information from a stranger",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Connecting sentences (because / so / when / since)",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Feminine verb forms",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Function words (at least, actually, at all, anyway, in other words, still, just, specifically, even)",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
+    "area": "Past tense",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-014"
+  }
 ]
