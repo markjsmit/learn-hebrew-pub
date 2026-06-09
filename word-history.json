@@ -1,5 +1,2435 @@
 [
   {
+    "date": "2026-06-01",
+    "word": "Cough",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Doctor",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fever",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Headache",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Medicine",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To check",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To cough",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To feel (sick)",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To take (medicine)",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-001"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Arm",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Chest",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cold",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cough",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Doctor",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Ear",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Eye",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fever",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hand",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Head",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Headache",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hospital",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Leg",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Medicine",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Nurse",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Stomach",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Throat",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To check",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To feel (sick)",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To hurt",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Toothache",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-002"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Arm",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Chest",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cold",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cough",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Doctor",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Ear",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Eye",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fever",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hand",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Headache",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hospital",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Leg",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Medicine",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Nurse",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Stomach",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Throat",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To feel (sick)",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To hurt",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To swallow",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "1",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Toothache",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-003"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Account",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "ATM",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Balance",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bank",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Card",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cash",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Loan",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Passport",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Payment",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Signature",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To deposit",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To transfer",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To withdraw",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Transfer",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-004"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Account",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Balance",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bank",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Banknote",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Card",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cash",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Check",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Deposit",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Exchange",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Loan",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Passport",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "PIN",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Savings",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Signature",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To exchange",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To pay",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To sign",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Transfer",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Withdraw",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-005"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Address",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Airport",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cash",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Change",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Driver",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fast",
+    "type": "Adj",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hotel",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Ride",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Slow",
+    "type": "Adj",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Street",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Taxi",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To drive",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To pay",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To stop",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-006"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Address",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Airport",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "ATM",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Balance",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bank",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Card",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cash",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Change",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cough",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Doctor",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fever",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Headache",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hospital",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Loan",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Medicine",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "PIN",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Signature",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Stomach",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Street",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Taxi",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Transfer",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Withdraw",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-007"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Battery",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Brush",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Card",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cash",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Drill",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hammer",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Ladder",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Nail",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Paint",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "PIN",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Screw",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tape",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To build",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To clean",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To fix",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To paint",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tool",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-008"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bank",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Battery",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Box",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Brush",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Drill",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Glue",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hammer",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hospital",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Ladder",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Nail",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Paint",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Plank",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pliers",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Saw",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "1",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Screw",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Shelf",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tape",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To carry",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To cut",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To hold",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tool",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Wood",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Wrench",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-009"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Address",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Balance",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bill",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cake",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cappuccino",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Change",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cold",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cough",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Decaf",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Deposit",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Doctor",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Espresso",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Loan",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Menu",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Milk",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Paint",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Plank",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Reservation",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Salad",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Sandwich",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Savings",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Shelf",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Signature",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Soup",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Sugar",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Table",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Taxi",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Throat",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tip",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To order",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To recommend",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To serve",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To share",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Waiter",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-010"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Address",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bench",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bicycle",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bridge",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Building",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bus",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Car",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cold",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Corner",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Cough",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Crosswalk",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Dog",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Exchange",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fence",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Paint",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Park",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Pedestrian",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Road",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Shelf",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Sign (traffic)",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Signature",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Store",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Street",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To notice",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To turn",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "To wait",
+    "type": "Verb",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic light",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tree",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Truck",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Turn",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-011"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Address",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bench",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bicycle",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Box",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Building",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Bus",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Car",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Corner",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Crosswalk",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Dog",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Fence",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Hammer",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Paint",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Park",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Receipt",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Road",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Shelf",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Store",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Traffic light",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Tree",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Truck",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "lesson-012"
+  },
+  {
+    "date": "2026-06-01",
+    "word": "Turn",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-012"
+  },
+  {
     "date": "2026-06-03",
     "word": "Arm",
     "type": "Noun",
@@ -1191,15 +3621,6 @@
     "date": "2026-06-08",
     "word": "Treatment",
     "type": "Noun",
-    "field": "score",
-    "old": "—",
-    "new": "2",
-    "source": "lesson-014"
-  },
-  {
-    "date": "2026-06-08",
-    "word": "Won't let go (expression)",
-    "type": "Function",
     "field": "score",
     "old": "—",
     "new": "2",
