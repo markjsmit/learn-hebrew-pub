@@ -212,7 +212,7 @@
       "hebrew": "כַּרְטִיס",
       "subject": "Bank & Finance",
       "score": 5,
-      "last": "practice-0002"
+      "last": "practice-0006"
     },
     {
       "english": "Cash",
@@ -530,35 +530,35 @@
       "hebrew": "תַּפְרִיט",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Sandwich",
       "hebrew": "כָּרִיךְ",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Soup",
       "hebrew": "מָרַק",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Salad",
       "hebrew": "סָלַט",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Cake",
       "hebrew": "עוּגָה",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "practice-0001"
+      "last": "practice-0006"
     },
     {
       "english": "Espresso",
@@ -572,14 +572,14 @@
       "hebrew": "קָפֶה הָפוּך",
       "subject": "Food & Dining",
       "score": 4,
-      "last": "practice-0001"
+      "last": "practice-0006"
     },
     {
       "english": "Decaf",
       "hebrew": "נְטוּל קָפֵאִין",
       "subject": "Food & Dining",
       "score": 3,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Milk",
@@ -600,21 +600,21 @@
       "hebrew": "מֶלְצַר",
       "subject": "Food & Dining",
       "score": 4,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Table",
       "hebrew": "שֻׁלְחָן",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "practice-0001"
+      "last": "practice-0006"
     },
     {
       "english": "Bill",
       "hebrew": "חֶשְׁבּוֹן",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "practice-0001",
+      "last": "practice-0006",
       "contextual": "חֶשְׁבּוֹן",
       "contextExplanation": "restaurant bill — same word as Account in Bank & Finance"
     },
@@ -623,14 +623,14 @@
       "hebrew": "טִיפּ",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "practice-0001"
+      "last": "practice-0006"
     },
     {
       "english": "Reservation",
       "hebrew": "הַזְמָנָה",
       "subject": "Food & Dining",
       "score": 3,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "Building",
@@ -979,7 +979,7 @@
       "hebrew": "לְשַׁלֵּם",
       "subject": "General",
       "score": 5,
-      "last": "practice-0002"
+      "last": "practice-0006"
     },
     {
       "english": "To stop",
@@ -1042,7 +1042,7 @@
       "hebrew": "לְהַזְמִין",
       "subject": "General",
       "score": 4,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "To serve",
@@ -1056,7 +1056,7 @@
       "hebrew": "לְהַמְלִיץ",
       "subject": "General",
       "score": 3,
-      "last": "lesson-010"
+      "last": "practice-0006"
     },
     {
       "english": "To share",
@@ -1235,14 +1235,14 @@
       "hebrew": "חָזָק",
       "subject": "General",
       "score": 5,
-      "last": "practice-0003"
+      "last": "practice-0006"
     },
     {
       "english": "Busy / crowded",
       "hebrew": "עָמוּס",
       "subject": "General",
       "score": 3,
-      "last": "lesson-014"
+      "last": "practice-0006"
     },
     {
       "english": "Valid",
@@ -1346,7 +1346,7 @@
       "hebrew": "בְּדִיוּק",
       "subject": "General",
       "score": 5,
-      "last": "lesson-015"
+      "last": "practice-0006"
     },
     {
       "english": "Like this / this way",
@@ -1388,7 +1388,7 @@
       "hebrew": "לִשְׁנֵינוּ",
       "subject": "General",
       "score": 4,
-      "last": "lesson-014"
+      "last": "practice-0006"
     }
   ]
 }

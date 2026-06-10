@@ -1114,5 +1114,285 @@
       }
     ],
     "comments": []
+  },
+  {
+    "id": "practice-0006-after-lesson-15-saturday-lunch",
+    "number": 6,
+    "afterLesson": 15,
+    "title": "Saturday Lunch",
+    "subject": "",
+    "setting": "Mark and Heli go out for Saturday lunch at a Tel Aviv café they've been to before. Heli made a reservation. The scene runs from arrival to paying the bill, with the easy back-and-forth a couple has when eating out together.\n\n---",
+    "goal": [
+      "Order a meal and interact with a waiter naturally without stopping to think",
+      "Use restaurant vocabulary — soup, salad, menu, bill, tip — without hesitating",
+      "Make recommendations and simple requests in a service setting with no gaps"
+    ],
+    "wordsPracticed": [
+      "Menu",
+      "Waiter",
+      "Table",
+      "Bill",
+      "Tip",
+      "Soup",
+      "Salad",
+      "Sandwich",
+      "Cake",
+      "Cappuccino",
+      "Decaf",
+      "Card",
+      "Exactly",
+      "Strong",
+      "For both of us",
+      "Busy / crowded",
+      "To order",
+      "To pay",
+      "To recommend",
+      "Reservation"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "turn": "teacher",
+                "text": "Welcome! Do you have a reservation?"
+              },
+              {
+                "speaker": "Heli",
+                "turn": "student",
+                "text": "Yes, for two — under Heli."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Is our table ready?"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Our table is nice — right next to the window."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes. Can you pass me the menu?"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I made the reservation for one o'clock. We're exactly on time."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Good. Last time we had to wait a long time."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Have you been here before? What do you recommend?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I recommend the soup — I ordered it last time and it was really good."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I'll have the salad then. Soup and a sandwich for you?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, and a decaf to finish."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "turn": "teacher",
+                "text": "Are you ready to order?"
+              },
+              {
+                "speaker": "Heli",
+                "turn": "student",
+                "text": "Yes. The salad for me, please, and a cappuccino."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "And the soup for me. With a sandwich and a decaf, please."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I love this place — it's never too busy on a Saturday."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I know. Last time we came in the evening and had to wait outside."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "turn": "teacher",
+                "text": "The soup and the salad. Enjoy!"
+              },
+              {
+                "speaker": "Heli",
+                "turn": "student",
+                "text": "Thank you. Could we have some bread too?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Thank you. This looks really good."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "How's the soup?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Really good. You should try it next time."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Is the decaf okay here? Last time mine was too strong."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "It's fine — exactly how I like it."
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we ask the waiter to recommend a dessert?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, good idea. I'll ask."
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Excuse me — what do you recommend for dessert?"
+              },
+              {
+                "speaker": "Waiter",
+                "turn": "teacher",
+                "text": "The chocolate cake is very popular today."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Perfect, we'll take one. For the two of us."
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we make a reservation for next week too?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Good idea. I'll make the reservation when we leave."
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "lines": [
+              {
+                "speaker": "Waiter",
+                "turn": "teacher",
+                "text": "Here is the bill. I hope you enjoyed everything."
+              },
+              {
+                "speaker": "Heli",
+                "turn": "student",
+                "text": "Yes, it was great. Should we leave a tip?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Of course. I'll pay by card."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": []
   }
 ]
