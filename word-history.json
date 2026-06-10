@@ -3628,6 +3628,15 @@
   },
   {
     "date": "2026-06-08",
+    "word": "Won't let go (expression)",
+    "type": "Function",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-08",
     "word": "Bothering / disturbing",
     "type": "Adj",
     "field": "score",
@@ -3675,7 +3684,7 @@
     "date": "2026-06-10",
     "word": "To wait",
     "type": "Verb",
-    "field": "hebrew",
+    "field": "score",
     "old": "לְהַמְתִּין",
     "new": "לַחֲכוֹת",
     "source": "Mark suggestion"
@@ -3684,7 +3693,7 @@
     "date": "2026-06-10",
     "word": "To improve",
     "type": "Verb",
-    "field": "hebrew",
+    "field": "score",
     "old": "לְהִשְׁתַּפֵּר",
     "new": "לְשַׁפֵּר",
     "source": "nadav suggestion"
@@ -3693,7 +3702,7 @@
     "date": "2026-06-10",
     "word": "Won't loosen (expression)",
     "type": "Function",
-    "field": "english",
+    "field": "score",
     "old": "Won't let go",
     "new": "Won't loosen",
     "source": "Mark suggestion"
@@ -3702,7 +3711,7 @@
     "date": "2026-06-10",
     "word": "Won't loosen (expression)",
     "type": "Function",
-    "field": "hebrew",
+    "field": "score",
     "old": "לֹא מַרְפֶּה",
     "new": "זֶה לֹא מִשְׁתַּחְרֵר",
     "source": "nadav suggestion"
@@ -3711,7 +3720,7 @@
     "date": "2026-06-10",
     "word": "Tight / tense",
     "type": "Adj",
-    "field": "hebrew",
+    "field": "score",
     "old": "מְתוּחַ",
     "new": "תָּפוּס",
     "source": "nadav suggestion"
@@ -3720,7 +3729,7 @@
     "date": "2026-06-10",
     "word": "Meaning that / in other words",
     "type": "Function",
-    "field": "english",
+    "field": "score",
     "old": "In other words / I mean",
     "new": "Meaning that / in other words",
     "source": "Mark suggestion"
@@ -3895,5 +3904,401 @@
     "old": "—",
     "new": "3",
     "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Shoulder",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Neck",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Inflammation",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Treatment",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Posture",
+    "type": "Noun",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Back",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Arm",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Headache",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Muscle",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Chest",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Exercise",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Gym",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Insurance",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Head",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To hurt",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To feel (sick)",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To press",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To release / loosen",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To breathe",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To cause",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To improve",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To hold",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To check",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To wait",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To fix",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To lift",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To notice",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To mention",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Tight / tense",
+    "type": "Adj",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Bothering / disturbing",
+    "type": "Adj",
+    "field": "score",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Worse",
+    "type": "Adj",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Slow",
+    "type": "Adj",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "At least",
+    "type": "Function",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Actually / in fact",
+    "type": "Function",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "At all",
+    "type": "Function",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Anyway / in any case",
+    "type": "Function",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Meaning that / in other words",
+    "type": "Function",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Even",
+    "type": "Function",
+    "field": "score",
+    "old": "4",
+    "new": "3",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Just / only",
+    "type": "Function",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Exactly",
+    "type": "Function",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Like this / this way",
+    "type": "Function",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Properly / the right way",
+    "type": "Function",
+    "field": "score",
+    "old": "2",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Won't loosen (expression)",
+    "type": "Function",
+    "field": "score",
+    "old": "2",
+    "new": "2",
+    "source": "lesson-015"
   }
 ]

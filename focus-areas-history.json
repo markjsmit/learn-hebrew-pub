@@ -208,5 +208,40 @@
     "old": "4",
     "new": "4",
     "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "area": "Function words (at least, actually, at all, anyway, in other words, still, just, specifically, even)",
+    "old": "2",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "area": "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "area": "Feminine verb forms",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-10",
+    "area": "Recognizing feminine nouns (applying correct agreement)",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-015"
   }
 ]

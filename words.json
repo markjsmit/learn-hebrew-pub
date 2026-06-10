@@ -5,7 +5,7 @@
       "hebrew": "רֹאשׁ",
       "subject": "Health & Body",
       "score": 5,
-      "last": "lesson-002"
+      "last": "lesson-015"
     },
     {
       "english": "Stomach",
@@ -154,27 +154,27 @@
       "hebrew": "כָּתֵף",
       "subject": "Health & Body",
       "score": 5,
-      "last": "practice-0005"
+      "last": "lesson-015"
     },
     {
       "english": "Neck",
       "hebrew": "צַוָּואר",
       "subject": "Health & Body",
       "score": 4,
-      "last": "practice-0005"
+      "last": "lesson-015"
     },
     {
       "english": "Inflammation",
       "hebrew": "דַּלֶּקֶת",
       "subject": "Health & Body",
-      "score": 4,
-      "last": "practice-0005"
+      "score": 5,
+      "last": "lesson-015"
     },
     {
       "english": "Treatment",
       "hebrew": "טִיפּוּל",
       "subject": "Health & Body",
-      "score": 2,
+      "score": 3,
       "last": "lesson-015"
     },
     {
@@ -325,7 +325,7 @@
       "english": "Insurance",
       "hebrew": "בִּיטּוּחַ",
       "subject": "Bank & Finance",
-      "score": 4,
+      "score": 5,
       "last": "lesson-015"
     },
     {
@@ -936,21 +936,21 @@
       "english": "To cause",
       "hebrew": "לְגָרֵם",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-015"
     },
     {
       "english": "To improve",
       "hebrew": "לְשַׁפֵּר",
       "subject": "General",
-      "score": 2,
+      "score": 3,
       "last": "lesson-015"
     },
     {
       "english": "To press",
       "hebrew": "לִלְחֹץ",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-015"
     },
     {
@@ -992,8 +992,8 @@
       "english": "To fix",
       "hebrew": "לְתַקֵּן",
       "subject": "General",
-      "score": 4,
-      "last": "practice-0004"
+      "score": 5,
+      "last": "lesson-015"
     },
     {
       "english": "To build",
@@ -1027,8 +1027,8 @@
       "english": "To hold",
       "hebrew": "לְהַחְזִיק",
       "subject": "General",
-      "score": 3,
-      "last": "practice-0004"
+      "score": 4,
+      "last": "lesson-015"
     },
     {
       "english": "To cut",
@@ -1083,8 +1083,8 @@
       "english": "To notice",
       "hebrew": "לְהַבְחִין",
       "subject": "General",
-      "score": 3,
-      "last": "lesson-011"
+      "score": 4,
+      "last": "lesson-015"
     },
     {
       "english": "To run",
@@ -1097,7 +1097,7 @@
       "english": "To lift",
       "hebrew": "לְהָרִים",
       "subject": "General",
-      "score": 2,
+      "score": 5,
       "last": "lesson-015"
     },
     {
@@ -1214,7 +1214,7 @@
       "hebrew": "אִטִּי",
       "subject": "General",
       "score": 5,
-      "last": "practice-0003"
+      "last": "lesson-015"
     },
     {
       "english": "Tired",
@@ -1256,7 +1256,7 @@
       "hebrew": "יוֹתֵר גָּרוּעַ",
       "subject": "General",
       "score": 4,
-      "last": "practice-0005"
+      "last": "lesson-015"
     },
     {
       "english": "Tight / tense",
@@ -1269,7 +1269,7 @@
       "english": "Bothering / disturbing",
       "hebrew": "מַפְרִיעַ",
       "subject": "General",
-      "score": 2,
+      "score": 3,
       "last": "lesson-015"
     },
     {
@@ -1294,35 +1294,35 @@
       "english": "At least",
       "hebrew": "לְפָחוֹת",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-015"
     },
     {
       "english": "Actually / in fact",
       "hebrew": "בְּעֶצֶם",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-015"
     },
     {
       "english": "At all",
       "hebrew": "בִּכְלָל",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-015"
     },
     {
       "english": "Anyway / in any case",
       "hebrew": "בְּכָל מִקְרֶה",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-015"
     },
     {
       "english": "Meaning that / in other words",
       "hebrew": "כְּלוֹמַר",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-015",
       "contextual": "כְּלוֹמַר שֶׁ",
       "contextExplanation": "כְּלוֹמַר שֶׁ when followed by a clause"
@@ -1345,21 +1345,21 @@
       "english": "Exactly",
       "hebrew": "בְּדִיוּק",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-015"
     },
     {
       "english": "Like this / this way",
       "hebrew": "כָּכָה",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-015"
     },
     {
       "english": "Properly / the right way",
       "hebrew": "כְּמוֹ שֶׁצָּרִיךְ",
       "subject": "General",
-      "score": 2,
+      "score": 5,
       "last": "lesson-015"
     },
     {
@@ -1373,7 +1373,7 @@
       "english": "Even",
       "hebrew": "אֲפִילּוּ",
       "subject": "General",
-      "score": 4,
+      "score": 3,
       "last": "lesson-015"
     },
     {
