@@ -153,21 +153,21 @@
       "english": "Shoulder",
       "hebrew": "כָּתֵף",
       "subject": "Health & Body",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
       "english": "Neck",
       "hebrew": "צַוָּואר",
       "subject": "Health & Body",
-      "score": 3,
+      "score": 4,
       "last": "practice-0005"
     },
     {
       "english": "Inflammation",
       "hebrew": "דַּלֶּקֶת",
       "subject": "Health & Body",
-      "score": 3,
+      "score": 4,
       "last": "practice-0005"
     },
     {
@@ -643,7 +643,7 @@
       "english": "Traffic light",
       "hebrew": "רַמְזוֹר",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
@@ -664,14 +664,14 @@
       "english": "Park",
       "hebrew": "גַּן",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
       "english": "Bridge",
       "hebrew": "גֶּשֶׁר",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
@@ -685,14 +685,14 @@
       "english": "Bicycle",
       "hebrew": "אוֹפַנַּיִם",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
       "english": "Pedestrian",
       "hebrew": "הוֹלֵךְ רֶגֶל",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
@@ -727,7 +727,7 @@
       "english": "Fence",
       "hebrew": "גָּדֵר",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
@@ -820,7 +820,7 @@
       "english": "Muscle",
       "hebrew": "שְׁרִיר",
       "subject": "Gym & Sport",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
@@ -841,7 +841,7 @@
       "english": "Exercise",
       "hebrew": "תַּרְגִּיל",
       "subject": "Gym & Sport",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
@@ -894,6 +894,13 @@
       "subject": "General",
       "score": 5,
       "last": "practice-0003"
+    },
+    {
+      "english": "Difference",
+      "hebrew": "הֶבְדֵּל",
+      "subject": "General",
+      "score": 3,
+      "last": "practice-0005"
     }
   ],
   "verbs": [
@@ -934,7 +941,7 @@
     },
     {
       "english": "To improve",
-      "hebrew": "לְהִשְׁתַּפֵּר",
+      "hebrew": "לְשַׁפֵּר",
       "subject": "General",
       "score": 2,
       "last": "lesson-015"
@@ -1062,12 +1069,12 @@
       "english": "To turn",
       "hebrew": "לִפְנוֹת",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "practice-0005"
     },
     {
       "english": "To wait",
-      "hebrew": "לְהַמְתִּין",
+      "hebrew": "לַחֲכוֹת",
       "subject": "General",
       "score": 4,
       "last": "lesson-015"
@@ -1248,17 +1255,15 @@
       "english": "Worse",
       "hebrew": "יוֹתֵר גָּרוּעַ",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "practice-0005"
     },
     {
       "english": "Tight / tense",
-      "hebrew": "מְתוּחַ",
+      "hebrew": "תָּפוּס",
       "subject": "General",
       "score": 2,
-      "last": "lesson-015",
-      "contextual": "מְתוּחַ",
-      "contextExplanation": "muscle tense in physio/gym context"
+      "last": "lesson-015"
     },
     {
       "english": "Bothering / disturbing",
@@ -1266,6 +1271,22 @@
       "subject": "General",
       "score": 2,
       "last": "lesson-015"
+    },
+    {
+      "english": "In front",
+      "hebrew": "מִקָּדִימָה",
+      "subject": "General",
+      "score": 2,
+      "last": "practice-0005"
+    },
+    {
+      "english": "Old",
+      "hebrew": "יָשָׁן",
+      "subject": "General",
+      "score": 3,
+      "last": "practice-0005",
+      "contextual": "יָשָׁן",
+      "contextExplanation": "(things only; זָקֵן for people)"
     }
   ],
   "functionWords": [
@@ -1298,11 +1319,13 @@
       "last": "lesson-015"
     },
     {
-      "english": "In other words / I mean",
+      "english": "Meaning that / in other words",
       "hebrew": "כְּלוֹמַר",
       "subject": "General",
       "score": 4,
-      "last": "lesson-015"
+      "last": "lesson-015",
+      "contextual": "כְּלוֹמַר שֶׁ",
+      "contextExplanation": "כְּלוֹמַר שֶׁ when followed by a clause"
     },
     {
       "english": "Nevertheless / anyway",
@@ -1340,8 +1363,8 @@
       "last": "lesson-015"
     },
     {
-      "english": "Won't let go (expression)",
-      "hebrew": "לֹא מַרְפֶּה",
+      "english": "Won't loosen (expression)",
+      "hebrew": "זֶה לֹא מִשְׁתַּחְרֵר",
       "subject": "General",
       "score": 2,
       "last": "lesson-015"

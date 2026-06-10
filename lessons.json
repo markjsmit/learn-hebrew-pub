@@ -4666,7 +4666,7 @@
       "Like this / this way",
       "To mention",
       "Tight / tense",
-      "Won't let go (expression)",
+      "Won't loosen (expression)",
       "Bothering / disturbing",
       "Insurance",
       "Exactly"
@@ -4964,7 +4964,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [
+      {"type":"block","blockId":11,"author":"Mark","date":"2026-06-10","text":"\"Won't allow me\" is better","replies":[]}
+    ]
   },
   {
     "id": "lesson-015-physio-followup",
@@ -5017,7 +5019,7 @@
       "Exactly",
       "Like this / this way",
       "Properly / the right way",
-      "Won't let go"
+      "Won't loosen (expression)"
     ],
     "newWords": {},
     "missedVocabulary": [],
@@ -5246,7 +5248,7 @@
               {
                 "speaker": "Mark",
                 "turn": "student",
-                "text": "Exactly — I just didn't think it would get this bad."
+                "text": "Exactly — I just didn't think that it would hurt this bad."
               }
             ],
             "id": 15
@@ -5301,7 +5303,7 @@
               {
                 "speaker": "Physio",
                 "turn": "teacher",
-                "text": "Tilt your head slowly to the side and hold for ten seconds."
+                "text": "Move your head slowly to the side and hold for ten seconds."
               },
               {
                 "speaker": "Mark",
@@ -5344,6 +5346,10 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [
+      {"type":"block","blockId":8,"author":"Nadav","date":"2026-06-10","text":"פחות תפוס — alternative for \"I can feel it releasing a bit\" (lit. \"less tense/tight\")","replies":[]},
+      {"type":"block","blockId":15,"author":"Mark","date":"2026-06-10","text":"replaced with \"that it would hurt this bad\" in the lesson","replies":[]},
+      {"type":"block","blockId":19,"author":"Mark","date":"2026-06-10","text":"Commented this before: just use simple words like \"move\" not \"tilt\" unless it's in the word list.","replies":[]}
+    ]
   }
 ]

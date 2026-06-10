@@ -905,8 +905,12 @@
       "Pain",
       "To feel (sick)"
     ],
-    "missedVocabulary": [],
-    "notes": "",
+    "missedVocabulary": [
+      {"english":"In front","hebrew":"מִקָּדִימָה"},
+      {"english":"Old","hebrew":"יָשָׁן"},
+      {"english":"Difference","hebrew":"הֶבְדֵּל"}
+    ],
+    "notes": "Felt natural overall. Heli flagged that the practice sessions have become repetitive — health/physio topics appear too frequently in consecutive sessions. Returning to a subject after a break is fine, but back-to-back sessions with the same theme wear thin. Future practice sessions should vary the subject more deliberately, even when recent lessons have been health-focused.",
     "conversations": [
       {
         "title": null,

@@ -3670,5 +3670,230 @@
     "old": "—",
     "new": "3",
     "source": "lesson-014"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To wait",
+    "type": "Verb",
+    "field": "hebrew",
+    "old": "לְהַמְתִּין",
+    "new": "לַחֲכוֹת",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To improve",
+    "type": "Verb",
+    "field": "hebrew",
+    "old": "לְהִשְׁתַּפֵּר",
+    "new": "לְשַׁפֵּר",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Won't loosen (expression)",
+    "type": "Function",
+    "field": "english",
+    "old": "Won't let go",
+    "new": "Won't loosen",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Won't loosen (expression)",
+    "type": "Function",
+    "field": "hebrew",
+    "old": "לֹא מַרְפֶּה",
+    "new": "זֶה לֹא מִשְׁתַּחְרֵר",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Tight / tense",
+    "type": "Adj",
+    "field": "hebrew",
+    "old": "מְתוּחַ",
+    "new": "תָּפוּס",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Meaning that / in other words",
+    "type": "Function",
+    "field": "english",
+    "old": "In other words / I mean",
+    "new": "Meaning that / in other words",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Pedestrian",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Traffic light",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Bicycle",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Fence",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To turn",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Bridge",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Park",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Shoulder",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Muscle",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Exercise",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Neck",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Inflammation",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Worse",
+    "type": "Adj",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Physiotherapist",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Pain",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "To feel (sick)",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "In front",
+    "type": "Adj",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Old",
+    "type": "Adj",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "practice-0005"
+  },
+  {
+    "date": "2026-06-10",
+    "word": "Difference",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "3",
+    "source": "practice-0005"
   }
 ]
