@@ -4300,5 +4300,473 @@
     "old": "2",
     "new": "2",
     "source": "lesson-015"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Saw",
+    "type": "Noun",
+    "field": "score",
+    "old": "1",
+    "new": "2",
+    "source": "Mark adjustment"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To exchange",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "3",
+    "source": "Mark adjustment"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To cough",
+    "type": "Verb",
+    "field": "score",
+    "old": "2",
+    "new": "3",
+    "source": "Mark adjustment"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Tape",
+    "type": "Noun",
+    "field": "hebrew",
+    "old": "סֶרֶט",
+    "new": "נְיַר דֶּבֶק",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To notice",
+    "type": "Verb",
+    "field": "hebrew",
+    "old": "לְהַבְחִין",
+    "new": "לָשִׂים לֵב",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To serve",
+    "type": "Verb",
+    "field": "hebrew",
+    "old": "לְשָׁרֵת",
+    "new": "לְהַגִּישׁ",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Exchange",
+    "type": "Noun",
+    "field": "hebrew",
+    "old": "הַמָּרָה",
+    "new": "הַחְלָפָה",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Cold",
+    "type": "Noun",
+    "field": "hebrew",
+    "old": "נֶזֶלֶת",
+    "new": "הִצְטַנְּנוּת",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Runny nose",
+    "type": "Noun",
+    "field": "score",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-011 (split from Cold)"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Shelf",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Hammer",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Screw",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Tool",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Battery",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Box",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Glue",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Paint",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Brush",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Ladder",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Neck",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Store",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To paint",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To fix",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To clean",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To carry",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "2",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To hold",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "4",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To feel (sick)",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To hurt",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Heavy",
+    "type": "Adj",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Tired",
+    "type": "Adj",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Just / only",
+    "type": "Function",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0004"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Menu",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Waiter",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Table",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Bill",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Tip",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Soup",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Salad",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Sandwich",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Cake",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Cappuccino",
+    "type": "Noun",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Decaf",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Card",
+    "type": "Noun",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Reservation",
+    "type": "Noun",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Exactly",
+    "type": "Function",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Strong",
+    "type": "Adj",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "For both of us",
+    "type": "Function",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "Busy / crowded",
+    "type": "Adj",
+    "field": "score",
+    "old": "3",
+    "new": "3",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To order",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To pay",
+    "type": "Verb",
+    "field": "score",
+    "old": "5",
+    "new": "5",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To recommend",
+    "type": "Verb",
+    "field": "score",
+    "old": "3",
+    "new": "4",
+    "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-12",
+    "word": "To wait",
+    "type": "Verb",
+    "field": "score",
+    "old": "4",
+    "new": "5",
+    "source": "practice-0006"
   }
 ]

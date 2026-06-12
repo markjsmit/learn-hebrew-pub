@@ -1394,5 +1394,447 @@
       }
     ],
     "comments": []
+  },
+  {
+    "id": "practice-0007-after-lesson-15-morning-gym",
+    "number": 7,
+    "afterLesson": 15,
+    "title": "Morning at the Gym",
+    "subject": "",
+    "setting": "A weekday morning at the gym. Heli has the morning free and joins Mark for a workout. They talk at the lockers when they arrive, during the warm-up, briefly mid-workout at the weights, and over a water break on the bench. Near the end they make plans for the ice rink in the evening.\n\n---",
+    "goal": [
+      "Use gym vocabulary — warm-up, weights, treadmill, locker — without hesitating",
+      "Talk about a workout naturally — running, lifting, resting, training — without stopping to think",
+      "Keep up casual conversation mid-workout with short, natural sentences"
+    ],
+    "wordsPracticed": [
+      "Locker",
+      "Warm-up",
+      "Weights",
+      "Treadmill",
+      "Bench",
+      "Bottle",
+      "Exercise",
+      "Muscle",
+      "Ice rink",
+      "To run",
+      "To lift",
+      "To train",
+      "To rest",
+      "To skate",
+      "Fast",
+      "Heavy",
+      "Tired"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": "",
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Did you take a locker near the entrance? Mine is a bit far."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — I took one next to the door. Easier after the workout."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we do a warm-up first? I always skip it and then my muscles hurt."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes, good idea. Let's do five minutes."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "After the warm-up, I'm going to the weights. Are you coming?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Not yet — I want to run first."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "How fast are you going to run?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Not too fast. I just want to get moving."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "You're lifting more than last time. It looks heavy."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "A little. But my muscles are handling it."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "How long do you usually train on a weekday?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "About an hour. I like to train in the morning when it's quiet."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "I need a break. Where did you put the bottle?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "It's on the bench near the treadmill. I'll rest for a minute too."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "You skipped half your warm-up earlier — I saw you."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Only half. I did a short warm-up on the treadmill first."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Come join me at the weights when you're done resting."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Almost done. I'll come to the weights in a minute."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "What's your favorite exercise here?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Probably running. I like to run fast for a few minutes at the end."
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Are we still going to the ice rink tonight?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — I want to skate a little. I haven't been in two weeks."
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Are you tired? We can leave after this set."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "A little. One more round, then I'm done."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": []
+  },
+  {
+    "id": "practice-0008-after-lesson-15-planning-the-day",
+    "number": 8,
+    "afterLesson": 15,
+    "title": "Planning the Day",
+    "subject": "",
+    "setting": "Saturday morning at the kitchen table. Mark and Heli are having coffee and making a plan for the day — stop at the ATM, do some food shopping, and make a dinner reservation for the evening. The conversation runs from the first coffee to walking out the door.\n\n---",
+    "goal": [
+      "Make plans and discuss logistics naturally — bank, store, dinner — without stopping to think",
+      "Use future tense and time expressions smoothly in everyday planning conversation",
+      "Keep the back-and-forth flowing without gaps when deciding what to do next"
+    ],
+    "wordsPracticed": [
+      "Espresso",
+      "Milk",
+      "Bank",
+      "ATM",
+      "Cash",
+      "To withdraw",
+      "Savings",
+      "Traffic",
+      "Road",
+      "To drive",
+      "Store",
+      "Receipt",
+      "Price",
+      "Reservation",
+      "Busy / crowded"
+    ],
+    "missedVocabulary": [],
+    "notes": "",
+    "conversations": [
+      {
+        "title": "",
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Do you want an espresso? I'm making one."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes please. With a little milk."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "What do we need to do today?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I want to go to the bank first. Then the store."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Are you going inside or just the ATM?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Just the ATM — I need to withdraw some cash."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we check our savings while we're there?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Yes — good idea. I haven't been to the bank in a while."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "The roads are always busy on Saturday morning."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I know. Let's leave early to avoid the traffic."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we drive or walk?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Let's drive — there's too much to carry from the store."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Don't forget to take the receipt at the store."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "I won't. I want to check the price of a few things too."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "The store will probably be crowded too."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Then let's go early — it'll be less busy in the morning."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Should we make a reservation somewhere for tonight?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Good idea. Where do you want to go?"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Let's decide now so we can book before we leave."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Okay. I'll make the reservation for eight o'clock."
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "How much cash do you want to take out?"
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "Not sure yet — I want to check our savings first."
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "turn": "teacher",
+                "text": "Okay. Finish your espresso and let's go."
+              },
+              {
+                "speaker": "Mark",
+                "turn": "student",
+                "text": "One more minute. I'm almost done."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": []
   }
 ]
