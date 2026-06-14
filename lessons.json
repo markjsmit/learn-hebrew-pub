@@ -5508,7 +5508,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "My sister's wedding.",
+                "text": "My sister is getting married in Amsterdam.",
                 "turn": "student"
               }
             ]
@@ -5538,7 +5538,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Yes, I packed it alone.",
+                "text": "Yes, I packed it myself. I'm traveling alone.",
                 "turn": "student"
               }
             ]
@@ -5568,7 +5568,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "At my parents' house — not a hotel this time.",
+                "text": "At my parents' house, not a hotel this time.",
                 "turn": "student"
               }
             ]
@@ -5633,7 +5633,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Yes — one suitcase and a backpack.",
+                "text": "Yes, one suitcase and a backpack.",
                 "turn": "student"
               }
             ]
@@ -5643,7 +5643,7 @@
             "lines": [
               {
                 "speaker": "Check-in Agent",
-                "text": "Your suitcase weighs 26 kilos — that's over the limit. You'll need to pay for extra baggage.",
+                "text": "Your suitcase weighs 26 kilos. That's over the limit. You'll need to pay for extra baggage.",
                 "turn": "teacher"
               },
               {
@@ -5663,7 +5663,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "I'm very tall — is there a seat with more legroom?",
+                "text": "I'm very tall. Is there a seat with more legroom?",
                 "turn": "student"
               }
             ]
@@ -5678,7 +5678,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Perfect, thank you.",
+                "text": "Perfect, that works great.",
                 "turn": "student"
               }
             ]
@@ -5708,7 +5708,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "One more thing — is there a currency exchange in the terminal?",
+                "text": "One more thing. Is there a currency exchange in the terminal?",
                 "turn": "student"
               }
             ]
@@ -5788,7 +5788,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "No, nothing.",
+                "text": "No, I left them at home.",
                 "turn": "student"
               }
             ]
@@ -5818,7 +5818,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Sorry — I forgot my phone.",
+                "text": "Sorry, I forgot my phone.",
                 "turn": "student"
               }
             ]
