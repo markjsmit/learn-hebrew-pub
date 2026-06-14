@@ -225,7 +225,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [],
+    "reviewed": true
   },
   {
     "id": "practice-0002-after-lesson-13-sunday-morning",
@@ -389,7 +391,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [],
+    "reviewed": true
   },
   {
     "id": "practice-0003-after-lesson-13-ice-rink",
@@ -618,7 +622,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [],
+    "reviewed": true
   },
   {
     "id": "practice-0004-after-lesson-15-saturday-diy",
@@ -875,7 +881,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [],
+    "reviewed": true
   },
   {
     "id": "practice-0005-after-lesson-15-neighborhood-walk",
@@ -1115,7 +1123,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [],
+    "reviewed": true
   },
   {
     "id": "practice-0006-after-lesson-15-saturday-lunch",
@@ -1396,7 +1406,9 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [],
+    "reviewed": true
   },
   {
     "id": "practice-0007-after-lesson-15-morning-gym",
@@ -1618,7 +1630,13 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [
+      "Past tense",
+      "Future tense",
+      "Time expressions (yesterday / tomorrow / last week)"
+    ],
+    "reviewed": false
   },
   {
     "id": "practice-0008-after-lesson-15-planning-the-day",
@@ -1838,6 +1856,12 @@
         ]
       }
     ],
-    "comments": []
+    "comments": [],
+    "focusAreas": [
+      "Future tense",
+      "Time expressions (yesterday / tomorrow / last week)",
+      "Numbers in conversation"
+    ],
+    "reviewed": false
   }
 ]

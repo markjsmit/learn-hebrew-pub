@@ -1,17 +1,92 @@
 [
-  {"area": "Past tense", "score": 4, "last": "practice-0005", "group": "Grammar"},
-  {"area": "Feminine verb forms", "score": 5, "last": "lesson-015", "group": "Grammar"},
-  {"area": "Recognizing feminine nouns (applying correct agreement)", "score": 4, "last": "lesson-015", "group": "Grammar"},
-  {"area": "Future tense", "score": 3, "last": "practice-0004", "group": "Grammar"},
-  {"area": "Plural forms", "score": 3, "last": "lesson-012", "group": "Grammar"},
-  {"area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)", "score": 3, "last": "lesson-013", "group": "Grammar"},
-  {"area": "Connecting sentences (because / so / when / since)", "score": 3, "last": "lesson-012", "group": "Discourse"},
-  {"area": "Cause-effect chains (because / so / that's why — 2 steps)", "score": 5, "last": "lesson-015", "group": "Discourse"},
-  {"area": "Longer narrative chains (3+ steps, avoiding repetition of the same connective)", "score": 4, "last": "lesson-015", "group": "Discourse"},
-  {"area": "Function words (at least, actually, at all, anyway, in other words, still, just, specifically, even)", "score": 4, "last": "lesson-015", "group": "Discourse"},
-  {"area": "Polite request forms (can you / I'd like / do you have)", "score": 5, "last": "practice-0004", "group": "Conversation"},
-  {"area": "Time expressions (yesterday / tomorrow / last week)", "score": 4, "last": "practice-0006", "group": "Conversation"},
-  {"area": "Numbers in conversation", "score": 4, "last": "practice-0006", "group": "Conversation"},
-  {"area": "Describing location / giving directions", "score": 4, "last": "practice-0005", "group": "Conversation"},
-  {"area": "Asking for help or information from a stranger", "score": 4, "last": "practice-0006", "group": "Conversation"}
+  {
+    "area": "Past tense",
+    "score": 5,
+    "last": "practice-0007",
+    "group": "Grammar"
+  },
+  {
+    "area": "Feminine verb forms",
+    "score": 5,
+    "last": "lesson-015",
+    "group": "Grammar"
+  },
+  {
+    "area": "Recognizing feminine nouns (applying correct agreement)",
+    "score": 4,
+    "last": "lesson-015",
+    "group": "Grammar"
+  },
+  {
+    "area": "Future tense",
+    "score": 3,
+    "last": "practice-0004",
+    "group": "Grammar"
+  },
+  {
+    "area": "Plural forms",
+    "score": 3,
+    "last": "lesson-012",
+    "group": "Grammar"
+  },
+  {
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
+    "score": 3,
+    "last": "lesson-013",
+    "group": "Grammar"
+  },
+  {
+    "area": "Connecting sentences (because / so / when / since)",
+    "score": 3,
+    "last": "lesson-012",
+    "group": "Discourse"
+  },
+  {
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
+    "score": 5,
+    "last": "lesson-015",
+    "group": "Discourse"
+  },
+  {
+    "area": "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
+    "score": 4,
+    "last": "lesson-015",
+    "group": "Discourse"
+  },
+  {
+    "area": "Function words (at least, actually, at all, anyway, in other words, still, just, specifically, even)",
+    "score": 4,
+    "last": "lesson-015",
+    "group": "Discourse"
+  },
+  {
+    "area": "Polite request forms (can you / I'd like / do you have)",
+    "score": 5,
+    "last": "practice-0004",
+    "group": "Conversation"
+  },
+  {
+    "area": "Time expressions (yesterday / tomorrow / last week)",
+    "score": 4,
+    "last": "practice-0006",
+    "group": "Conversation"
+  },
+  {
+    "area": "Numbers in conversation",
+    "score": 4,
+    "last": "practice-0006",
+    "group": "Conversation"
+  },
+  {
+    "area": "Describing location / giving directions",
+    "score": 4,
+    "last": "practice-0005",
+    "group": "Conversation"
+  },
+  {
+    "area": "Asking for help or information from a stranger",
+    "score": 4,
+    "last": "practice-0006",
+    "group": "Conversation"
+  }
 ]
