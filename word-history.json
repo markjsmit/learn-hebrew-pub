@@ -4775,7 +4775,8 @@
     "type": "Verb",
     "old": "1",
     "new": "2",
-    "source": "mark flashcard"
+    "source": "mark flashcard",
+    "field": "score"
   },
   {
     "date": "2026-06-12",
@@ -4783,7 +4784,8 @@
     "type": "Function",
     "old": "3",
     "new": "4",
-    "source": "mark flashcard"
+    "source": "mark flashcard",
+    "field": "score"
   },
   {
     "date": "2026-06-12",
@@ -4791,7 +4793,8 @@
     "type": "Verb",
     "old": "3",
     "new": "4",
-    "source": "mark flashcard"
+    "source": "mark flashcard",
+    "field": "score"
   },
   {
     "date": "2026-06-12",
@@ -4799,7 +4802,8 @@
     "type": "Adj",
     "old": "2",
     "new": "3",
-    "source": "mark flashcard"
+    "source": "mark flashcard",
+    "field": "score"
   },
   {
     "date": "2026-06-12",
@@ -4807,7 +4811,8 @@
     "type": "Function",
     "old": "2",
     "new": "3",
-    "source": "mark flashcard"
+    "source": "mark flashcard",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4815,7 +4820,8 @@
     "type": "nouns",
     "old": "4",
     "new": "5",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4823,7 +4829,8 @@
     "type": "nouns",
     "old": "3",
     "new": "4",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4831,7 +4838,8 @@
     "type": "nouns",
     "old": "3",
     "new": "4",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4839,7 +4847,8 @@
     "type": "nouns",
     "old": "3",
     "new": "5",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4847,7 +4856,8 @@
     "type": "adjectives",
     "old": "4",
     "new": "5",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4855,7 +4865,8 @@
     "type": "verbs",
     "old": "5",
     "new": "4",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4863,7 +4874,8 @@
     "type": "verbs",
     "old": "4",
     "new": "5",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4871,7 +4883,8 @@
     "type": "verbs",
     "old": "3",
     "new": "5",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-14",
@@ -4879,7 +4892,8 @@
     "type": "verbs",
     "old": "4",
     "new": "5",
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4887,7 +4901,8 @@
     "type": "Verb",
     "old": "לִשְׂאֵת",
     "new": "לִסחוב",
-    "source": "nadav suggestion"
+    "source": "nadav suggestion",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4895,7 +4910,8 @@
     "type": "Noun",
     "old": "כַּרְטִיס עֲלִיָּה",
     "new": "כַּרְטִיס עֲלִיָּה למטוס",
-    "source": "nadav suggestion"
+    "source": "nadav suggestion",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4903,7 +4919,8 @@
     "type": "Verb",
     "old": "לִשְׁעוֹל",
     "new": "להשתעל",
-    "source": "nadav suggestion"
+    "source": "nadav suggestion",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4911,7 +4928,8 @@
     "type": "Verb",
     "old": "—",
     "new": "4",
-    "source": "mark adjustment"
+    "source": "mark adjustment",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4919,7 +4937,8 @@
     "type": "Verb",
     "old": "—",
     "new": "2",
-    "source": "mark adjustment"
+    "source": "mark adjustment",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4927,7 +4946,8 @@
     "type": "Verb",
     "old": "—",
     "new": "4",
-    "source": "mark adjustment"
+    "source": "mark adjustment",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4935,7 +4955,8 @@
     "type": "Verb",
     "old": "—",
     "new": "5",
-    "source": "mark adjustment"
+    "source": "mark adjustment",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4943,7 +4964,8 @@
     "type": "Noun",
     "old": "—",
     "new": "5",
-    "source": "mark adjustment"
+    "source": "mark adjustment",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4951,7 +4973,8 @@
     "type": "adjectives",
     "old": null,
     "new": 5,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4959,7 +4982,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4967,7 +4991,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4975,7 +5000,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4983,7 +5009,8 @@
     "type": "nouns",
     "old": null,
     "new": 2,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4991,7 +5018,8 @@
     "type": "nouns",
     "old": 2,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -4999,7 +5027,8 @@
     "type": "nouns",
     "old": null,
     "new": 5,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5007,7 +5036,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5015,7 +5045,8 @@
     "type": "nouns",
     "old": null,
     "new": 5,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5023,7 +5054,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5031,7 +5063,8 @@
     "type": "nouns",
     "old": null,
     "new": 3,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5039,7 +5072,8 @@
     "type": "nouns",
     "old": 3,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5047,7 +5081,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5055,7 +5090,8 @@
     "type": "nouns",
     "old": null,
     "new": 5,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5063,7 +5099,8 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5071,7 +5108,8 @@
     "type": "nouns",
     "old": null,
     "new": 5,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5079,7 +5117,8 @@
     "type": "verbs",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5087,7 +5126,8 @@
     "type": "verbs",
     "old": 2,
     "new": 3,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5095,7 +5135,8 @@
     "type": "verbs",
     "old": 5,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5103,7 +5144,8 @@
     "type": "verbs",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5111,7 +5153,8 @@
     "type": "nouns",
     "old": null,
     "new": 3,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5119,7 +5162,8 @@
     "type": "adjectives",
     "old": 3,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   },
   {
     "date": "2026-06-15",
@@ -5127,6 +5171,7 @@
     "type": "nouns",
     "old": null,
     "new": 4,
-    "source": "lesson-review"
+    "source": "lesson-review",
+    "field": "score"
   }
 ]
