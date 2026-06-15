@@ -305,7 +305,7 @@
       "english": "Exchange",
       "hebrew": "הַחְלָפָה",
       "subject": "Bank & Finance",
-      "score": 2,
+      "score": 4,
       "last": "lesson-011"
     },
     {
@@ -620,7 +620,7 @@
       "english": "Reservation",
       "hebrew": "הַזְמָנָה",
       "subject": "Food & Dining",
-      "score": 3,
+      "score": 4,
       "last": "practice-0008"
     },
     {
@@ -892,81 +892,103 @@
     {
       "english": "Flight",
       "hebrew": "טִיסָה",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 5
     },
     {
       "english": "Gate",
       "hebrew": "שַׁעַר",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Boarding pass",
-      "hebrew": "כַּרְטִיס עֲלִיָּה",
-      "subject": "Travel & Airport"
+      "hebrew": "כַּרְטִיס עֲלִיָּה למטוס",
+      "subject": "Travel & Airport",
+      "score": 4,
+      "last": "lesson-016"
     },
     {
       "english": "Suitcase",
       "hebrew": "מִזְוָדָה",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Backpack",
       "hebrew": "תַּרְמִיל",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Queue / line",
       "hebrew": "תּוֹר",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 5
     },
     {
       "english": "Wedding",
       "hebrew": "חֲתוּנָה",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Sister",
       "hebrew": "אָחוֹת",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 5
     },
     {
       "english": "Terminal",
       "hebrew": "טֶרְמִינָל",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 5
     },
     {
       "english": "Liquid",
       "hebrew": "נוֹזֵל",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Belt",
       "hebrew": "חֲגוֹרָה",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Tray",
       "hebrew": "מַגָּשׁ",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 3
     },
     {
       "english": "Conveyor belt",
       "hebrew": "מַסּוֹעַ",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 2
     },
     {
       "english": "Seat",
       "hebrew": "מוֹשָׁב",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "Legroom",
       "hebrew": "מָקוֹם לָרַגְלַיִם",
-      "subject": "Travel & Airport"
+      "subject": "Travel & Airport",
+      "score": 5
     },
     {
       "english": "Pocket",
       "hebrew": "כִּיס",
+      "subject": "Travel & Airport",
+      "score": 3
+    },
+    {
+      "english": "Purpose / goal",
+      "hebrew": "מַטָּרָה",
       "subject": "Travel & Airport"
     }
   ],
@@ -1038,7 +1060,7 @@
       "english": "To sign",
       "hebrew": "לַחְתֹּם",
       "subject": "General",
-      "score": 5,
+      "score": 4,
       "last": "practice-0002"
     },
     {
@@ -1071,10 +1093,10 @@
     },
     {
       "english": "To carry",
-      "hebrew": "לִשְׂאֵת",
+      "hebrew": "לִסחוב",
       "subject": "General",
       "score": 2,
-      "last": "practice-0004"
+      "last": "lesson-016"
     },
     {
       "english": "To paint",
@@ -1204,15 +1226,15 @@
     },
     {
       "english": "To cough",
-      "hebrew": "לִשְׁעוֹל",
-      "subject": "General",
+      "hebrew": "להשתעל",
+      "subject": "Health & Body",
       "score": 3,
       "last": "lesson-011"
     },
     {
       "english": "To swallow",
       "hebrew": "לִבְלֹעַ",
-      "subject": "General",
+      "subject": "Health & Body",
       "score": 2,
       "last": "lesson-003"
     },
@@ -1226,76 +1248,86 @@
     {
       "english": "To withdraw",
       "hebrew": "לִמְשֹׁךְ",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 4,
       "last": "practice-0008"
     },
     {
       "english": "To transfer",
       "hebrew": "לְהַעֲבִיר",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 4,
       "last": "practice-0002"
     },
     {
       "english": "To exchange",
       "hebrew": "לְהַחְלִיף",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 3,
       "last": "lesson-011"
     },
     {
       "english": "To drive",
       "hebrew": "לִנְהֹג",
-      "subject": "General",
+      "subject": "Transport",
       "score": 5,
       "last": "practice-0008"
     },
     {
       "english": "To train",
       "hebrew": "לְהִתְאַמֵּן",
-      "subject": "General",
+      "subject": "Gym & Sport",
       "score": 5,
       "last": "practice-0007"
     },
     {
       "english": "To skate",
       "hebrew": "לְהַחְלִיק",
-      "subject": "General",
+      "subject": "Gym & Sport",
       "score": 5,
       "last": "practice-0007"
     },
     {
       "english": "To handle it / to cope",
       "hebrew": "לְהִתְמוֹדֵד",
-      "score": null,
+      "score": 4,
       "subject": "General",
       "last": "practice-0007"
     },
     {
       "english": "To pack",
       "hebrew": "לֶאֱרוֹז",
-      "subject": "General"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "To remove / take off",
       "hebrew": "לְהוֹרִיד",
-      "subject": "General"
+      "subject": "Travel & Airport",
+      "score": 3
     },
     {
       "english": "To board / get on the plane",
       "hebrew": "לַעֲלוֹת לַמָּטוֹס",
-      "subject": "General"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "To weigh",
       "hebrew": "לִשְׁקוֹל",
-      "subject": "General"
+      "subject": "Travel & Airport",
+      "score": 4
     },
     {
       "english": "To go through / pass through",
       "hebrew": "לַעֲבוֹר",
-      "subject": "General"
+      "subject": "Travel & Airport",
+      "score": 5
+    },
+    {
+      "english": "To leave behind / leave them",
+      "hebrew": "לְהַשְׁאִיר",
+      "subject": "Travel & Airport"
     }
   ],
   "adjectives": [
@@ -1345,7 +1377,7 @@
       "english": "Valid",
       "hebrew": "תָּקֵף",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-014"
     },
     {
@@ -1386,7 +1418,8 @@
     {
       "english": "Alone",
       "hebrew": "לְבַד",
-      "subject": "General"
+      "subject": "General",
+      "score": 5
     }
   ],
   "functionWords": [

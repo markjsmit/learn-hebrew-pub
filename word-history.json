@@ -4880,5 +4880,253 @@
     "old": "4",
     "new": "5",
     "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To carry",
+    "type": "Verb",
+    "old": "לִשְׂאֵת",
+    "new": "לִסחוב",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Boarding pass",
+    "type": "Noun",
+    "old": "כַּרְטִיס עֲלִיָּה",
+    "new": "כַּרְטִיס עֲלִיָּה למטוס",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To cough",
+    "type": "Verb",
+    "old": "לִשְׁעוֹל",
+    "new": "להשתעל",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To handle it / to cope",
+    "type": "Verb",
+    "old": "—",
+    "new": "4",
+    "source": "mark adjustment"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To remove / take off",
+    "type": "Verb",
+    "old": "—",
+    "new": "2",
+    "source": "mark adjustment"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To board / get on the plane",
+    "type": "Verb",
+    "old": "—",
+    "new": "4",
+    "source": "mark adjustment"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To go through / pass through",
+    "type": "Verb",
+    "old": "—",
+    "new": "5",
+    "source": "mark adjustment"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Queue / line",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "mark adjustment"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Alone",
+    "type": "adjectives",
+    "old": null,
+    "new": 5,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Backpack",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Belt",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Boarding pass",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Conveyor belt",
+    "type": "nouns",
+    "old": null,
+    "new": 2,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Exchange",
+    "type": "nouns",
+    "old": 2,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Flight",
+    "type": "nouns",
+    "old": null,
+    "new": 5,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Gate",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Legroom",
+    "type": "nouns",
+    "old": null,
+    "new": 5,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Liquid",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Pocket",
+    "type": "nouns",
+    "old": null,
+    "new": 3,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Reservation",
+    "type": "nouns",
+    "old": 3,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Seat",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Sister",
+    "type": "nouns",
+    "old": null,
+    "new": 5,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Suitcase",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Terminal",
+    "type": "nouns",
+    "old": null,
+    "new": 5,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To pack",
+    "type": "verbs",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To remove / take off",
+    "type": "verbs",
+    "old": 2,
+    "new": 3,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To sign",
+    "type": "verbs",
+    "old": 5,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "To weigh",
+    "type": "verbs",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Tray",
+    "type": "nouns",
+    "old": null,
+    "new": 3,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Valid",
+    "type": "adjectives",
+    "old": 3,
+    "new": 4,
+    "source": "lesson-review"
+  },
+  {
+    "date": "2026-06-15",
+    "word": "Wedding",
+    "type": "nouns",
+    "old": null,
+    "new": 4,
+    "source": "lesson-review"
   }
 ]

@@ -5466,18 +5466,21 @@
         "Legroom",
         "Pocket"
       ],
+      "adjectives": [
+        "Alone"
+      ],
       "verbs": [
         "To pack",
         "To remove / take off",
         "To board / get on the plane",
         "To weigh",
         "To go through / pass through"
-      ],
-      "adjectives": [
-        "Alone"
       ]
     },
-    "missedVocabulary": [],
+    "missedVocabulary": [
+      "Purpose / goal",
+      "To leave behind / leave them"
+    ],
     "notes": "",
     "conversations": [
       {
@@ -5841,7 +5844,24 @@
         ]
       }
     ],
-    "comments": [],
-    "reviewed": false
+    "comments": [
+      {
+        "type": "block",
+        "blockId": 5,
+        "author": "Mark",
+        "date": "2026-06-15",
+        "text": "This sentence is really hard to directly translate to hebrew.",
+        "replies": []
+      },
+      {
+        "type": "block",
+        "blockId": 9,
+        "author": "Mark",
+        "date": "2026-06-15",
+        "text": "Reservation does not exist in this context, they would ask for tickets.",
+        "replies": []
+      }
+    ],
+    "reviewed": true
   }
 ]
