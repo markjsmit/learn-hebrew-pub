@@ -5894,7 +5894,9 @@
       "To check",
       "To take",
       "To pay",
-      "Just / only"
+      "Just / only",
+      "Slow",
+      "To wait"
     ],
     "newWords": {
       "nouns": [
@@ -5914,7 +5916,8 @@
         "Charity"
       ],
       "adjectives": [
-        "Fresh"
+        "Fresh",
+        "Plain / natural"
       ],
       "verbs": [
         "To find",
@@ -5960,7 +5963,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Thank you.",
+                "text": "Thank you, I'll find it.",
                 "turn": "student"
               }
             ]
@@ -5970,12 +5973,12 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Here it is. Look at all the options.",
+                "text": "Here it is. All the dairy products are right here.",
                 "turn": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "There are so many brands. I never know which one to take.",
+                "text": "There are so many kinds. I never know which one to take.",
                 "turn": "student"
               }
             ]
@@ -6005,7 +6008,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Can you recommend a flavor? I always just take plain. I don't even check the label.",
+                "text": "Can you recommend a flavor? I always just take the natural one. I don't even check.",
                 "turn": "student"
               }
             ]
@@ -6015,12 +6018,12 @@
             "lines": [
               {
                 "speaker": "Heli",
-                "text": "Take the strawberry. It's really good.",
+                "text": "Take the vanilla one. It's really good.",
                 "turn": "teacher"
               },
               {
                 "speaker": "Mark",
-                "text": "And if it's not fresh, can I exchange it?",
+                "text": "OK. Is it still fresh? Can I exchange it if it's not?",
                 "turn": "student"
               }
             ]
@@ -6035,7 +6038,7 @@
               },
               {
                 "speaker": "Mark",
-                "text": "OK. The cart is right there.",
+                "text": "Got it. I'll take the cart.",
                 "turn": "student"
               }
             ]
@@ -6065,7 +6068,7 @@
             "lines": [
               {
                 "speaker": "Cashier",
-                "text": "I'll scan it. You'll collect points on this purchase.",
+                "text": "I'll scan it. You'll collect points on this.",
                 "turn": "teacher"
               },
               {
@@ -6085,28 +6088,13 @@
               },
               {
                 "speaker": "Mark",
-                "text": "Yes, I'd like to donate. That's fine.",
+                "text": "Yes, I'd like to donate.",
                 "turn": "student"
               }
             ]
           },
           {
             "id": 11,
-            "lines": [
-              {
-                "speaker": "Heli",
-                "text": "Did we remember to check if we need coffee?",
-                "turn": "teacher"
-              },
-              {
-                "speaker": "Mark",
-                "text": "I think we still have some. Let's finish up here.",
-                "turn": "student"
-              }
-            ]
-          },
-          {
-            "id": 12,
             "lines": [
               {
                 "speaker": "Cashier",
@@ -6121,7 +6109,7 @@
             ]
           },
           {
-            "id": 13,
+            "id": 12,
             "lines": [
               {
                 "speaker": "Cashier",
@@ -6136,7 +6124,7 @@
             ]
           },
           {
-            "id": 14,
+            "id": 13,
             "lines": [
               {
                 "speaker": "Cashier",
@@ -6145,7 +6133,22 @@
               },
               {
                 "speaker": "Mark",
-                "text": "No problem, we're not in a rush.",
+                "text": "No problem, we can wait.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Did we remember to check if we need coffee?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I think we still have some. We'll check when we get home.",
                 "turn": "student"
               }
             ]
