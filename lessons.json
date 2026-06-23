@@ -5863,5 +5863,272 @@
       }
     ],
     "reviewed": true
+  },
+  {
+    "id": "lesson-017-supermarket",
+    "number": 17,
+    "title": "At the Supermarket",
+    "subject": "Shopping",
+    "setting": "After the gym, Mark and Heli stop at the Carrefour below. They need yoghurt and milk. A quick loop through the store to find what they need, then straight to the checkout for the usual round of questions.",
+    "goal": [
+      "Handle the standard Israeli checkout questions — club card, points, donation, split payment — without stopping to think",
+      "Ask a staff member for directions inside the store and understand location-based answers (aisle, section, in front, turn)",
+      "Use supermarket vocabulary — yoghurt, cart, sale, expiry, fresh — naturally in a familiar scene"
+    ],
+    "focusAreas": [],
+    "wordsReused": [
+      "Milk",
+      "Price",
+      "Turn",
+      "To recommend",
+      "To sign",
+      "To exchange",
+      "Busy / crowded",
+      "Even",
+      "In front",
+      "To share / split",
+      "Receipt",
+      "Card",
+      "Backpack",
+      "Payment",
+      "To check",
+      "To take",
+      "To pay",
+      "Just / only"
+    ],
+    "newWords": {
+      "nouns": [
+        "Yoghurt",
+        "Checkout counter",
+        "Bag",
+        "Cart / trolley",
+        "Cashier",
+        "Club card",
+        "Section / department",
+        "Donation",
+        "Sale / offer",
+        "Dairy products",
+        "Loyalty points",
+        "Expiry / best-before",
+        "Aisle / passage",
+        "Charity"
+      ],
+      "adjectives": [
+        "Fresh"
+      ],
+      "verbs": [
+        "To find",
+        "To donate",
+        "To collect / earn points",
+        "To continue / go ahead",
+        "To scan"
+      ],
+      "functionWords": []
+    },
+    "reviewed": false,
+    "conversations": [
+      {
+        "title": "Finding the Yoghurt",
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "It's really crowded today. Let's be quick.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I know. We just need yoghurt and milk.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Mark",
+                "text": "Excuse me, can you help me find the yoghurt?",
+                "turn": "student"
+              },
+              {
+                "speaker": "Staff Member",
+                "text": "Yes. Continue to the end of this aisle and turn right. It's in the dairy section, right in front of the milk.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Thank you.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Look, the Greek yoghurt is on sale this week.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good. Let me check the price and the expiry date.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "This one is fresh. Take it.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Can you recommend a flavor? I always just take plain. I don't even check the label.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Take the strawberry. It's really good.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "And if it's not fresh, can I exchange it?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Yes, just keep the receipt. The checkout is open, let's go.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "OK. The cart is right there.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "At the Checkout",
+        "blocks": [
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Cashier",
+                "text": "Good evening. Do you have a club card?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, here you go.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Cashier",
+                "text": "I'll scan it. You'll collect points on this purchase.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good. How many points do I have so far?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Cashier",
+                "text": "I can't see that here, check in the app. One-shekel donation to charity?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, I'd like to donate. That's fine.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Cashier",
+                "text": "Would you like to pay in one payment or split it?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "One payment, please. We're paying by card.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Cashier",
+                "text": "That's 54 shekels. Sign here, please.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Of course. And we don't need a bag, we have a backpack.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Cashier",
+                "text": "Great. Here's your receipt. Have a good evening.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Heli",
+                "text": "Thank you, you too.",
+                "turn": "student"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Thanks. Have a good one.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "missedVocabulary": [],
+    "comments": []
   }
 ]
