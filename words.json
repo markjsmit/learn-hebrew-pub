@@ -1383,21 +1383,21 @@
     {
       "english": "To drive",
       "hebrew": "לִנְהֹג",
-      "subject": "Transport",
+      "subject": "General",
       "score": 5,
       "last": "practice-0008"
     },
     {
       "english": "To train",
       "hebrew": "לְהִתְאַמֵּן",
-      "subject": "Gym & Sport",
+      "subject": "General",
       "score": 5,
       "last": "practice-0007"
     },
     {
       "english": "To skate",
       "hebrew": "לְהַחְלִיק",
-      "subject": "Gym & Sport",
+      "subject": "General",
       "score": 5,
       "last": "practice-0007"
     },
@@ -1411,37 +1411,43 @@
     {
       "english": "To pack",
       "hebrew": "לֶאֱרוֹז",
-      "subject": "Travel & Airport",
-      "score": 4
+      "subject": "General",
+      "score": 4,
+      "last": "lesson-016"
     },
     {
       "english": "To remove / take off",
       "hebrew": "לְהוֹרִיד",
-      "subject": "Travel & Airport",
-      "score": 3
+      "subject": "General",
+      "score": 3,
+      "last": "lesson-016"
     },
     {
       "english": "To board / get on the plane",
       "hebrew": "לַעֲלוֹת לַמָּטוֹס",
-      "subject": "Travel & Airport",
-      "score": 4
+      "subject": "General",
+      "score": 4,
+      "last": "lesson-016"
     },
     {
       "english": "To weigh",
       "hebrew": "לִשְׁקוֹל",
-      "subject": "Travel & Airport",
-      "score": 4
+      "subject": "General",
+      "score": 4,
+      "last": "lesson-016"
     },
     {
       "english": "To go through / pass through",
       "hebrew": "לַעֲבוֹר",
-      "subject": "Travel & Airport",
-      "score": 5
+      "subject": "General",
+      "score": 5,
+      "last": "lesson-016"
     },
     {
       "english": "To leave behind / leave them",
       "hebrew": "לְהַשְׁאִיר",
-      "subject": "Travel & Airport"
+      "subject": "General",
+      "last": "lesson-016"
     },
     {
       "english": "To find",
