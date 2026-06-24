@@ -5928,7 +5928,7 @@
       ],
       "functionWords": []
     },
-    "reviewed": false,
+    "reviewed": true,
     "conversations": [
       {
         "title": "Finding the Yoghurt",
@@ -6179,5 +6179,438 @@
     "missedVocabulary": [],
     "comments": [],
     "notes": ""
+  },
+  {
+    "id": "lesson-018-kerach-evening",
+    "title": "A Kerach Evening",
+    "subject": "Social / Sport",
+    "goal": [
+      "Handle a full social evening in Hebrew — greeting friends, catching up on the ice, making plans as a group, and ordering at a restaurant",
+      "Use future tense and time expressions naturally when making and discussing plans",
+      "Reinforce sport, social, and food vocabulary from previous lessons in an easy, familiar setting"
+    ],
+    "setting": "A Tuesday evening at the ice — the rink where Mark and Heli go every week with their group of friends. Most of the group is already there when they arrive: Aref, Noya, Dea, and others. After an hour of skating and catching up, Dea suggests Agadir for dinner, and the evening ends with the whole group at one big table.",
+    "wordsReused": [
+      "Stretch",
+      "Hand",
+      "To stop",
+      "To remove / take off",
+      "ATM",
+      "To wait",
+      "To agree",
+      "Reservation",
+      "Cashier",
+      "Traffic",
+      "Gym",
+      "Sister",
+      "Wedding",
+      "Table",
+      "Menu",
+      "Salad",
+      "Bill"
+    ],
+    "newWords": {
+      "nouns": [
+        "Ice — קֶרַח",
+        "Laces / shoelaces — שְׁרוֹכִים",
+        "Wrist guard — מַגֵּן פֶּרֶק יָד",
+        "Knee pad — מַגֵּן בֶּרֶךְ",
+        "Heel — עָקֵב",
+        "Army / military service — צָבָא",
+        "Boyfriend — חָבֵר (in this context)",
+        "Group / friends — חֶבְרָה",
+        "Spin — סִיבוּב",
+        "Card machine / payment terminal — מְסוֹפוֹן"
+      ],
+      "verbs": [
+        "To fall — לִיפּוֹל",
+        "To catch up — לְהִתְעַדְכֵּן",
+        "To suggest — לְהַצִּיעַ"
+      ],
+      "adjectives": [
+        "Slippery — חַלְקַלַּק"
+      ],
+      "functionWords": []
+    },
+    "focusAreas": [],
+    "reviewed": false,
+    "conversations": [
+      {
+        "id": 1,
+        "lines": [
+          {
+            "speaker": "Aref",
+            "text": "Finally! We've been here for twenty minutes already. How are you?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Good, sorry. The traffic from the gym was terrible tonight.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "lines": [
+          {
+            "speaker": "Heli",
+            "text": "Aref, is the ice full already?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Aref",
+            "text": "Very full. The whole group is here, and there are a lot of kids too.",
+            "turn": "teacher"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "lines": [
+          {
+            "speaker": "Heli",
+            "text": "Wait, did you remember the wrist guards?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Yes, they're in the bag. Yours and mine.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "lines": [
+          {
+            "speaker": "Heli",
+            "text": "Are your laces okay? Give me your hand and I'll hold the skate.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "They're a complete mess again. I can never get them right.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "lines": [
+          {
+            "speaker": "Aref",
+            "text": "Are you doing a quick stretch first, or going straight on?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I'll stretch here and then go. The ice looks really slippery tonight.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "lines": [
+          {
+            "speaker": "Heli",
+            "text": "Come on, I want to start. What are you still doing?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "One second. I still need to put on my knee pads.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "lines": [
+          {
+            "speaker": "Michael",
+            "text": "Let's finally catch up properly. It's been two weeks. How was the Netherlands?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Really nice. My sister's wedding was beautiful. But I'm still tired from the trip.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "lines": [
+          {
+            "speaker": "Michael",
+            "text": "Look at Heli over there. She's already out there skating. She's really something.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "She waits for this all week. That spin she just did, she's been practising it for months.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "lines": [
+          {
+            "speaker": "Michael",
+            "text": "Try to stop here. Push your heels out to the sides like this.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I always forget how to do it. On slippery ice it's so much harder.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "lines": [
+          {
+            "speaker": "Noya",
+            "text": "Mark! When did you get here? I didn't even see you come in!",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Just now. Noya, how are you? What's going on with the army?",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "lines": [
+          {
+            "speaker": "Noya",
+            "text": "The army is fine. But don't even ask about my boyfriend right now. It's a whole story.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Are you okay? Do you want to talk about it later?",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "lines": [
+          {
+            "speaker": "Noya",
+            "text": "I'm fine, don't worry. Oh, watch — Mishel almost just crashed into that kid over there.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I saw that. I was sure they were both going to fall.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "lines": [
+          {
+            "speaker": "Dea",
+            "text": "Okay, everyone, who's up for going out tonight? I suggest Agadir.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I'm in. I've been thinking about the Agadir burger for the last hour.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "lines": [
+          {
+            "speaker": "Michael",
+            "text": "Did everyone agree on Agadir? I heard there might be a wait tonight.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I think so. Let's try to leave in twenty minutes. Did Dea already make a reservation?",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "lines": [
+          {
+            "speaker": "Heli",
+            "text": "Come on, let's go take off our skates.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I'll come with you. I want to take off my knee pads too.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "lines": [
+          {
+            "speaker": "Michael",
+            "text": "Wait, I need to stop at the ATM first. I have no cash on me.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Me too. Is there one near the exit?",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "lines": [
+          {
+            "speaker": "Dea",
+            "text": "I called Agadir and made a reservation for ten. It's going to be a great evening.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Perfect. Let's go. Everyone's ready.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "Good evening! Are you all together?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Yes, we reserved a table for ten. The name is Heli.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "I have you right here. Come this way. Can I start with some water for the table?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Heli",
+            "text": "Yes please. And can we see the menus?",
+            "turn": "student"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Thank you. And some bread while we wait, if you have it.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "Of course. Tonight's special is the Angus burger with Agadir fries.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "That's exactly what I wanted. Can I get it with cheddar?",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "No problem. And for you?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Heli",
+            "text": "I'll have the Caesar salad, please.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "Great. Anything else to start?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I think we're good. Actually, can we also get more water for the other end of the table?",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "Here we go. Everything's out. Enjoy!",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Heli",
+            "text": "Thank you, it looks amazing.",
+            "turn": "student"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Thank you so much. Exactly what I needed after a long evening.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "lines": [
+          {
+            "speaker": "Waiter",
+            "text": "Whenever you're ready, the bill is here. All together or separately?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Heli",
+            "text": "All together. Should we go to the cashier or can we pay here?",
+            "turn": "student"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Just bring us the card machine. We'll pay here.",
+            "turn": "student"
+          }
+        ]
+      }
+    ],
+    "comments": []
   }
 ]

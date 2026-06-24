@@ -551,7 +551,7 @@
       "hebrew": "סָלַט",
       "subject": "Food & Dining",
       "score": 5,
-      "last": "practice-0006"
+      "last": "lesson-018"
     },
     {
       "english": "Cake",
@@ -585,7 +585,7 @@
       "english": "Milk",
       "hebrew": "חָלָב",
       "subject": "Food & Dining",
-      "score": 4,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -755,7 +755,7 @@
       "english": "Turn",
       "hebrew": "פְּנִיָּה",
       "subject": "Street & City",
-      "score": 4,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -770,7 +770,7 @@
       "hebrew": "חֶדֶר כּוֹשֶׁר",
       "subject": "Gym & Sport",
       "score": 5,
-      "last": "lesson-015"
+      "last": "lesson-018"
     },
     {
       "english": "Weights",
@@ -931,7 +931,7 @@
       "english": "Backpack",
       "hebrew": "תַּרְמִיל",
       "subject": "Travel & Airport",
-      "score": 4,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -953,7 +953,7 @@
       "hebrew": "אָחוֹת",
       "subject": "Travel & Airport",
       "score": 5,
-      "last": "lesson-016",
+      "last": "lesson-018",
       "contextual": "same word as Nurse in Health & Body"
     },
     {
@@ -1022,87 +1022,161 @@
       "english": "Yoghurt",
       "hebrew": "יוֹגוּרט",
       "subject": "Food & Dining",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 5
     },
     {
       "english": "Dairy products",
       "hebrew": "מוּצְרֵי חָלָב",
       "subject": "Food & Dining",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 4
     },
     {
       "english": "Checkout counter",
       "hebrew": "קוּפָּה",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 4
     },
     {
-      "english": "Bag",
+      "english": "Plastic Bag",
       "hebrew": "שַׂקִּית",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 5
     },
     {
       "english": "Cart / trolley",
       "hebrew": "עֲגָלָה",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 4
     },
     {
       "english": "Cashier",
       "hebrew": "קוּפַּאי / קוּפַּאִית",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 3
     },
     {
       "english": "Club card",
       "hebrew": "כַּרְטִיס מוֹעֲדוֹן",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 5
     },
     {
       "english": "Section / department",
       "hebrew": "מַחְלָקָה",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 3
     },
     {
       "english": "Donation",
       "hebrew": "תְּרוּמָה",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 3
     },
     {
-      "english": "Sale / offer",
+      "english": "on Sale / special offer",
       "hebrew": "מָבְצָע",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 2
     },
     {
       "english": "Loyalty points",
       "hebrew": "נְקוּדוֹת",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 4
     },
     {
-      "english": "Expiry / best-before",
+      "english": "Expiry date",
       "hebrew": "תֹּקֶף",
       "subject": "Shopping",
       "last": "lesson-017",
-      "contextual": "תֹּקֶף (noun) — same root as תָּקֵף (valid, adj.)"
+      "contextual": "תֹּקֶף (noun) — same root as תָּקֵף (valid, adj.)",
+      "score": 4
     },
     {
       "english": "Aisle / passage",
       "hebrew": "מַעֲבָר",
       "subject": "Shopping",
       "last": "lesson-017",
-      "contextual": "same root as מַעֲבַר חֲצִיָּה (crosswalk)"
+      "contextual": "same root as מַעֲבַר חֲצִיָּה (crosswalk)",
+      "score": 4
     },
     {
       "english": "Charity",
       "hebrew": "צְדָקָה",
       "subject": "Shopping",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 3
+    },
+    {
+      "english": "Ice",
+      "hebrew": "קֶרַח",
+      "score": null,
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Laces / shoelaces",
+      "hebrew": "שְׁרוֹכִים",
+      "score": null,
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Wrist guard",
+      "hebrew": "מַגֵּן פֶּרֶק יָד",
+      "score": null,
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Knee pad",
+      "hebrew": "מַגֵּן בֶּרֶךְ",
+      "score": null,
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Spin",
+      "hebrew": "סִיבוּב",
+      "score": null,
+      "subject": "Gym & Sport"
+    },
+    {
+      "english": "Army / military service",
+      "hebrew": "צָבָא",
+      "score": null,
+      "subject": "General"
+    },
+    {
+      "english": "Boyfriend",
+      "hebrew": "חָבֵר",
+      "score": null,
+      "subject": "General"
+    },
+    {
+      "english": "Group / friends",
+      "hebrew": "חֶבְרָה",
+      "score": null,
+      "subject": "General"
+    },
+    {
+      "english": "Heel",
+      "hebrew": "עָקֵב",
+      "subject": "Health & Body",
+      "last": "lesson-018"
+    },
+    {
+      "english": "Card machine / payment terminal",
+      "hebrew": "מְסוֹפוֹן",
+      "subject": "Bank & Finance",
+      "last": "lesson-018"
     }
   ],
   "verbs": [
@@ -1131,7 +1205,7 @@
       "english": "To take",
       "hebrew": "לָקַחַת",
       "subject": "General",
-      "score": 3,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -1173,7 +1247,7 @@
       "english": "To sign",
       "hebrew": "לַחְתֹּם",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -1264,7 +1338,7 @@
       "english": "To share",
       "hebrew": "לַחֲלֹק",
       "subject": "General",
-      "score": 2,
+      "score": 4,
       "last": "lesson-017"
     },
     {
@@ -1278,7 +1352,7 @@
       "english": "To wait",
       "hebrew": "לַחֲכוֹת",
       "subject": "General",
-      "score": 5,
+      "score": 4,
       "last": "lesson-016"
     },
     {
@@ -1376,7 +1450,7 @@
       "english": "To exchange",
       "hebrew": "לְהַחְלִיף",
       "subject": "General",
-      "score": 3,
+      "score": 5,
       "last": "lesson-017",
       "contextual": "לְהַחְלִיף מַטְבֵּעַ (to exchange currency)"
     },
@@ -1453,31 +1527,54 @@
       "english": "To find",
       "hebrew": "לִמְצֹא",
       "subject": "General",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 5
     },
     {
       "english": "To donate",
       "hebrew": "לִתְרֹם",
       "subject": "General",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 2
     },
     {
       "english": "To collect / earn points",
-      "hebrew": "לִצְבֹּר",
+      "hebrew": "לאסוף",
       "subject": "General",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 3
     },
     {
       "english": "To continue / go ahead",
       "hebrew": "לְהַמְשִׁיךְ",
       "subject": "General",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 4
     },
     {
       "english": "To scan",
       "hebrew": "לִסְרֹק",
       "subject": "General",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 3
+    },
+    {
+      "english": "To fall",
+      "hebrew": "לִיפּוֹל",
+      "score": null,
+      "subject": "General"
+    },
+    {
+      "english": "To catch up",
+      "hebrew": "לְהִתְעַדְכֵּן",
+      "score": null,
+      "subject": "General"
+    },
+    {
+      "english": "To suggest",
+      "hebrew": "לְהַצִּיעַ",
+      "score": null,
+      "subject": "General"
     }
   ],
   "adjectives": [
@@ -1520,7 +1617,7 @@
       "english": "Busy / crowded",
       "hebrew": "עָמוּס",
       "subject": "General",
-      "score": 3,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -1555,7 +1652,7 @@
       "english": "In front",
       "hebrew": "מִקָּדִימָה",
       "subject": "General",
-      "score": 2,
+      "score": 5,
       "last": "lesson-017"
     },
     {
@@ -1577,11 +1674,19 @@
       "english": "Fresh",
       "hebrew": "טָרִי",
       "subject": "General",
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "score": 5
     },
     {
       "english": "Plain / natural",
       "hebrew": "טָבְעִי",
+      "subject": "General",
+      "score": 4
+    },
+    {
+      "english": "Slippery",
+      "hebrew": "חַלְקַלַּק",
+      "score": null,
       "subject": "General"
     }
   ],
@@ -1668,7 +1773,7 @@
       "english": "Even",
       "hebrew": "אֲפִילּוּ",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-017"
     },
     {
