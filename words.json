@@ -1122,49 +1122,57 @@
       "english": "Ice",
       "hebrew": "קֶרַח",
       "score": null,
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "last": "lesson-018"
     },
     {
       "english": "Laces / shoelaces",
       "hebrew": "שְׁרוֹכִים",
       "score": null,
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "last": "lesson-018"
     },
     {
       "english": "Wrist guard",
       "hebrew": "מַגֵּן פֶּרֶק יָד",
       "score": null,
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "last": "lesson-018"
     },
     {
       "english": "Knee pad",
       "hebrew": "מַגֵּן בֶּרֶךְ",
       "score": null,
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "last": "lesson-018"
     },
     {
       "english": "Spin",
       "hebrew": "סִיבוּב",
       "score": null,
-      "subject": "Gym & Sport"
+      "subject": "Gym & Sport",
+      "last": "lesson-018"
     },
     {
       "english": "Army / military service",
       "hebrew": "צָבָא",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     },
     {
       "english": "Boyfriend",
       "hebrew": "חָבֵר",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     },
     {
       "english": "Group / friends",
       "hebrew": "חֶבְרָה",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     },
     {
       "english": "Heel",
@@ -1562,19 +1570,22 @@
       "english": "To fall",
       "hebrew": "לִיפּוֹל",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     },
     {
       "english": "To catch up",
       "hebrew": "לְהִתְעַדְכֵּן",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     },
     {
       "english": "To suggest",
       "hebrew": "לְהַצִּיעַ",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     }
   ],
   "adjectives": [
@@ -1681,13 +1692,15 @@
       "english": "Plain / natural",
       "hebrew": "טָבְעִי",
       "subject": "General",
-      "score": 4
+      "score": 4,
+      "last": "lesson-017"
     },
     {
       "english": "Slippery",
       "hebrew": "חַלְקַלַּק",
       "score": null,
-      "subject": "General"
+      "subject": "General",
+      "last": "lesson-018"
     }
   ],
   "functionWords": [
