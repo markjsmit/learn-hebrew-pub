@@ -6233,7 +6233,7 @@
       "functionWords": []
     },
     "focusAreas": [],
-    "reviewed": false,
+    "reviewed": true,
     "conversations": [
       {
         "title": "Arriving at the Ice",
@@ -6631,9 +6631,273 @@
         ]
       }
     ],
-    "comments": [],
+    "comments": [
+      {
+        "type": "block",
+        "blockId": 4,
+        "author": "Mark",
+        "date": "2026-06-29",
+        "text": "\"Give me your hand and i'll hold the skate\" is very confusing without context; and is not needed for the lesson.",
+        "replies": []
+      },
+      {
+        "type": "block",
+        "blockId": 5,
+        "author": "Mark",
+        "date": "2026-06-29",
+        "text": "\"enter\" instead of \"go\"",
+        "replies": []
+      }
+    ],
     "number": 18,
-    "missedVocabulary": [],
+    "missedVocabulary": [
+      "To practice"
+    ],
     "notes": ""
+  },
+  {
+    "id": "lesson-019-barber",
+    "title": "At the Barber",
+    "goal": [
+      "Learn core vocabulary for a barber visit: the chair, tools, style instructions, and payment",
+      "Practice describing what you want — length, sides vs. top, and what to skip",
+      "Maintain high-scoring vocabulary from recent lessons in a new, low-pressure service context"
+    ],
+    "setting": "A Tuesday afternoon at Wix Glam, the in-house salon at the Wix campus. Mark stops in for his regular trim with Oren, his usual barber. Oren knows Mark well — the two usually have a brief chat while he works.",
+    "wordsReused": [
+      "Bothering / disturbing",
+      "Towel",
+      "To suggest",
+      "To cut",
+      "Like this / this way",
+      "Properly / the right way",
+      "To remove / take off",
+      "Queue / line",
+      "Wedding",
+      "Tip",
+      "Sister",
+      "Neck",
+      "Cash",
+      "Card",
+      "To pay",
+      "Checkout counter",
+      "To train"
+    ],
+    "newWords": {
+      "nouns": [
+        "Barber",
+        "Glasses",
+        "Haircut",
+        "Beard",
+        "Mirror",
+        "Millimeter",
+        "Scissors",
+        "Comb",
+        "Cape",
+        "Hair",
+        "Side",
+        "Products",
+        "Trimmer",
+        "Shampoo",
+        "Hair dryer"
+      ],
+      "verbs": [
+        "To wash",
+        "To shave / trim",
+        "To dry",
+        "To shorten",
+        "To spray"
+      ],
+      "adjectives": [
+        "Short",
+        "Long",
+        "Wet"
+      ]
+    },
+    "focusAreas": [],
+    "reviewed": false,
+    "conversations": [
+      {
+        "id": 1,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Mark! No line today, you're in luck. Come take a seat.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Perfect timing. This was really starting to bother me, my hair was getting too long.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Let me put the cape on you. And take off your glasses for me, please.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Here you go. Oh, and I already trimmed the beard this morning, so don't worry about that.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "No problem. Same haircut as always, or are we trying something different today?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Same as always. Cut it short on the sides and a bit longer on top.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "I'll start with the trimmer on the sides. How many millimeters?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Six, please. Same as last time.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Let me run the comb through the top. Like this, or shall I shorten it a bit too?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "What do you suggest? Last time felt about right. Maybe just a little bit shorter.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "I'll spray it a bit to make it wet, then use the scissors on top.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Sure. Take all the time you need.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Any special plans coming up? You seem to want it especially nice today.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I have a wedding in the Netherlands next week. I thought this was a good time to come in.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Nice! By the way, my daughter was telling me about her skating. She's really getting into it.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "She's getting so good. She's in the same group as Shira, my wife's sister. They practice together.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Should I give it a quick shampoo wash before I dry it?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Sure. And afterward, just the hair dryer, no products.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Let me dry off the back of your neck with this towel. Almost done.",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Take your time. It's looking good already.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "Take a look in the mirror. What do you think?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Looks good to me. Done properly as always, best barber on campus, Oren.",
+            "turn": "student"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "lines": [
+          {
+            "speaker": "Oren",
+            "text": "You can pay at the checkout. Cash or card?",
+            "turn": "teacher"
+          },
+          {
+            "speaker": "Mark",
+            "text": "Card, please. And here's a small tip for you.",
+            "turn": "student"
+          }
+        ]
+      }
+    ],
+    "comments": []
   }
 ]

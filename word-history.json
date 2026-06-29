@@ -3,7 +3,7 @@
     "date": "2026-06-01",
     "word": "Cough",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-001"
   },
@@ -11,7 +11,7 @@
     "date": "2026-06-01",
     "word": "Doctor",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-001"
   },
@@ -19,7 +19,7 @@
     "date": "2026-06-01",
     "word": "Fever",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-001"
   },
@@ -27,7 +27,7 @@
     "date": "2026-06-01",
     "word": "Headache",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-001"
   },
@@ -35,7 +35,7 @@
     "date": "2026-06-01",
     "word": "Medicine",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-001"
   },
@@ -43,7 +43,7 @@
     "date": "2026-06-01",
     "word": "To check",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-001"
   },
@@ -51,7 +51,7 @@
     "date": "2026-06-01",
     "word": "To cough",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-001"
   },
@@ -59,7 +59,7 @@
     "date": "2026-06-01",
     "word": "To feel (sick)",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-001"
   },
@@ -67,7 +67,7 @@
     "date": "2026-06-01",
     "word": "To take",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-001"
   },
@@ -91,7 +91,7 @@
     "date": "2026-06-01",
     "word": "Chest",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-002"
   },
@@ -99,7 +99,7 @@
     "date": "2026-06-01",
     "word": "Cold",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-002"
   },
@@ -123,7 +123,7 @@
     "date": "2026-06-01",
     "word": "Ear",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -131,7 +131,7 @@
     "date": "2026-06-01",
     "word": "Eye",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -147,7 +147,7 @@
     "date": "2026-06-01",
     "word": "Hand",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -155,7 +155,7 @@
     "date": "2026-06-01",
     "word": "Head",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -171,7 +171,7 @@
     "date": "2026-06-01",
     "word": "Hospital",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -179,7 +179,7 @@
     "date": "2026-06-01",
     "word": "Leg",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -195,7 +195,7 @@
     "date": "2026-06-01",
     "word": "Nurse",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -203,7 +203,7 @@
     "date": "2026-06-01",
     "word": "Pain",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-002"
   },
@@ -211,7 +211,7 @@
     "date": "2026-06-01",
     "word": "Stomach",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -219,7 +219,7 @@
     "date": "2026-06-01",
     "word": "Throat",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-002"
   },
@@ -243,7 +243,7 @@
     "date": "2026-06-01",
     "word": "To hurt",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-002"
   },
@@ -251,7 +251,7 @@
     "date": "2026-06-01",
     "word": "Toothache",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-002"
   },
@@ -419,7 +419,7 @@
     "date": "2026-06-01",
     "word": "To swallow",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "1",
     "source": "lesson-003"
   },
@@ -435,7 +435,7 @@
     "date": "2026-06-01",
     "word": "Account",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-004"
   },
@@ -443,7 +443,7 @@
     "date": "2026-06-01",
     "word": "ATM",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-004"
   },
@@ -451,7 +451,7 @@
     "date": "2026-06-01",
     "word": "Balance",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-004"
   },
@@ -459,7 +459,7 @@
     "date": "2026-06-01",
     "word": "Bank",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-004"
   },
@@ -483,7 +483,7 @@
     "date": "2026-06-01",
     "word": "Loan",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-004"
   },
@@ -491,7 +491,7 @@
     "date": "2026-06-01",
     "word": "Passport",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-004"
   },
@@ -499,7 +499,7 @@
     "date": "2026-06-01",
     "word": "Payment",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-004"
   },
@@ -523,7 +523,7 @@
     "date": "2026-06-01",
     "word": "To deposit",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-004"
   },
@@ -531,7 +531,7 @@
     "date": "2026-06-01",
     "word": "To transfer",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-004"
   },
@@ -539,7 +539,7 @@
     "date": "2026-06-01",
     "word": "To withdraw",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-004"
   },
@@ -547,7 +547,7 @@
     "date": "2026-06-01",
     "word": "Transfer",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-004"
   },
@@ -579,7 +579,7 @@
     "date": "2026-06-01",
     "word": "Banknote",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-005"
   },
@@ -603,7 +603,7 @@
     "date": "2026-06-01",
     "word": "Check",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-005"
   },
@@ -619,7 +619,7 @@
     "date": "2026-06-01",
     "word": "Exchange",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-005"
   },
@@ -643,7 +643,7 @@
     "date": "2026-06-01",
     "word": "PIN",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-005"
   },
@@ -659,7 +659,7 @@
     "date": "2026-06-01",
     "word": "Savings",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-005"
   },
@@ -675,7 +675,7 @@
     "date": "2026-06-01",
     "word": "To exchange",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-005"
   },
@@ -683,7 +683,7 @@
     "date": "2026-06-01",
     "word": "To pay",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-005"
   },
@@ -691,7 +691,7 @@
     "date": "2026-06-01",
     "word": "To sign",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-005"
   },
@@ -723,7 +723,7 @@
     "date": "2026-06-01",
     "word": "Airport",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-006"
   },
@@ -747,7 +747,7 @@
     "date": "2026-06-01",
     "word": "Driver",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-006"
   },
@@ -755,7 +755,7 @@
     "date": "2026-06-01",
     "word": "Fast",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-006"
   },
@@ -763,7 +763,7 @@
     "date": "2026-06-01",
     "word": "Hotel",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-006"
   },
@@ -779,7 +779,7 @@
     "date": "2026-06-01",
     "word": "Ride",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-006"
   },
@@ -787,7 +787,7 @@
     "date": "2026-06-01",
     "word": "Slow",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-006"
   },
@@ -803,7 +803,7 @@
     "date": "2026-06-01",
     "word": "Taxi",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-006"
   },
@@ -811,7 +811,7 @@
     "date": "2026-06-01",
     "word": "To drive",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-006"
   },
@@ -827,7 +827,7 @@
     "date": "2026-06-01",
     "word": "To stop",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-006"
   },
@@ -835,7 +835,7 @@
     "date": "2026-06-01",
     "word": "Traffic",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-006"
   },
@@ -1059,7 +1059,7 @@
     "date": "2026-06-01",
     "word": "Battery",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-008"
   },
@@ -1067,7 +1067,7 @@
     "date": "2026-06-01",
     "word": "Brush",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-008"
   },
@@ -1091,7 +1091,7 @@
     "date": "2026-06-01",
     "word": "Drill",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-008"
   },
@@ -1099,7 +1099,7 @@
     "date": "2026-06-01",
     "word": "Hammer",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1107,7 +1107,7 @@
     "date": "2026-06-01",
     "word": "Ladder",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-008"
   },
@@ -1115,7 +1115,7 @@
     "date": "2026-06-01",
     "word": "Nail",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-008"
   },
@@ -1123,7 +1123,7 @@
     "date": "2026-06-01",
     "word": "Paint",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1155,7 +1155,7 @@
     "date": "2026-06-01",
     "word": "Screw",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1163,7 +1163,7 @@
     "date": "2026-06-01",
     "word": "Tape",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1171,7 +1171,7 @@
     "date": "2026-06-01",
     "word": "To build",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1179,7 +1179,7 @@
     "date": "2026-06-01",
     "word": "To clean",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1187,7 +1187,7 @@
     "date": "2026-06-01",
     "word": "To fix",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1195,7 +1195,7 @@
     "date": "2026-06-01",
     "word": "To paint",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1203,7 +1203,7 @@
     "date": "2026-06-01",
     "word": "Tool",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-008"
   },
@@ -1235,7 +1235,7 @@
     "date": "2026-06-01",
     "word": "Box",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-009"
   },
@@ -1259,7 +1259,7 @@
     "date": "2026-06-01",
     "word": "Glue",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-009"
   },
@@ -1315,7 +1315,7 @@
     "date": "2026-06-01",
     "word": "Plank",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-009"
   },
@@ -1323,7 +1323,7 @@
     "date": "2026-06-01",
     "word": "Pliers",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-009"
   },
@@ -1339,7 +1339,7 @@
     "date": "2026-06-01",
     "word": "Saw",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "1",
     "source": "lesson-009"
   },
@@ -1379,7 +1379,7 @@
     "date": "2026-06-01",
     "word": "To cut",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-009"
   },
@@ -1387,7 +1387,7 @@
     "date": "2026-06-01",
     "word": "To hold",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-009"
   },
@@ -1403,7 +1403,7 @@
     "date": "2026-06-01",
     "word": "Wood",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-009"
   },
@@ -1411,7 +1411,7 @@
     "date": "2026-06-01",
     "word": "Wrench",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-009"
   },
@@ -1443,7 +1443,7 @@
     "date": "2026-06-01",
     "word": "Bill",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1451,7 +1451,7 @@
     "date": "2026-06-01",
     "word": "Cake",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1459,7 +1459,7 @@
     "date": "2026-06-01",
     "word": "Cappuccino",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-010"
   },
@@ -1491,7 +1491,7 @@
     "date": "2026-06-01",
     "word": "Decaf",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-010"
   },
@@ -1515,7 +1515,7 @@
     "date": "2026-06-01",
     "word": "Espresso",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1531,7 +1531,7 @@
     "date": "2026-06-01",
     "word": "Menu",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1539,7 +1539,7 @@
     "date": "2026-06-01",
     "word": "Milk",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-010"
   },
@@ -1571,7 +1571,7 @@
     "date": "2026-06-01",
     "word": "Reservation",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-010"
   },
@@ -1579,7 +1579,7 @@
     "date": "2026-06-01",
     "word": "Salad",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1587,7 +1587,7 @@
     "date": "2026-06-01",
     "word": "Sandwich",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1619,7 +1619,7 @@
     "date": "2026-06-01",
     "word": "Soup",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1627,7 +1627,7 @@
     "date": "2026-06-01",
     "word": "Sugar",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1635,7 +1635,7 @@
     "date": "2026-06-01",
     "word": "Table",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1659,7 +1659,7 @@
     "date": "2026-06-01",
     "word": "Tip",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-010"
   },
@@ -1667,7 +1667,7 @@
     "date": "2026-06-01",
     "word": "To order",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-010"
   },
@@ -1675,7 +1675,7 @@
     "date": "2026-06-01",
     "word": "To recommend",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-010"
   },
@@ -1683,7 +1683,7 @@
     "date": "2026-06-01",
     "word": "To serve",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-010"
   },
@@ -1691,7 +1691,7 @@
     "date": "2026-06-01",
     "word": "To share",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-010"
   },
@@ -1707,7 +1707,7 @@
     "date": "2026-06-01",
     "word": "Waiter",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-010"
   },
@@ -1731,7 +1731,7 @@
     "date": "2026-06-01",
     "word": "Bench",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-011"
   },
@@ -1739,7 +1739,7 @@
     "date": "2026-06-01",
     "word": "Bicycle",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1747,7 +1747,7 @@
     "date": "2026-06-01",
     "word": "Bridge",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-011"
   },
@@ -1755,7 +1755,7 @@
     "date": "2026-06-01",
     "word": "Building",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-011"
   },
@@ -1763,7 +1763,7 @@
     "date": "2026-06-01",
     "word": "Bus",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-011"
   },
@@ -1771,7 +1771,7 @@
     "date": "2026-06-01",
     "word": "Car",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-011"
   },
@@ -1787,7 +1787,7 @@
     "date": "2026-06-01",
     "word": "Corner",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1803,7 +1803,7 @@
     "date": "2026-06-01",
     "word": "Crosswalk",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-011"
   },
@@ -1811,7 +1811,7 @@
     "date": "2026-06-01",
     "word": "Dog",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-011"
   },
@@ -1827,7 +1827,7 @@
     "date": "2026-06-01",
     "word": "Fence",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1843,7 +1843,7 @@
     "date": "2026-06-01",
     "word": "Park",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-011"
   },
@@ -1851,7 +1851,7 @@
     "date": "2026-06-01",
     "word": "Pedestrian",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1867,7 +1867,7 @@
     "date": "2026-06-01",
     "word": "Road",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1883,7 +1883,7 @@
     "date": "2026-06-01",
     "word": "Sign (traffic)",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-011"
   },
@@ -1899,7 +1899,7 @@
     "date": "2026-06-01",
     "word": "Store",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1915,7 +1915,7 @@
     "date": "2026-06-01",
     "word": "To notice",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-011"
   },
@@ -1923,7 +1923,7 @@
     "date": "2026-06-01",
     "word": "To turn",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1931,7 +1931,7 @@
     "date": "2026-06-01",
     "word": "To wait",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-011"
   },
@@ -1947,7 +1947,7 @@
     "date": "2026-06-01",
     "word": "Traffic light",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -1955,7 +1955,7 @@
     "date": "2026-06-01",
     "word": "Tree",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-011"
   },
@@ -1963,7 +1963,7 @@
     "date": "2026-06-01",
     "word": "Truck",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-011"
   },
@@ -1971,7 +1971,7 @@
     "date": "2026-06-01",
     "word": "Turn",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-011"
   },
@@ -2179,7 +2179,7 @@
     "date": "2026-06-03",
     "word": "Bottle",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2187,7 +2187,7 @@
     "date": "2026-06-03",
     "word": "Changing room",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-013"
   },
@@ -2195,7 +2195,7 @@
     "date": "2026-06-03",
     "word": "Exercise",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-013"
   },
@@ -2203,7 +2203,7 @@
     "date": "2026-06-03",
     "word": "For both of us",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-013"
   },
@@ -2211,7 +2211,7 @@
     "date": "2026-06-03",
     "word": "Gym",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2219,7 +2219,7 @@
     "date": "2026-06-03",
     "word": "Heavy",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2227,7 +2227,7 @@
     "date": "2026-06-03",
     "word": "Ice rink",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2235,7 +2235,7 @@
     "date": "2026-06-03",
     "word": "Ice skates",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-013"
   },
@@ -2251,7 +2251,7 @@
     "date": "2026-06-03",
     "word": "Locker",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2259,7 +2259,7 @@
     "date": "2026-06-03",
     "word": "Membership",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-013"
   },
@@ -2267,7 +2267,7 @@
     "date": "2026-06-03",
     "word": "Muscle",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2283,7 +2283,7 @@
     "date": "2026-06-03",
     "word": "Price",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2299,7 +2299,7 @@
     "date": "2026-06-03",
     "word": "Stretch",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-013"
   },
@@ -2307,7 +2307,7 @@
     "date": "2026-06-03",
     "word": "Strong",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2315,7 +2315,7 @@
     "date": "2026-06-03",
     "word": "Tired",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2323,7 +2323,7 @@
     "date": "2026-06-03",
     "word": "To agree",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2347,7 +2347,7 @@
     "date": "2026-06-03",
     "word": "To lift",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-013"
   },
@@ -2363,7 +2363,7 @@
     "date": "2026-06-03",
     "word": "To renew",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-013"
   },
@@ -2371,7 +2371,7 @@
     "date": "2026-06-03",
     "word": "To rest",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-013"
   },
@@ -2379,7 +2379,7 @@
     "date": "2026-06-03",
     "word": "To run",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-013"
   },
@@ -2387,7 +2387,7 @@
     "date": "2026-06-03",
     "word": "To skate",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-013"
   },
@@ -2403,7 +2403,7 @@
     "date": "2026-06-03",
     "word": "To stop doing",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2411,7 +2411,7 @@
     "date": "2026-06-03",
     "word": "To train",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2427,7 +2427,7 @@
     "date": "2026-06-03",
     "word": "Towel",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2435,7 +2435,7 @@
     "date": "2026-06-03",
     "word": "Trainer",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2443,7 +2443,7 @@
     "date": "2026-06-03",
     "word": "Training session",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2451,7 +2451,7 @@
     "date": "2026-06-03",
     "word": "Treadmill",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2459,7 +2459,7 @@
     "date": "2026-06-03",
     "word": "Warm-up",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2467,7 +2467,7 @@
     "date": "2026-06-03",
     "word": "Weights",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-013"
   },
@@ -2899,7 +2899,7 @@
     "date": "2026-06-08",
     "word": "Actually / in fact",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -2907,7 +2907,7 @@
     "date": "2026-06-08",
     "word": "Anyway / in any case",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -2923,7 +2923,7 @@
     "date": "2026-06-08",
     "word": "At all",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -2931,7 +2931,7 @@
     "date": "2026-06-08",
     "word": "At least",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -2955,7 +2955,7 @@
     "date": "2026-06-08",
     "word": "Even",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -2963,7 +2963,7 @@
     "date": "2026-06-08",
     "word": "Exactly",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -3003,7 +3003,7 @@
     "date": "2026-06-08",
     "word": "In other words / I mean",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -3011,7 +3011,7 @@
     "date": "2026-06-08",
     "word": "Inflammation",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -3019,7 +3019,7 @@
     "date": "2026-06-08",
     "word": "Insurance",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -3027,7 +3027,7 @@
     "date": "2026-06-08",
     "word": "Just / for no reason",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-014"
   },
@@ -3035,7 +3035,7 @@
     "date": "2026-06-08",
     "word": "Just / only",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-014"
   },
@@ -3043,7 +3043,7 @@
     "date": "2026-06-08",
     "word": "Like this / this way",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -3059,7 +3059,7 @@
     "date": "2026-06-08",
     "word": "Neck",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -3067,7 +3067,7 @@
     "date": "2026-06-08",
     "word": "Nevertheless / anyway",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -3083,7 +3083,7 @@
     "date": "2026-06-08",
     "word": "Physiotherapist",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-014"
   },
@@ -3091,7 +3091,7 @@
     "date": "2026-06-08",
     "word": "Posture",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3099,7 +3099,7 @@
     "date": "2026-06-08",
     "word": "Properly / the right way",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3107,7 +3107,7 @@
     "date": "2026-06-08",
     "word": "Shoulder",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-014"
   },
@@ -3131,7 +3131,7 @@
     "date": "2026-06-08",
     "word": "To breathe",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-014"
   },
@@ -3139,7 +3139,7 @@
     "date": "2026-06-08",
     "word": "To cause",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -3179,7 +3179,7 @@
     "date": "2026-06-08",
     "word": "To improve",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3187,7 +3187,7 @@
     "date": "2026-06-08",
     "word": "To mention",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3195,7 +3195,7 @@
     "date": "2026-06-08",
     "word": "To press",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -3203,7 +3203,7 @@
     "date": "2026-06-08",
     "word": "To release / loosen",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3219,7 +3219,7 @@
     "date": "2026-06-08",
     "word": "Treatment",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3227,7 +3227,7 @@
     "date": "2026-06-08",
     "word": "Won't let go (expression)",
     "type": "Function",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3235,7 +3235,7 @@
     "date": "2026-06-08",
     "word": "Bothering / disturbing",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3251,7 +3251,7 @@
     "date": "2026-06-08",
     "word": "Tight / tense",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-014"
   },
@@ -3267,7 +3267,7 @@
     "date": "2026-06-08",
     "word": "Worse",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-014"
   },
@@ -3275,16 +3275,16 @@
     "date": "2026-06-10",
     "word": "To wait",
     "type": "Verb",
-    "old": "לְהַמְתִּין",
-    "new": "לַחֲכוֹת",
+    "old": "\u05dc\u05b0\u05d4\u05b7\u05de\u05b0\u05ea\u05b4\u05bc\u05d9\u05df",
+    "new": "\u05dc\u05b7\u05d7\u05b2\u05db\u05d5\u05b9\u05ea",
     "source": "Mark suggestion"
   },
   {
     "date": "2026-06-10",
     "word": "To improve",
     "type": "Verb",
-    "old": "לְהִשְׁתַּפֵּר",
-    "new": "לְשַׁפֵּר",
+    "old": "\u05dc\u05b0\u05d4\u05b4\u05e9\u05b0\u05c1\u05ea\u05b7\u05bc\u05e4\u05b5\u05bc\u05e8",
+    "new": "\u05dc\u05b0\u05e9\u05b7\u05c1\u05e4\u05b5\u05bc\u05e8",
     "source": "nadav suggestion"
   },
   {
@@ -3299,16 +3299,16 @@
     "date": "2026-06-10",
     "word": "Won't loosen (expression)",
     "type": "Function",
-    "old": "לֹא מַרְפֶּה",
-    "new": "זֶה לֹא מִשְׁתַּחְרֵר",
+    "old": "\u05dc\u05b9\u05d0 \u05de\u05b7\u05e8\u05b0\u05e4\u05b6\u05bc\u05d4",
+    "new": "\u05d6\u05b6\u05d4 \u05dc\u05b9\u05d0 \u05de\u05b4\u05e9\u05b0\u05c1\u05ea\u05b7\u05bc\u05d7\u05b0\u05e8\u05b5\u05e8",
     "source": "nadav suggestion"
   },
   {
     "date": "2026-06-10",
     "word": "Tight / tense",
     "type": "Adj",
-    "old": "מְתוּחַ",
-    "new": "תָּפוּס",
+    "old": "\u05de\u05b0\u05ea\u05d5\u05bc\u05d7\u05b7",
+    "new": "\u05ea\u05b8\u05bc\u05e4\u05d5\u05bc\u05e1",
     "source": "nadav suggestion"
   },
   {
@@ -3451,7 +3451,7 @@
     "date": "2026-06-10",
     "word": "In front",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "practice-0005"
   },
@@ -3459,7 +3459,7 @@
     "date": "2026-06-10",
     "word": "Old",
     "type": "Adj",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "practice-0005"
   },
@@ -3467,7 +3467,7 @@
     "date": "2026-06-10",
     "word": "Difference",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "practice-0005"
   },
@@ -3851,47 +3851,47 @@
     "date": "2026-06-12",
     "word": "Tape",
     "type": "Noun",
-    "old": "Hebrew: סֶרֶט",
-    "new": "Hebrew: נְיַר דֶּבֶק",
+    "old": "Hebrew: \u05e1\u05b6\u05e8\u05b6\u05d8",
+    "new": "Hebrew: \u05e0\u05b0\u05d9\u05b7\u05e8 \u05d3\u05b6\u05bc\u05d1\u05b6\u05e7",
     "source": "Mark suggestion"
   },
   {
     "date": "2026-06-12",
     "word": "To notice",
     "type": "Verb",
-    "old": "Hebrew: לְהַבְחִין",
-    "new": "Hebrew: לָשִׂים לֵב",
+    "old": "Hebrew: \u05dc\u05b0\u05d4\u05b7\u05d1\u05b0\u05d7\u05b4\u05d9\u05df",
+    "new": "Hebrew: \u05dc\u05b8\u05e9\u05b4\u05c2\u05d9\u05dd \u05dc\u05b5\u05d1",
     "source": "Mark suggestion"
   },
   {
     "date": "2026-06-12",
     "word": "To serve",
     "type": "Verb",
-    "old": "Hebrew: לְשָׁרֵת",
-    "new": "Hebrew: לְהַגִּישׁ",
+    "old": "Hebrew: \u05dc\u05b0\u05e9\u05b8\u05c1\u05e8\u05b5\u05ea",
+    "new": "Hebrew: \u05dc\u05b0\u05d4\u05b7\u05d2\u05b4\u05bc\u05d9\u05e9\u05c1",
     "source": "Mark suggestion"
   },
   {
     "date": "2026-06-12",
     "word": "Exchange",
     "type": "Noun",
-    "old": "Hebrew: הַמָּרָה",
-    "new": "Hebrew: הַחְלָפָה",
+    "old": "Hebrew: \u05d4\u05b7\u05de\u05b8\u05bc\u05e8\u05b8\u05d4",
+    "new": "Hebrew: \u05d4\u05b7\u05d7\u05b0\u05dc\u05b8\u05e4\u05b8\u05d4",
     "source": "Mark suggestion"
   },
   {
     "date": "2026-06-12",
     "word": "Cold",
     "type": "Noun",
-    "old": "Hebrew: נֶזֶלֶת",
-    "new": "Hebrew: הִצְטַנְּנוּת",
+    "old": "Hebrew: \u05e0\u05b6\u05d6\u05b6\u05dc\u05b6\u05ea",
+    "new": "Hebrew: \u05d4\u05b4\u05e6\u05b0\u05d8\u05b7\u05e0\u05b0\u05bc\u05e0\u05d5\u05bc\u05ea",
     "source": "Mark suggestion"
   },
   {
     "date": "2026-06-12",
     "word": "Runny nose",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-011 (split from Cold)"
   },
@@ -4283,7 +4283,7 @@
     "date": "2026-06-15",
     "word": "Alone",
     "type": "Adjective",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-016"
   },
@@ -4291,7 +4291,7 @@
     "date": "2026-06-15",
     "word": "Backpack",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4299,7 +4299,7 @@
     "date": "2026-06-15",
     "word": "Belt",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4307,7 +4307,7 @@
     "date": "2026-06-15",
     "word": "Boarding pass",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4315,7 +4315,7 @@
     "date": "2026-06-15",
     "word": "Conveyor belt",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-016"
   },
@@ -4323,7 +4323,7 @@
     "date": "2026-06-15",
     "word": "Flight",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-016"
   },
@@ -4331,7 +4331,7 @@
     "date": "2026-06-15",
     "word": "Gate",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4339,7 +4339,7 @@
     "date": "2026-06-15",
     "word": "Legroom",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-016"
   },
@@ -4347,7 +4347,7 @@
     "date": "2026-06-15",
     "word": "Liquid",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4355,7 +4355,7 @@
     "date": "2026-06-15",
     "word": "Pocket",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-016"
   },
@@ -4363,7 +4363,7 @@
     "date": "2026-06-15",
     "word": "Seat",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4371,7 +4371,7 @@
     "date": "2026-06-15",
     "word": "Sister",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-016"
   },
@@ -4379,7 +4379,7 @@
     "date": "2026-06-15",
     "word": "Suitcase",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4387,7 +4387,7 @@
     "date": "2026-06-15",
     "word": "Terminal",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-016"
   },
@@ -4395,7 +4395,7 @@
     "date": "2026-06-15",
     "word": "To pack",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4411,7 +4411,7 @@
     "date": "2026-06-15",
     "word": "To weigh",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4419,7 +4419,7 @@
     "date": "2026-06-15",
     "word": "Tray",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-016"
   },
@@ -4427,7 +4427,7 @@
     "date": "2026-06-15",
     "word": "Wedding",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-016"
   },
@@ -4459,8 +4459,8 @@
     "date": "2026-06-24",
     "word": "To collect / earn points",
     "type": "Verb",
-    "old": "לִצְבֹּר",
-    "new": "לאסוף",
+    "old": "\u05dc\u05b4\u05e6\u05b0\u05d1\u05b9\u05bc\u05e8",
+    "new": "\u05dc\u05d0\u05e1\u05d5\u05e3",
     "source": "mark suggestion"
   },
   {
@@ -4555,7 +4555,7 @@
     "date": "2026-06-24",
     "word": "Aisle / passage",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4563,7 +4563,7 @@
     "date": "2026-06-24",
     "word": "Plastic Bag",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-017-supermarket"
   },
@@ -4571,7 +4571,7 @@
     "date": "2026-06-24",
     "word": "Cart / trolley",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4579,7 +4579,7 @@
     "date": "2026-06-24",
     "word": "Cashier",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-017-supermarket"
   },
@@ -4587,7 +4587,7 @@
     "date": "2026-06-24",
     "word": "Charity",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-017-supermarket"
   },
@@ -4595,7 +4595,7 @@
     "date": "2026-06-24",
     "word": "Checkout counter",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4603,7 +4603,7 @@
     "date": "2026-06-24",
     "word": "Club card",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-017-supermarket"
   },
@@ -4611,7 +4611,7 @@
     "date": "2026-06-24",
     "word": "Dairy products",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4619,7 +4619,7 @@
     "date": "2026-06-24",
     "word": "Donation",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-017-supermarket"
   },
@@ -4627,7 +4627,7 @@
     "date": "2026-06-24",
     "word": "Expiry date",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4635,7 +4635,7 @@
     "date": "2026-06-24",
     "word": "Fresh",
     "type": "Adjective",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-017-supermarket"
   },
@@ -4643,7 +4643,7 @@
     "date": "2026-06-24",
     "word": "Loyalty points",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4651,7 +4651,7 @@
     "date": "2026-06-24",
     "word": "on Sale / special offer",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-017-supermarket"
   },
@@ -4659,7 +4659,7 @@
     "date": "2026-06-24",
     "word": "Plain / natural",
     "type": "Adjective",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4667,7 +4667,7 @@
     "date": "2026-06-24",
     "word": "Section / department",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-017-supermarket"
   },
@@ -4675,7 +4675,7 @@
     "date": "2026-06-24",
     "word": "To collect / earn points",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-017-supermarket"
   },
@@ -4683,7 +4683,7 @@
     "date": "2026-06-24",
     "word": "To continue / go ahead",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "4",
     "source": "lesson-017-supermarket"
   },
@@ -4691,7 +4691,7 @@
     "date": "2026-06-24",
     "word": "To donate",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "2",
     "source": "lesson-017-supermarket"
   },
@@ -4699,7 +4699,7 @@
     "date": "2026-06-24",
     "word": "To find",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-017-supermarket"
   },
@@ -4707,7 +4707,7 @@
     "date": "2026-06-24",
     "word": "To scan",
     "type": "Verb",
-    "old": "—",
+    "old": "\u2014",
     "new": "3",
     "source": "lesson-017-supermarket"
   },
@@ -4715,7 +4715,7 @@
     "date": "2026-06-24",
     "word": "Yoghurt",
     "type": "Noun",
-    "old": "—",
+    "old": "\u2014",
     "new": "5",
     "source": "lesson-017-supermarket"
   },
@@ -4774,6 +4774,110 @@
     "old": "2",
     "new": "3",
     "source": "lesson-016"
+  },
+  {
+    "date": "2026-06-14",
+    "word": "Pain",
+    "type": "Noun",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-016"
+  },
+  {
+    "date": "2026-06-28",
+    "word": "Runny nose",
+    "type": "Noun",
+    "old": "2",
+    "new": "3",
+    "source": "multiple choice"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "Spin",
+    "type": "Noun",
+    "old": "\u05e1\u05b4\u05d9\u05d1\u05d5\u05bc\u05d1",
+    "new": "\u05e1\u05b0\u05e4\u05b4\u05bc\u05d9\u05df",
+    "source": "Mark suggestion"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "Group / friends",
+    "type": "Noun",
+    "old": "\u05d7\u05b6\u05d1\u05b0\u05e8\u05b8\u05d4",
+    "new": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05d7\u05d1\u05e8\u05d9\u05dd",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "Card machine / payment terminal",
+    "type": "Noun",
+    "old": "\u05de\u05b0\u05e1\u05d5\u05b9\u05e4\u05d5\u05b9\u05df",
+    "new": "\u05de\u05db\u05e9\u05d9\u05e8 \u05e1\u05dc\u05d9\u05e7\u05d4",
+    "source": "nadav suggestion"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "ATM",
+    "type": "Noun",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "Cashier",
+    "type": "Noun",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "Stretch",
+    "type": "Noun",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "To agree",
+    "type": "Verb",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "To remove / take off",
+    "type": "Verb",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "To stop",
+    "type": "Verb",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "To wait",
+    "type": "Verb",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-018"
+  },
+  {
+    "date": "2026-06-29",
+    "word": "Traffic",
+    "type": "Noun",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-018"
   },
   {
     "date": "2026-06-14",

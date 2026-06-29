@@ -102,7 +102,7 @@
       "english": "Runny nose",
       "hebrew": "נֶזֶלֶת",
       "subject": "Health & Body",
-      "score": 2,
+      "score": 3,
       "last": "lesson-011"
     },
     {
@@ -266,7 +266,7 @@
       "english": "ATM",
       "hebrew": "כַּסְפּוֹמַט",
       "subject": "Bank & Finance",
-      "score": 4,
+      "score": 5,
       "last": "practice-0008"
     },
     {
@@ -386,7 +386,7 @@
       "english": "Traffic",
       "hebrew": "פְּקַק",
       "subject": "Transport",
-      "score": 4,
+      "score": 5,
       "last": "practice-0008"
     },
     {
@@ -473,7 +473,7 @@
       "subject": "Home & Tools",
       "score": 3,
       "last": "lesson-009",
-      "contextual": "מַפְתֵּחַ בְּרָגִים (wrench — lit. screws key)"
+      "contextual": "מַפְתֵּחַ בְּרָגִים (wrench — lit. \"screws key\")"
     },
     {
       "english": "Saw",
@@ -846,7 +846,7 @@
       "english": "Stretch",
       "hebrew": "מְתִיחָה",
       "subject": "Gym & Sport",
-      "score": 2,
+      "score": 3,
       "last": "lesson-013",
       "contextual": "מְתִיחוֹת (stretches — same word as Strain in Health & Body)"
     },
@@ -1058,7 +1058,7 @@
       "hebrew": "קוּפַּאי / קוּפַּאִית",
       "subject": "Shopping",
       "last": "lesson-017",
-      "score": 3
+      "score": 4
     },
     {
       "english": "Club card",
@@ -1121,56 +1121,57 @@
     {
       "english": "Ice",
       "hebrew": "קֶרַח",
-      "score": null,
+      "score": 5,
       "subject": "Gym & Sport",
       "last": "lesson-018"
     },
     {
       "english": "Laces / shoelaces",
       "hebrew": "שְׁרוֹכִים",
-      "score": null,
+      "score": 2,
       "subject": "Gym & Sport",
       "last": "lesson-018"
     },
     {
       "english": "Wrist guard",
       "hebrew": "מַגֵּן פֶּרֶק יָד",
-      "score": null,
+      "score": 3,
       "subject": "Gym & Sport",
       "last": "lesson-018"
     },
     {
       "english": "Knee pad",
       "hebrew": "מַגֵּן בֶּרֶךְ",
-      "score": null,
+      "score": 5,
       "subject": "Gym & Sport",
       "last": "lesson-018"
     },
     {
       "english": "Spin",
-      "hebrew": "סִיבוּב",
-      "score": null,
+      "hebrew": "סְפִּין",
+      "score": 5,
       "subject": "Gym & Sport",
       "last": "lesson-018"
     },
     {
       "english": "Army / military service",
       "hebrew": "צָבָא",
-      "score": null,
+      "score": 4,
       "subject": "General",
       "last": "lesson-018"
     },
     {
       "english": "Boyfriend",
       "hebrew": "חָבֵר",
-      "score": null,
+      "score": 5,
       "subject": "General",
-      "last": "lesson-018"
+      "last": "lesson-018",
+      "contextual": "same word as Friend; context makes it clear"
     },
     {
       "english": "Group / friends",
-      "hebrew": "חֶבְרָה",
-      "score": null,
+      "hebrew": "קבוצת חברים",
+      "score": 3,
       "subject": "General",
       "last": "lesson-018"
     },
@@ -1178,13 +1179,96 @@
       "english": "Heel",
       "hebrew": "עָקֵב",
       "subject": "Health & Body",
-      "last": "lesson-018"
+      "last": "lesson-018",
+      "score": 3
     },
     {
       "english": "Card machine / payment terminal",
-      "hebrew": "מְסוֹפוֹן",
+      "hebrew": "מכשיר סליקה",
       "subject": "Bank & Finance",
-      "last": "lesson-018"
+      "last": "lesson-018",
+      "score": 3
+    },
+    {
+      "english": "Barber",
+      "hebrew": "סַפָּר",
+      "contextual": "סַפָּרִית (f.)",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Hair",
+      "hebrew": "שֵׂעָר",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Haircut",
+      "hebrew": "תִסְפֹּרֶת",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Beard",
+      "hebrew": "זָקָן",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Glasses",
+      "hebrew": "מִשְׁקָפַיִם",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Mirror",
+      "hebrew": "מַרְאָה",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Cape",
+      "hebrew": "סִינָר",
+      "contextual": "the gown put on before a haircut",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Comb",
+      "hebrew": "מַסְרֵק",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Scissors",
+      "hebrew": "מִסְפָּרַיִם",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Trimmer",
+      "hebrew": "גּוֹזֵז",
+      "contextual": "electric hair/beard trimmer",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Shampoo",
+      "hebrew": "שַׁמְפּוּ",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Hair dryer",
+      "hebrew": "מְיַבֵּשׁ שֵׂעָר",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Side",
+      "hebrew": "צַד",
+      "contextual": "הַצְּדָדִים (the sides — as in haircut)",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Millimeter",
+      "hebrew": "מִילִימֶטֶר",
+      "contextual": "used for clipper length (e.g. שֵׁשׁ מִילִימֶטֶר)",
+      "subject": "Personal Care"
+    },
+    {
+      "english": "Products",
+      "hebrew": "מוצרים",
+      "contextual": "מוצרי שיער (hair products)",
+      "subject": "Personal Care"
     }
   ],
   "verbs": [
@@ -1269,7 +1353,7 @@
       "english": "To stop",
       "hebrew": "לַעֲצֹר",
       "subject": "General",
-      "score": 3,
+      "score": 5,
       "last": "lesson-013"
     },
     {
@@ -1360,7 +1444,7 @@
       "english": "To wait",
       "hebrew": "לַחֲכוֹת",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-016"
     },
     {
@@ -1409,7 +1493,7 @@
       "english": "To agree",
       "hebrew": "לְהַסְכִּים",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "practice-0001"
     },
     {
@@ -1501,7 +1585,7 @@
       "english": "To remove / take off",
       "hebrew": "לְהוֹרִיד",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-016"
     },
     {
@@ -1569,23 +1653,48 @@
     {
       "english": "To fall",
       "hebrew": "לִיפּוֹל",
-      "score": null,
+      "score": 5,
       "subject": "General",
       "last": "lesson-018"
     },
     {
       "english": "To catch up",
       "hebrew": "לְהִתְעַדְכֵּן",
-      "score": null,
+      "score": 2,
       "subject": "General",
       "last": "lesson-018"
     },
     {
       "english": "To suggest",
       "hebrew": "לְהַצִּיעַ",
-      "score": null,
+      "score": 3,
       "subject": "General",
       "last": "lesson-018"
+    },
+    {
+      "english": "To wash",
+      "hebrew": "לִרְחֹץ",
+      "subject": "General"
+    },
+    {
+      "english": "To shave / trim",
+      "hebrew": "לְגַלֵּחַ",
+      "subject": "General"
+    },
+    {
+      "english": "To dry",
+      "hebrew": "לְיַבֵּשׁ",
+      "subject": "General"
+    },
+    {
+      "english": "To shorten",
+      "hebrew": "לְקַצֵּר",
+      "subject": "General"
+    },
+    {
+      "english": "To spray",
+      "hebrew": "לְרַסֵּס",
+      "subject": "General"
     }
   ],
   "adjectives": [
@@ -1693,14 +1802,30 @@
       "hebrew": "טָבְעִי",
       "subject": "General",
       "score": 4,
-      "last": "lesson-017"
+      "last": "lesson-017",
+      "contextual": "used for yoghurt: יוֹגוּרט טָבְעִי = plain yoghurt"
     },
     {
       "english": "Slippery",
       "hebrew": "חַלְקַלַּק",
-      "score": null,
+      "score": 3,
       "subject": "General",
       "last": "lesson-018"
+    },
+    {
+      "english": "Short",
+      "hebrew": "קָצָר",
+      "subject": "General"
+    },
+    {
+      "english": "Long",
+      "hebrew": "אָרֹךְ",
+      "subject": "General"
+    },
+    {
+      "english": "Wet",
+      "hebrew": "רָטֹב",
+      "subject": "General"
     }
   ],
   "functionWords": [
@@ -1802,6 +1927,11 @@
       "subject": "General",
       "score": 5,
       "last": "practice-0006"
+    },
+    {
+      "english": "Afterward / after that",
+      "hebrew": "אַחַר כָּךְ",
+      "subject": "General"
     }
   ]
 }
