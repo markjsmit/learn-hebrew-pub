@@ -6659,6 +6659,7 @@
     "id": "lesson-019-barber",
     "number": 19,
     "title": "At the Barber",
+    "subject": "Personal Care",
     "goal": [
       "Learn core vocabulary for a barber visit: the chair, tools, style instructions, and payment",
       "Practice describing what you want — length, sides vs. top, and what to skip",
@@ -6694,7 +6695,7 @@
         "Millimeter",
         "Scissors",
         "Comb",
-        "Cape",
+        "Cape / Apron",
         "Hair",
         "Side",
         "Products",
@@ -6703,8 +6704,8 @@
         "Hair dryer"
       ],
       "verbs": [
-        "To wash",
-        "To shave / trim",
+        "To wash hair",
+        "To shave",
         "To dry",
         "To shorten",
         "To spray"
@@ -6713,10 +6714,13 @@
         "Short",
         "Long",
         "Wet"
-      ]
+      ],
+      "functionWords": []
     },
-    "focusAreas": [],
-    "reviewed": false,
+    "focusAreas": [
+      "Polite request forms (can you / I'd like / do you have)"
+    ],
+    "reviewed": true,
     "conversations": [
       {
         "title": null,
@@ -6904,9 +6908,32 @@
         ]
       }
     ],
-    "comments": [],
-    "subject": "Personal Care",
-    "missedVocabulary": [],
+    "comments": [
+      {
+        "type": "general",
+        "author": "Mark",
+        "date": "2026-07-01",
+        "text": "צַוָּואר is refering to the whole/front of the neck. In the hairdresser it would probably be better to use עורף because it is specifically refering to the lower back of the neck.",
+        "replies": []
+      },
+      {
+        "type": "general",
+        "author": "Mark",
+        "date": "2026-07-01",
+        "text": "Trimmer would in real life conversation never really happen because they would ask \"scisors or machine\" or already stand with the machine in their hand and ask how many milimeters.",
+        "replies": []
+      },
+      {
+        "type": "general",
+        "author": "Mark",
+        "date": "2026-07-01",
+        "text": "CHanging both english and hebrew doesn't work in the ui",
+        "replies": []
+      }
+    ],
+    "missedVocabulary": [
+      "To worry — לְהִדָּאֵג"
+    ],
     "notes": ""
   }
 ]

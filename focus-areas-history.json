@@ -43,7 +43,7 @@
   },
   {
     "date": "2026-06-03",
-    "area": "Invisible grammatical particles (\u05e9, \u05d0\u05ea, \u05dc, \u05db\u05d9, \u05db\u05e9, \u05d4-agreement)",
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
     "old": null,
     "new": 3,
     "source": "lesson-013"
@@ -106,7 +106,7 @@
   },
   {
     "date": "2026-06-07",
-    "area": "Invisible grammatical particles (\u05e9, \u05d0\u05ea, \u05dc, \u05db\u05d9, \u05db\u05e9, \u05d4-agreement)",
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
     "old": 3,
     "new": 3,
     "source": "practice-001/002/003"
@@ -141,7 +141,7 @@
   },
   {
     "date": "2026-06-08",
-    "area": "Cause-effect chains (because / so / that's why \u2014 2 steps)",
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
     "old": null,
     "new": 4,
     "source": "lesson-014"
@@ -169,7 +169,7 @@
   },
   {
     "date": "2026-06-08",
-    "area": "Invisible grammatical particles (\u05e9, \u05d0\u05ea, \u05dc, \u05db\u05d9, \u05db\u05e9, \u05d4-agreement)",
+    "area": "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)",
     "old": 3,
     "new": 3,
     "source": "lesson-014"
@@ -204,7 +204,7 @@
   },
   {
     "date": "2026-06-10",
-    "area": "Cause-effect chains (because / so / that's why \u2014 2 steps)",
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
     "old": 4,
     "new": 4,
     "source": "practice-0005"
@@ -218,7 +218,7 @@
   },
   {
     "date": "2026-06-10",
-    "area": "Cause-effect chains (because / so / that's why \u2014 2 steps)",
+    "area": "Cause-effect chains (because / so / that's why — 2 steps)",
     "old": 4,
     "new": 5,
     "source": "lesson-015"
@@ -285,6 +285,27 @@
     "old": 4,
     "new": 4,
     "source": "practice-0006"
+  },
+  {
+    "date": "2026-06-14",
+    "area": "Past tense",
+    "old": 4,
+    "new": 5,
+    "source": "lesson-016"
+  },
+  {
+    "date": "2026-06-14",
+    "area": "Past tense",
+    "old": 4,
+    "new": 5,
+    "source": "lesson-016"
+  },
+  {
+    "date": "2026-06-14",
+    "area": "Past tense",
+    "old": 4,
+    "new": 5,
+    "source": "lesson-016"
   },
   {
     "date": "2026-06-14",

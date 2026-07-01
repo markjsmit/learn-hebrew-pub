@@ -167,7 +167,7 @@
       "english": "Neck",
       "hebrew": "צַוָּואר",
       "subject": "Health & Body",
-      "score": 5,
+      "score": 4,
       "last": "practice-0004"
     },
     {
@@ -783,7 +783,7 @@
       "english": "Towel",
       "hebrew": "מַגֶּבֶת",
       "subject": "Gym & Sport",
-      "score": 3,
+      "score": 5,
       "last": "lesson-013"
     },
     {
@@ -945,7 +945,7 @@
       "english": "Wedding",
       "hebrew": "חֲתוּנָה",
       "subject": "Travel & Airport",
-      "score": 4,
+      "score": 5,
       "last": "lesson-016"
     },
     {
@@ -1037,7 +1037,7 @@
       "hebrew": "קוּפָּה",
       "subject": "Shopping",
       "last": "lesson-017",
-      "score": 4
+      "score": 5
     },
     {
       "english": "Plastic Bag",
@@ -1193,82 +1193,97 @@
       "english": "Barber",
       "hebrew": "סַפָּר",
       "contextual": "סַפָּרִית (f.)",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 4
     },
     {
       "english": "Hair",
       "hebrew": "שֵׂעָר",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Haircut",
       "hebrew": "תִסְפֹּרֶת",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 3
     },
     {
       "english": "Beard",
       "hebrew": "זָקָן",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Glasses",
       "hebrew": "מִשְׁקָפַיִם",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Mirror",
       "hebrew": "מַרְאָה",
-      "subject": "Personal Care"
-    },
-    {
-      "english": "Cape",
-      "hebrew": "סִינָר",
-      "contextual": "the gown put on before a haircut",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Comb",
       "hebrew": "מַסְרֵק",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 4
     },
     {
       "english": "Scissors",
       "hebrew": "מִסְפָּרַיִם",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Trimmer",
       "hebrew": "גּוֹזֵז",
       "contextual": "electric hair/beard trimmer",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 2
     },
     {
       "english": "Shampoo",
       "hebrew": "שַׁמְפּוּ",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Hair dryer",
       "hebrew": "מְיַבֵּשׁ שֵׂעָר",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 4
     },
     {
       "english": "Side",
       "hebrew": "צַד",
       "contextual": "הַצְּדָדִים (the sides — as in haircut)",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Millimeter",
       "hebrew": "מִילִימֶטֶר",
       "contextual": "used for clipper length (e.g. שֵׁשׁ מִילִימֶטֶר)",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 5
     },
     {
       "english": "Products",
       "hebrew": "מוצרים",
       "contextual": "מוצרי שיער (hair products)",
-      "subject": "Personal Care"
+      "subject": "Personal Care",
+      "score": 3
+    },
+    {
+      "english": "Cape / Apron",
+      "hebrew": "סִינָר",
+      "contextual": "the gown put on before a haircut",
+      "subject": "Personal Care",
+      "score": 2
     }
   ],
   "verbs": [
@@ -1402,7 +1417,7 @@
       "english": "To cut",
       "hebrew": "לַחְתֹּךְ",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-009"
     },
     {
@@ -1506,42 +1521,42 @@
     {
       "english": "To cough",
       "hebrew": "להשתעל",
-      "subject": "General",
+      "subject": "Health & Body",
       "score": 3,
       "last": "lesson-011"
     },
     {
       "english": "To swallow",
       "hebrew": "לִבְלֹעַ",
-      "subject": "General",
+      "subject": "Health & Body",
       "score": 2,
       "last": "lesson-003"
     },
     {
       "english": "To deposit",
       "hebrew": "לְהַפְקִיד",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 4,
       "last": "lesson-010"
     },
     {
       "english": "To withdraw",
       "hebrew": "לִמְשֹׁךְ",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 4,
       "last": "practice-0008"
     },
     {
       "english": "To transfer",
       "hebrew": "לְהַעֲבִיר",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 4,
       "last": "practice-0002"
     },
     {
       "english": "To exchange",
       "hebrew": "לְהַחְלִיף",
-      "subject": "General",
+      "subject": "Bank & Finance",
       "score": 5,
       "last": "lesson-017",
       "contextual": "לְהַחְלִיף מַטְבֵּעַ (to exchange currency)"
@@ -1549,21 +1564,21 @@
     {
       "english": "To drive",
       "hebrew": "לִנְהֹג",
-      "subject": "General",
+      "subject": "Transport",
       "score": 5,
       "last": "practice-0008"
     },
     {
       "english": "To train",
       "hebrew": "לְהִתְאַמֵּן",
-      "subject": "General",
-      "score": 5,
+      "subject": "Gym & Sport",
+      "score": 4,
       "last": "practice-0007"
     },
     {
       "english": "To skate",
       "hebrew": "לְהַחְלִיק",
-      "subject": "General",
+      "subject": "Gym & Sport",
       "score": 5,
       "last": "practice-0007"
     },
@@ -1577,76 +1592,76 @@
     {
       "english": "To pack",
       "hebrew": "לֶאֱרוֹז",
-      "subject": "General",
+      "subject": "Travel & Airport",
       "score": 4,
       "last": "lesson-016"
     },
     {
       "english": "To remove / take off",
       "hebrew": "לְהוֹרִיד",
-      "subject": "General",
-      "score": 4,
+      "subject": "Travel & Airport",
+      "score": 3,
       "last": "lesson-016"
     },
     {
       "english": "To board / get on the plane",
       "hebrew": "לַעֲלוֹת לַמָּטוֹס",
-      "subject": "General",
+      "subject": "Travel & Airport",
       "score": 4,
       "last": "lesson-016"
     },
     {
       "english": "To weigh",
       "hebrew": "לִשְׁקוֹל",
-      "subject": "General",
+      "subject": "Travel & Airport",
       "score": 4,
       "last": "lesson-016"
     },
     {
       "english": "To go through / pass through",
       "hebrew": "לַעֲבוֹר",
-      "subject": "General",
+      "subject": "Travel & Airport",
       "score": 5,
       "last": "lesson-016"
     },
     {
       "english": "To leave behind / leave them",
       "hebrew": "לְהַשְׁאִיר",
-      "subject": "General",
+      "subject": "Travel & Airport",
       "last": "lesson-016"
     },
     {
       "english": "To find",
       "hebrew": "לִמְצֹא",
-      "subject": "General",
+      "subject": "Shopping",
       "last": "lesson-017",
       "score": 5
     },
     {
       "english": "To donate",
       "hebrew": "לִתְרֹם",
-      "subject": "General",
+      "subject": "Shopping",
       "last": "lesson-017",
       "score": 2
     },
     {
       "english": "To collect / earn points",
       "hebrew": "לאסוף",
-      "subject": "General",
+      "subject": "Shopping",
       "last": "lesson-017",
       "score": 3
     },
     {
       "english": "To continue / go ahead",
       "hebrew": "לְהַמְשִׁיךְ",
-      "subject": "General",
+      "subject": "Shopping",
       "last": "lesson-017",
       "score": 4
     },
     {
       "english": "To scan",
       "hebrew": "לִסְרֹק",
-      "subject": "General",
+      "subject": "Shopping",
       "last": "lesson-017",
       "score": 3
     },
@@ -1667,34 +1682,44 @@
     {
       "english": "To suggest",
       "hebrew": "לְהַצִּיעַ",
-      "score": 3,
+      "score": 4,
       "subject": "General",
       "last": "lesson-018"
     },
     {
-      "english": "To wash",
-      "hebrew": "לִרְחֹץ",
-      "subject": "General"
-    },
-    {
-      "english": "To shave / trim",
-      "hebrew": "לְגַלֵּחַ",
-      "subject": "General"
-    },
-    {
       "english": "To dry",
       "hebrew": "לְיַבֵּשׁ",
-      "subject": "General"
+      "subject": "Personal Care",
+      "score": 4
     },
     {
       "english": "To shorten",
       "hebrew": "לְקַצֵּר",
-      "subject": "General"
+      "subject": "Personal Care",
+      "score": 4
     },
     {
       "english": "To spray",
       "hebrew": "לְרַסֵּס",
-      "subject": "General"
+      "subject": "Personal Care",
+      "score": 2
+    },
+    {
+      "english": "To shave",
+      "hebrew": "לְגַלֵּחַ",
+      "subject": "Personal Care",
+      "score": 3
+    },
+    {
+      "english": "To worry",
+      "hebrew": "לְהִדָּאֵג",
+      "subject": "Health & Body"
+    },
+    {
+      "english": "To wash hair",
+      "hebrew": "לִחפוף",
+      "subject": "Personal Care",
+      "score": 2
     }
   ],
   "adjectives": [
@@ -1765,7 +1790,7 @@
       "english": "Bothering / disturbing",
       "hebrew": "מַפְרִיעַ",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-015"
     },
     {
@@ -1815,17 +1840,20 @@
     {
       "english": "Short",
       "hebrew": "קָצָר",
-      "subject": "General"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Long",
       "hebrew": "אָרֹךְ",
-      "subject": "General"
+      "subject": "General",
+      "score": 5
     },
     {
       "english": "Wet",
       "hebrew": "רָטֹב",
-      "subject": "General"
+      "subject": "General",
+      "score": 5
     }
   ],
   "functionWords": [
@@ -1890,7 +1918,7 @@
       "english": "Like this / this way",
       "hebrew": "כָּכָה",
       "subject": "General",
-      "score": 5,
+      "score": 4,
       "last": "lesson-015"
     },
     {
