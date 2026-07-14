@@ -6935,5 +6935,316 @@
       "To worry — לְהִדָּאֵג"
     ],
     "notes": ""
+  },
+  {
+    "id": "lesson-020-review-eido-walk",
+    "number": 20,
+    "title": "Review: A Walk with Eido",
+    "subject": "Review",
+    "setting": "A Wednesday afternoon at the Wix campus. Eido, Mark's teamlead, suggests turning their regular one-on-one into a walk through the park next to the office instead of sitting in a meeting room. As they walk, Eido catches up with Mark on everything going on outside of work.",
+    "goal": [
+      "Reinforce a wide range of previously learned vocabulary across many subjects (family, health, gym, home, personal care, street, bank) in one long, relaxed conversation",
+      "Rebuild conversational confidence and flow after a two-week break, with virtually no new material",
+      "Get comfortable with a few simple new office words (lobby, elevator, floor) in natural context"
+    ],
+    "wordsReused": [
+      "Sister",
+      "Wedding",
+      "To skate",
+      "Shoulder",
+      "Neck",
+      "Tight / tense",
+      "Gym",
+      "Strong",
+      "Tired",
+      "To lift",
+      "Exactly",
+      "Heavy",
+      "Muscle",
+      "To build",
+      "Shelf",
+      "Hammer",
+      "Screw",
+      "To fix",
+      "Haircut",
+      "Barber",
+      "Beard",
+      "To shorten",
+      "To recommend",
+      "Bench",
+      "Leg",
+      "To notice",
+      "Bridge",
+      "Dog",
+      "Card",
+      "Cash",
+      "To pay",
+      "To agree",
+      "At least",
+      "Fresh"
+    ],
+    "newWords": {
+      "nouns": [
+        "Lobby",
+        "Elevator",
+        "Floor (of a building)"
+      ],
+      "verbs": [],
+      "adjectives": [],
+      "functionWords": []
+    },
+    "focusAreas": [],
+    "reviewed": false,
+    "missedVocabulary": [],
+    "notes": "",
+    "comments": [],
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Let's skip the meeting room today. Meet me down in the lobby and we'll walk instead.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Sounds great, I could use the fresh air. I'll head down to the lobby now, are you still up on the third floor?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Yeah, just waiting for the elevator. Give me a minute.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "No rush, take the elevator down whenever, I'll be right outside.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "context": "They leave the building and start walking through the park next to the office.",
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "So, how have you been? Feels like it's been a while since we really talked.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Honestly, pretty quiet. I was in the Netherlands for two weeks, so I'm still getting back into the swing of things.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Oh right, your sister's wedding. How did that go?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "It was a beautiful wedding, and my sister looked so happy. Really glad I went.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "How's the skating going? Still going a lot?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Actually haven't been in a while. I was away for a couple weeks, so it's been pretty quiet.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Makes sense. And how's the shoulder these days?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "The shoulder's much better, actually. The neck still feels a bit tight sometimes, but nothing like before.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Good to hear. Are you still going to the gym?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yeah, still going to the gym a few times a week. Feeling stronger, but pretty tired afterward every time.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Lifting heavy again?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Exactly, some heavy days especially. My muscles definitely feel it the next day.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Weren't you building something at home too? A shelf or something?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, I finished building the shelf actually. Needed a hammer, some screws, and a lot of time.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Did it come out well?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Pretty good. I had to fix one part twice, but it's good now.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "By the way, did you get a haircut? It looks good.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yeah, got a haircut at the barber last week. Had the beard shortened too while I was there.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "There's a shady spot over there, better than standing in the sun.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good idea, I'd actually recommend we sit on that bench for a bit. My legs need a break anyway.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Did you notice that new bridge they built near the entrance?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Oh yeah, I noticed the bridge on the way in. Looks a lot better than the old one.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "There's always a dog or two running around here at lunchtime.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "True, there's a dog over there right now. Seems pretty happy about it.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Did you sort out that bank thing you mentioned last time?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yeah, all done. Paid with card in the end, didn't even need cash.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Good to hear things are settling down. We should do this again, it's way better than sitting in a meeting room.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Agreed, at least this way we get some fresh air too. Let's make it a regular thing.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

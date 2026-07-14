@@ -47,7 +47,7 @@
       "hebrew": "רֶגֶל",
       "subject": "Health & Body",
       "score": 5,
-      "last": "practice-0003"
+      "last": "lesson-020"
     },
     {
       "english": "Hand",
@@ -161,14 +161,14 @@
       "hebrew": "כָּתֵף",
       "subject": "Health & Body",
       "score": 5,
-      "last": "lesson-015"
+      "last": "lesson-020"
     },
     {
       "english": "Neck",
       "hebrew": "צַוָּואר",
       "subject": "Health & Body",
       "score": 4,
-      "last": "practice-0004"
+      "last": "lesson-020"
     },
     {
       "english": "Inflammation",
@@ -218,14 +218,14 @@
       "hebrew": "כַּרְטִיס",
       "subject": "Bank & Finance",
       "score": 5,
-      "last": "lesson-017"
+      "last": "lesson-020"
     },
     {
       "english": "Cash",
       "hebrew": "מְזוּמָן",
       "subject": "Bank & Finance",
       "score": 5,
-      "last": "practice-0008"
+      "last": "lesson-020"
     },
     {
       "english": "Balance",
@@ -402,14 +402,14 @@
       "hebrew": "פַּטִּישׁ",
       "subject": "Home & Tools",
       "score": 5,
-      "last": "practice-0004"
+      "last": "lesson-020"
     },
     {
       "english": "Screw",
       "hebrew": "בֹּרֶג",
       "subject": "Home & Tools",
       "score": 5,
-      "last": "practice-0004"
+      "last": "lesson-020"
     },
     {
       "english": "Nail",
@@ -509,7 +509,7 @@
       "hebrew": "מַדָּף",
       "subject": "Home & Tools",
       "score": 5,
-      "last": "practice-0004"
+      "last": "lesson-020"
     },
     {
       "english": "Box",
@@ -671,7 +671,7 @@
       "hebrew": "גֶּשֶׁר",
       "subject": "Street & City",
       "score": 5,
-      "last": "practice-0005"
+      "last": "lesson-020"
     },
     {
       "english": "Bus",
@@ -734,7 +734,7 @@
       "hebrew": "סַפְסָל",
       "subject": "Street & City",
       "score": 5,
-      "last": "practice-0007"
+      "last": "lesson-020"
     },
     {
       "english": "Tree",
@@ -749,7 +749,7 @@
       "hebrew": "כֶּלֶב",
       "subject": "Street & City",
       "score": 5,
-      "last": "practice-0001"
+      "last": "lesson-020"
     },
     {
       "english": "Turn",
@@ -819,7 +819,7 @@
       "hebrew": "שְׁרִיר",
       "subject": "Gym & Sport",
       "score": 5,
-      "last": "practice-0007"
+      "last": "lesson-020"
     },
     {
       "english": "Training session",
@@ -946,14 +946,14 @@
       "hebrew": "חֲתוּנָה",
       "subject": "Travel & Airport",
       "score": 5,
-      "last": "lesson-016"
+      "last": "lesson-020"
     },
     {
       "english": "Sister",
       "hebrew": "אָחוֹת",
       "subject": "Travel & Airport",
       "score": 5,
-      "last": "lesson-018",
+      "last": "lesson-020",
       "contextual": "same word as Nurse in Health & Body"
     },
     {
@@ -1194,7 +1194,8 @@
       "hebrew": "סַפָּר",
       "contextual": "סַפָּרִית (f.)",
       "subject": "Personal Care",
-      "score": 4
+      "score": 4,
+      "last": "lesson-020"
     },
     {
       "english": "Hair",
@@ -1206,13 +1207,15 @@
       "english": "Haircut",
       "hebrew": "תִסְפֹּרֶת",
       "subject": "Personal Care",
-      "score": 3
+      "score": 3,
+      "last": "lesson-020"
     },
     {
       "english": "Beard",
       "hebrew": "זָקָן",
       "subject": "Personal Care",
-      "score": 5
+      "score": 5,
+      "last": "lesson-020"
     },
     {
       "english": "Glasses",
@@ -1284,6 +1287,24 @@
       "contextual": "the gown put on before a haircut",
       "subject": "Personal Care",
       "score": 2
+    },
+    {
+      "english": "Lobby",
+      "hebrew": "לוֹבִּי",
+      "subject": "Workplace",
+      "last": "lesson-020"
+    },
+    {
+      "english": "Elevator",
+      "hebrew": "מַעֲלִית",
+      "subject": "Workplace",
+      "last": "lesson-020"
+    },
+    {
+      "english": "Floor (of a building)",
+      "hebrew": "קוֹמָה",
+      "subject": "Workplace",
+      "last": "lesson-020"
     }
   ],
   "verbs": [
@@ -1362,7 +1383,7 @@
       "hebrew": "לְשַׁלֵּם",
       "subject": "General",
       "score": 5,
-      "last": "lesson-017"
+      "last": "lesson-020"
     },
     {
       "english": "To stop",
@@ -1376,14 +1397,14 @@
       "hebrew": "לְתַקֵּן",
       "subject": "General",
       "score": 5,
-      "last": "practice-0004"
+      "last": "lesson-020"
     },
     {
       "english": "To build",
       "hebrew": "לִבְנוֹת",
       "subject": "General",
       "score": 4,
-      "last": "lesson-009"
+      "last": "lesson-020"
     },
     {
       "english": "To carry",
@@ -1439,7 +1460,7 @@
       "hebrew": "לְהַמְלִיץ",
       "subject": "General",
       "score": 4,
-      "last": "lesson-017"
+      "last": "lesson-020"
     },
     {
       "english": "To share",
@@ -1467,7 +1488,7 @@
       "hebrew": "לָשִׂים לֵב",
       "subject": "General",
       "score": 4,
-      "last": "lesson-015"
+      "last": "lesson-020"
     },
     {
       "english": "To run",
@@ -1481,7 +1502,7 @@
       "hebrew": "לְהָרִים",
       "subject": "General",
       "score": 4,
-      "last": "practice-0007"
+      "last": "lesson-020"
     },
     {
       "english": "To rest",
@@ -1509,7 +1530,7 @@
       "hebrew": "לְהַסְכִּים",
       "subject": "General",
       "score": 4,
-      "last": "practice-0001"
+      "last": "lesson-020"
     },
     {
       "english": "To mention",
@@ -1580,7 +1601,7 @@
       "hebrew": "לְהַחְלִיק",
       "subject": "Gym & Sport",
       "score": 5,
-      "last": "practice-0007"
+      "last": "lesson-020"
     },
     {
       "english": "To handle it / to cope",
@@ -1696,7 +1717,8 @@
       "english": "To shorten",
       "hebrew": "לְקַצֵּר",
       "subject": "Personal Care",
-      "score": 4
+      "score": 4,
+      "last": "lesson-020"
     },
     {
       "english": "To spray",
@@ -1742,21 +1764,21 @@
       "hebrew": "עָיֵף",
       "subject": "General",
       "score": 5,
-      "last": "practice-0007"
+      "last": "lesson-020"
     },
     {
       "english": "Heavy",
       "hebrew": "כָּבֵד",
       "subject": "General",
       "score": 5,
-      "last": "practice-0007"
+      "last": "lesson-020"
     },
     {
       "english": "Strong",
       "hebrew": "חָזָק",
       "subject": "General",
       "score": 5,
-      "last": "practice-0006"
+      "last": "lesson-020"
     },
     {
       "english": "Busy / crowded",
@@ -1784,7 +1806,7 @@
       "hebrew": "תָּפוּס",
       "subject": "General",
       "score": 3,
-      "last": "lesson-015"
+      "last": "lesson-020"
     },
     {
       "english": "Bothering / disturbing",
@@ -1819,7 +1841,7 @@
       "english": "Fresh",
       "hebrew": "טָרִי",
       "subject": "General",
-      "last": "lesson-017",
+      "last": "lesson-020",
       "score": 5
     },
     {
@@ -1862,7 +1884,7 @@
       "hebrew": "לְפָחוֹת",
       "subject": "General",
       "score": 4,
-      "last": "lesson-015"
+      "last": "lesson-020"
     },
     {
       "english": "Actually / in fact",
@@ -1912,7 +1934,7 @@
       "hebrew": "בְּדִיוּק",
       "subject": "General",
       "score": 5,
-      "last": "practice-0006"
+      "last": "lesson-020"
     },
     {
       "english": "Like this / this way",
