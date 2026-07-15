@@ -1194,7 +1194,7 @@
       "hebrew": "סַפָּר",
       "contextual": "סַפָּרִית (f.)",
       "subject": "Personal Care",
-      "score": 4,
+      "score": 5,
       "last": "lesson-020"
     },
     {
@@ -1207,7 +1207,7 @@
       "english": "Haircut",
       "hebrew": "תִסְפֹּרֶת",
       "subject": "Personal Care",
-      "score": 3,
+      "score": 5,
       "last": "lesson-020"
     },
     {
@@ -1292,18 +1292,28 @@
       "english": "Lobby",
       "hebrew": "לוֹבִּי",
       "subject": "Workplace",
-      "last": "lesson-020"
+      "last": "lesson-020",
+      "score": 5
     },
     {
       "english": "Elevator",
       "hebrew": "מַעֲלִית",
       "subject": "Workplace",
-      "last": "lesson-020"
+      "last": "lesson-020",
+      "score": 5
     },
     {
       "english": "Floor (of a building)",
       "hebrew": "קוֹמָה",
       "subject": "Workplace",
+      "last": "lesson-020",
+      "score": 5
+    },
+    {
+      "english": "Fresh air",
+      "hebrew": "אֲוִיר צַח",
+      "contextual": "fixed expression — not the adjective טָרִי (fresh, used for food)",
+      "subject": "General",
       "last": "lesson-020"
     }
   ],
@@ -1459,7 +1469,7 @@
       "english": "To recommend",
       "hebrew": "לְהַמְלִיץ",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-020"
     },
     {
@@ -1487,7 +1497,7 @@
       "english": "To notice",
       "hebrew": "לָשִׂים לֵב",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-020"
     },
     {
@@ -1501,7 +1511,7 @@
       "english": "To lift",
       "hebrew": "לְהָרִים",
       "subject": "General",
-      "score": 4,
+      "score": 5,
       "last": "lesson-020"
     },
     {
@@ -1529,7 +1539,7 @@
       "english": "To agree",
       "hebrew": "לְהַסְכִּים",
       "subject": "General",
-      "score": 4,
+      "score": 3,
       "last": "lesson-020"
     },
     {
@@ -1805,7 +1815,7 @@
       "english": "Tight / tense",
       "hebrew": "תָּפוּס",
       "subject": "General",
-      "score": 3,
+      "score": 4,
       "last": "lesson-020"
     },
     {
@@ -1876,6 +1886,19 @@
       "hebrew": "רָטֹב",
       "subject": "General",
       "score": 5
+    },
+    {
+      "english": "Pretty / fairly",
+      "hebrew": "דַּי",
+      "contextual": "degree modifier, e.g. \"pretty quiet\"",
+      "subject": "General",
+      "last": "lesson-020"
+    },
+    {
+      "english": "Happy",
+      "hebrew": "שָׂמֵחַ",
+      "subject": "General",
+      "last": "lesson-020"
     }
   ],
   "functionWords": [
@@ -1982,6 +2005,25 @@
       "english": "Afterward / after that",
       "hebrew": "אַחַר כָּךְ",
       "subject": "General"
+    },
+    {
+      "english": "Honestly / to be honest",
+      "hebrew": "הָאֱמֶת",
+      "contextual": "lit. \"the truth is\" — natural sentence-initial filler",
+      "subject": "General",
+      "last": "lesson-020"
+    },
+    {
+      "english": "The next day",
+      "hebrew": "לְמָחֳרָת",
+      "subject": "General",
+      "last": "lesson-020"
+    },
+    {
+      "english": "Especially",
+      "hebrew": "בִּמְיוּחָד",
+      "subject": "General",
+      "last": "lesson-020"
     }
   ]
 }

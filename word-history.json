@@ -5830,5 +5830,95 @@
     "new": "5",
     "source": "lesson-019",
     "field": "score"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "Barber",
+    "type": "nouns",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "Elevator",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "Floor (of a building)",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "Haircut",
+    "type": "nouns",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "Lobby",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "Tight / tense",
+    "type": "adjectives",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "To agree",
+    "type": "verbs",
+    "old": "4",
+    "new": "3",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "To lift",
+    "type": "verbs",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "To notice",
+    "type": "verbs",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-020"
+  },
+  {
+    "field": "score",
+    "date": "2026-07-15",
+    "word": "To recommend",
+    "type": "verbs",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-020"
   }
 ]

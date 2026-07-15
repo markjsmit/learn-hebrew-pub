@@ -6994,10 +6994,48 @@
       "functionWords": []
     },
     "focusAreas": [],
-    "reviewed": false,
-    "missedVocabulary": [],
+    "reviewed": true,
+    "missedVocabulary": [
+      "Fresh air — אֲוִיר צַח",
+      "Pretty / fairly — דַּי",
+      "Honestly / to be honest — הָאֱמֶת",
+      "Happy — שָׂמֵחַ",
+      "The next day — לְמָחֳרָת",
+      "Especially — בִּמְיוּחָד"
+    ],
     "notes": "",
-    "comments": [],
+    "comments": [
+      {
+        "type": "block",
+        "blockId": 1,
+        "author": "Mark",
+        "date": "2026-07-15",
+        "text": "This sentence was way complicated, could be something like \" fresh air is great\" or \"i love fresh air\" and \"are you still on the third floor\"",
+        "replies": []
+      },
+      {
+        "type": "block",
+        "blockId": 3,
+        "author": "Mark",
+        "date": "2026-07-15",
+        "text": "WTf im stil into the swing of things? thats not a good sentence.\n\ni'd expect something like \"get back to usual\"",
+        "replies": []
+      },
+      {
+        "type": "block",
+        "blockId": 8,
+        "author": "nadav",
+        "date": "2026-07-15",
+        "text": "me-rim (for dead lift). do-chek (pressing) מרים דוחק",
+        "replies": [
+          {
+            "author": "Mark",
+            "date": "2026-07-15",
+            "text": "Are you still working with heavy weights is maybe better"
+          }
+        ]
+      }
+    ],
     "conversations": [
       {
         "title": null,
