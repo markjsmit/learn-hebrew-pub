@@ -7284,5 +7284,315 @@
         ]
       }
     ]
+  },
+  {
+    "id": "lesson-021-devops-walk-daniel",
+    "number": 21,
+    "title": "Explaining DevOps to Daniel",
+    "subject": "Workplace / Career",
+    "setting": "A quiet Saturday morning walk along the Tel Aviv promenade (tayelet) with Heli and her younger brother Daniel, something the three of them do together roughly once every six weeks. Daniel is trying to decide on a career direction and has been considering DevOps as one option. Heli nudges him to ask Mark about it, since Mark's team at Wix builds tooling for the infrastructure and DevOps teams, even though he isn't a DevOps engineer himself.",
+    "goal": [
+      "Learn vocabulary for explaining a technical or professional topic and discussing a career decision in Hebrew",
+      "Practice describing a process step by step (building, testing, deploying, monitoring) in natural conversational Hebrew",
+      "Reinforce ש/כי/כש clause structures (relative and causal clauses) while explaining and reasoning aloud"
+    ],
+    "wordsReused": [
+      "Bicycle",
+      "Difference",
+      "To mention",
+      "Actually / in fact",
+      "Exactly",
+      "Anyway / in any case",
+      "Tool",
+      "To build",
+      "To check",
+      "To take",
+      "To find",
+      "To continue",
+      "To run",
+      "Alone",
+      "Side",
+      "Just / only"
+    ],
+    "newWords": {
+      "nouns": [
+        "Team",
+        "Code",
+        "Job",
+        "Computer",
+        "Career",
+        "Direction",
+        "Process",
+        "Automation",
+        "Deployment",
+        "Monitoring",
+        "Testing",
+        "Infrastructure",
+        "Cloud",
+        "Bug",
+        "System",
+        "Version",
+        "User",
+        "Server",
+        "Network",
+        "Container",
+        "Developer / Programmer",
+        "Software",
+        "Production"
+      ],
+      "verbs": [
+        "To work",
+        "To decide",
+        "To connect",
+        "To deploy",
+        "To take care of / to maintain"
+      ],
+      "adjectives": [],
+      "functionWords": []
+    },
+    "focusAreas": [
+      "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)"
+    ],
+    "reviewed": false,
+    "partnerReviewed": false,
+    "missedVocabulary": [],
+    "sourceMaterial": {
+      "title": "DevOps: מה זה? מדריך ברור למתחילים (ג'ון ברייס — Lobby Magazine)",
+      "url": "https://www.johnbryce.co.il/lobby-magazine/articles/%D7%9E%D7%94-%D7%96%D7%94-devops-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%91%D7%A8%D7%95%D7%A8-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D/"
+    },
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "It's nice here today. Not too many bicycles yet.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yeah, it's much nicer in the morning.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Daniel, tell Mark what you mentioned to me last week about your career.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Daniel",
+                "text": "Right, I mentioned I'm trying to decide between a few different directions. DevOps is one of them.",
+                "turn": "teacher"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "So what kind of work is DevOps? You must know something about it, since you work in tech.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yeah, actually. That's close to what I work on. I'm on the team that builds tools for the DevOps team.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "What's the difference between what you do and what they do?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I do write code, just not code that users ever see. That's the real difference between my team and the DevOps team. I build the tools they use to connect programmers with what happens in production.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "But what does the word DevOps actually mean?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "It connects two sides, the people who write the code and the people who keep it running, so they work together, not each one alone.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "What does a DevOps person actually do all day?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "They help with that whole process: building new software, testing it, deploying it, and monitoring it, and they take care of the infrastructure it all runs on.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "What do you mean by infrastructure? I've worked with servers before, and I run Linux at home.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Then you already know part of it. Add networks, the cloud, containers, and computers, and that's the infrastructure they take care of.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "And the testing part? What's that for?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Programmers write code that only checks other code. They actually write it before there's any real code yet, that's called TDD.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "OK, and what happens to all those tests when you're ready to deploy?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "They're part of the build. If a test fails, the build fails too, so bugs get found early.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "Wait, what's \"the build\" exactly?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "It's a file that has a version inside it, already fully tested and working.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "Oh, is that what people call deployment? I've heard that word a lot.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Exactly. Deployment is when the new version goes out to real users.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "And does someone have to do that every time?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "No, there's automation for that. It happens automatically, without anyone needing to touch it.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Heli",
+                "text": "Daniel, I really think you'd be good at this, you always like understanding how things work.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Heli's right, that helps a lot in this kind of job.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "Anyway, so what happens after something gets deployed?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Monitoring continues after that. They keep checking the systems to find problems early.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "lines": [
+              {
+                "speaker": "Daniel",
+                "text": "This all sounds really interesting. Maybe I should learn more about it.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "You should, and if you have questions, just ask me.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": []
   }
 ]
