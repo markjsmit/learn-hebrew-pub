@@ -5832,93 +5832,390 @@
     "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "Barber",
-    "type": "nouns",
+    "type": "Noun",
     "old": "4",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "Elevator",
-    "type": "nouns",
+    "type": "Noun",
     "old": "—",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "Floor (of a building)",
-    "type": "nouns",
+    "type": "Noun",
     "old": "—",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "Haircut",
-    "type": "nouns",
+    "type": "Noun",
     "old": "3",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "Lobby",
-    "type": "nouns",
+    "type": "Noun",
     "old": "—",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "Tight / tense",
-    "type": "adjectives",
+    "type": "Adjective",
     "old": "3",
     "new": "4",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "To agree",
-    "type": "verbs",
+    "type": "Verb",
     "old": "4",
     "new": "3",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "To lift",
-    "type": "verbs",
+    "type": "Verb",
     "old": "4",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "To notice",
-    "type": "verbs",
+    "type": "Verb",
     "old": "4",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
   },
   {
-    "field": "score",
     "date": "2026-07-15",
     "word": "To recommend",
-    "type": "verbs",
+    "type": "Verb",
     "old": "4",
     "new": "5",
-    "source": "lesson-020"
+    "source": "lesson-020",
+    "field": "score"
+  },
+  {
+    "date": "2026-07-22",
+    "word": "Developer",
+    "type": "Noun",
+    "old": "Developer / Programmer",
+    "new": "Developer",
+    "source": "mark suggestion",
+    "field": "english"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Actually / in fact",
+    "type": "Function Word",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Anyway / in any case",
+    "type": "Function Word",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Automation",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Bug",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Career",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Cloud",
+    "type": "Noun",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Code",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Computer",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Container",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Deployment",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Developer",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Difference",
+    "type": "Noun",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Direction",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Infrastructure",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Job",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Monitoring",
+    "type": "Noun",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Network",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Process",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Production",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Software",
+    "type": "Noun",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "System",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Team",
+    "type": "Noun",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Testing",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To build",
+    "type": "Verb",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To connect",
+    "type": "Verb",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To decide",
+    "type": "Verb",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To deploy",
+    "type": "Verb",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To mention",
+    "type": "Verb",
+    "old": "2",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To take care of / to maintain",
+    "type": "Verb",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "To work",
+    "type": "Verb",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "User",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
+  },
+  {
+    "date": "2026-08-01",
+    "word": "Version",
+    "type": "Noun",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-021",
+    "field": "score"
   }
 ]

@@ -7353,9 +7353,11 @@
     "focusAreas": [
       "Invisible grammatical particles (ש, את, ל, כי, כש, ה-agreement)"
     ],
-    "reviewed": false,
+    "reviewed": true,
     "partnerReviewed": false,
-    "missedVocabulary": [],
+    "missedVocabulary": [
+      "Fails — לִכְשׁוֹל"
+    ],
     "sourceMaterial": {
       "title": "DevOps: מה זה? מדריך ברור למתחילים (ג'ון ברייס — Lobby Magazine)",
       "url": "https://www.johnbryce.co.il/lobby-magazine/articles/%D7%9E%D7%94-%D7%96%D7%94-devops-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%91%D7%A8%D7%95%D7%A8-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D/"
@@ -7586,6 +7588,251 @@
               {
                 "speaker": "Mark",
                 "text": "You should, and if you have questions, just ask me.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "comments": []
+  },
+  {
+    "id": "lesson-022-devops-standup",
+    "number": 22,
+    "title": "Daily Standup: The Failed Deployment",
+    "subject": "Workplace",
+    "setting": "Tuesday morning, the daily standup for the production-dev team at Wix. The team gathers around a table in a small meeting room and goes one by one with updates; Eido, the team lead, runs it. It's Mark's turn — he updates the team on the AI integration project he's building for Workflow-Manager, including a testing problem in the CI/CD pipeline that he found and fixed this morning, before he could deploy.",
+    "goal": [
+      "Practice giving a real work status update in the professional register of a daily standup — what happened, why, and what's next",
+      "Reinforce vocabulary for CI/CD pipelines and testing, grounded in the John Bryce DevOps article",
+      "Practice connecting sentences with cause/result (because/so) and time expressions (yesterday/today/tomorrow) while reporting on work"
+    ],
+    "wordsReused": [
+      "Team",
+      "Code",
+      "Software",
+      "Testing",
+      "Version",
+      "To fix",
+      "To fail",
+      "To check",
+      "Deployment",
+      "Production",
+      "To deploy",
+      "System",
+      "Monitoring",
+      "Actually / in fact",
+      "Just / only",
+      "Bug",
+      "To run",
+      "To find",
+      "Infrastructure"
+    ],
+    "newWords": {
+      "nouns": [
+        "Question",
+        "Repository",
+        "Plan",
+        "Update",
+        "Review",
+        "Step",
+        "Pipeline",
+        "Integration",
+        "Reason"
+      ],
+      "verbs": [
+        "To explain",
+        "To finish",
+        "To review",
+        "To plan",
+        "To solve"
+      ],
+      "adjectives": [
+        "Ready",
+        "Stuck"
+      ],
+      "functionWords": [
+        "For example"
+      ]
+    },
+    "focusAreas": [
+      "Connecting sentences with because/so",
+      "Time expressions (yesterday/today/tomorrow)"
+    ],
+    "reviewed": false,
+    "partnerReviewed": false,
+    "missedVocabulary": [],
+    "sourceMaterial": {
+      "title": "DevOps: מה זה? מדריך ברור למתחילים (ג'ון ברייס — Lobby Magazine)",
+      "url": "https://www.johnbryce.co.il/lobby-magazine/articles/%D7%9E%D7%94-%D7%96%D7%94-devops-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%91%D7%A8%D7%95%D7%A8-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D/"
+    },
+    "notes": "",
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Mark, what's your update?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I finished the code for the AI integration in Workflow-Manager yesterday. It's just stuck in the CI/CD pipeline right now, some tests are failing.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "I have a question. What was the reason they failed?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "One of the steps in the pipeline runs a check on the new code automatically, so it found a real bug.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Did you manage to solve it?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes. I found the issue this morning, so I fixed it right away. The tests pass now.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Nice, that was quick.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "The test found a real bug. The MCP didn't have access to the repository.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Good. And once it's in production, how will you know it's actually working?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I'll watch the monitoring for an hour or two after I deploy, just to make sure the rest of the system is fine.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Is the new version ready?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Almost. Before the deployment to production, I want someone on the team to review the fix.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Great. What are you planning for today?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "If the review goes well, I'll deploy this afternoon. After that, the next step is to research AI writing code in Workflow-Manager.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Good plan, let's have Oran review it. Any problems?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Maybe one. Giving the MCP access to the repository could be tricky, because of security.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Maybe Lance can help you with this, his team already solved that problem.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good idea, I'm already meeting him for coffee today.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Good, I'll mention it to the infrastructure team too. How would you explain this new software to them in one sentence?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "You can replace regular code with an AI agent that handles one step in a workflow. For example, finding a good version to release is something an AI agent would do better than regular code.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Eido",
+                "text": "Got it, good luck.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Sure.",
                 "turn": "student"
               }
             ]
