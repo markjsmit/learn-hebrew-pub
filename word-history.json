@@ -6217,5 +6217,257 @@
     "new": "5",
     "source": "lesson-021",
     "field": "score"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Deployment",
+    "type": "nouns",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "For example",
+    "type": "functionWords",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Integration",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Pipeline",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Plan",
+    "type": "nouns",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Production",
+    "type": "nouns",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Question",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Ready",
+    "type": "adjectives",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Reason",
+    "type": "nouns",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Repository",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Review",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Software",
+    "type": "nouns",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Step",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Stuck",
+    "type": "adjectives",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "System",
+    "type": "nouns",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Team",
+    "type": "nouns",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To deploy",
+    "type": "verbs",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To explain",
+    "type": "verbs",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To fail",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To finish",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To plan",
+    "type": "verbs",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To review",
+    "type": "verbs",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "To solve",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Update",
+    "type": "nouns",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "score",
+    "date": "2026-08-05",
+    "word": "Version",
+    "type": "nouns",
+    "old": "5",
+    "new": "4",
+    "source": "lesson-022-devops-standup"
+  },
+  {
+    "field": "english",
+    "date": "2026-08-05",
+    "word": "Step",
+    "type": "nouns",
+    "old": "Step",
+    "new": "Stage",
+    "source": "mark suggestion"
+  },
+  {
+    "field": "hebrew",
+    "date": "2026-08-05",
+    "word": "To fail",
+    "type": "verbs",
+    "old": "לִכְשׁוֹל",
+    "new": "לְהִכָּשֵׁל",
+    "source": "nadav suggestion"
+  },
+  {
+    "field": "hebrew",
+    "date": "2026-08-05",
+    "word": "Production",
+    "type": "nouns",
+    "old": "פְּרוֹדַקְשֶׁן",
+    "new": "פְּרוֹדַקְשֶׁן / יִצּוּר",
+    "source": "nadav suggestion"
   }
 ]

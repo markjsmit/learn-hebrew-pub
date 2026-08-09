@@ -1335,7 +1335,7 @@
       "hebrew": "צֶוֶת",
       "subject": "Workplace",
       "last": "lesson-022",
-      "score": 3
+      "score": 4
     },
     {
       "english": "Code",
@@ -1391,7 +1391,7 @@
       "hebrew": "פְּרִיסָה / דִּיפְלוֹי",
       "subject": "Workplace",
       "last": "lesson-022",
-      "score": 3
+      "score": 5
     },
     {
       "english": "Monitoring",
@@ -1434,14 +1434,14 @@
       "hebrew": "מַעֲרֶכֶת",
       "subject": "Workplace",
       "last": "lesson-022",
-      "score": 3
+      "score": 4
     },
     {
       "english": "Version",
       "hebrew": "גִּרְסָה",
       "subject": "Workplace",
       "last": "lesson-022",
-      "score": 5
+      "score": 4
     },
     {
       "english": "User",
@@ -1483,68 +1483,82 @@
       "hebrew": "תוֹכְנָה",
       "subject": "Workplace",
       "last": "lesson-022",
-      "score": 4
+      "score": 5
     },
     {
       "english": "Production",
-      "hebrew": "פְּרוֹדַקְשֶׁן",
+      "hebrew": "פְּרוֹדַקְשֶׁן / יִצּוּר",
       "subject": "Workplace",
       "last": "lesson-022",
-      "score": 3
+      "score": 5
     },
     {
       "english": "Question",
       "hebrew": "שְׁאֵלָה",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
       "english": "Repository",
       "hebrew": "מַאֲגָר / רִיפּוֹ",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
       "english": "Plan",
       "hebrew": "תָּכְנִית",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 3
     },
     {
       "english": "Update",
       "hebrew": "עִדְכּוּן",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 3
     },
     {
       "english": "Review",
       "hebrew": "סְקִירָה / רִוְיוּ",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
-      "english": "Step",
+      "english": "Stage",
       "hebrew": "שָׁלָב",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
       "english": "Pipeline",
       "hebrew": "צִנּוֹר / פַּייפְּלַיין",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
       "english": "Integration",
       "hebrew": "אִינְטֶגְרַצְיָה",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 5
     },
     {
       "english": "Reason",
       "hebrew": "סִיבָּה",
       "subject": "Workplace",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 3
+    },
+    {
+      "english": "Access",
+      "hebrew": "גִּישָׁה",
+      "subject": "Workplace"
     }
   ],
   "verbs": [
@@ -2014,7 +2028,7 @@
       "hebrew": "לִפְרֹס / לַעֲשׂוֹת דִּיפְלוֹי",
       "subject": "General",
       "last": "lesson-022",
-      "score": 3
+      "score": 5
     },
     {
       "english": "To take care of / to maintain",
@@ -2025,39 +2039,55 @@
     },
     {
       "english": "To fail",
-      "hebrew": "לִכְשׁוֹל",
+      "hebrew": "לְהִכָּשֵׁל",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 3
     },
     {
       "english": "To explain",
       "hebrew": "לְהַסְבִּיר",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 5
     },
     {
       "english": "To finish",
       "hebrew": "לְסַיֵּם",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 3
     },
     {
       "english": "To review",
       "hebrew": "לַעֲבֹר עַל / לַעֲשׂוֹת רִוְיוּ",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 5
     },
     {
       "english": "To plan",
       "hebrew": "לְתַכְנֵן",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
       "english": "To solve",
       "hebrew": "לִפְתּוֹר",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 3
+    },
+    {
+      "english": "To research",
+      "hebrew": "לַחְקֹר",
+      "subject": "General"
+    },
+    {
+      "english": "To replace",
+      "hebrew": "לְהַחְלִיף",
+      "subject": "General"
     }
   ],
   "adjectives": [
@@ -2213,13 +2243,25 @@
       "english": "Ready",
       "hebrew": "מוּכָן",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 4
     },
     {
       "english": "Stuck",
       "hebrew": "תָּקוּעַ",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 2
+    },
+    {
+      "english": "Automatically",
+      "hebrew": "אוֹטוֹמָטִית",
+      "subject": "General"
+    },
+    {
+      "english": "Real",
+      "hebrew": "אֲמִיתִּי",
+      "subject": "General"
     }
   ],
   "functionWords": [
@@ -2351,7 +2393,18 @@
       "english": "For example",
       "hebrew": "לְדוּגְמָה",
       "subject": "General",
-      "last": "lesson-022"
+      "last": "lesson-022",
+      "score": 5
+    },
+    {
+      "english": "The rest / whats left",
+      "hebrew": "הַשְּׁאָר",
+      "subject": "General"
+    },
+    {
+      "english": "The rest / what's left",
+      "hebrew": "הַשְּׁאָר",
+      "subject": "General"
     }
   ]
 }

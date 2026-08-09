@@ -88,5 +88,10 @@
     "score": 4,
     "last": "practice-0006",
     "group": "Conversation"
+  },
+  {
+    "area": "Sequential, dependent action chains (each step only makes sense by referring back to the last one — Nadav calls this one of the hardest things in learning a language)",
+    "last": "lesson-022",
+    "group": "Discourse"
   }
 ]
