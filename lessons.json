@@ -7848,5 +7848,287 @@
         ]
       }
     ]
+  },
+  {
+    "id": "lesson-023-devops-pipeline-optimization",
+    "number": 23,
+    "title": "Fixing the Slow Pipeline",
+    "subject": "Workplace",
+    "setting": "Wix campus, at a quiet terrace behind room E101 in Building E. Mark invites his teammate Oran, the team's most experienced infrastructure engineer, for a walk to a spot he recently found, a table and whiteboard tucked under a small roof. Once they sit down, Mark raises a problem he's been thinking about: their CI pipeline is too slow, and he wants to talk through some ideas to speed it up.",
+    "goal": [
+      "Practice describing a technical process step-by-step, covering the pipeline from installing dependencies through building, testing, and packaging a new release",
+      "Practice proposing and discussing process improvements in a natural, back-and-forth technical conversation",
+      "Practice giving turn-by-turn directions across a physical space, reinforcing the active focus area on describing location and directions"
+    ],
+    "wordsReused": [
+      "Code",
+      "To build",
+      "Testing",
+      "To go through / pass through",
+      "Lobby",
+      "Building",
+      "Table",
+      "Fast",
+      "Slow",
+      "Version",
+      "Pipeline",
+      "To agree",
+      "Stuck",
+      "Process",
+      "Team",
+      "To take",
+      "To run",
+      "To work",
+      "To pack",
+      "Ready",
+      "Exactly",
+      "Afterward / after that"
+    ],
+    "newWords": {
+      "nouns": [
+        "Terrace",
+        "Stairs",
+        "Coffee corner",
+        "Roof",
+        "Whiteboard",
+        "Dependencies",
+        "Cache",
+        "Artifact",
+        "Unit test",
+        "End-to-end test",
+        "Duplication",
+        "Problem",
+        "Idea",
+        "Image (Docker image)"
+      ],
+      "verbs": [
+        "To install",
+        "To cache",
+        "To split",
+        "To skip",
+        "To upload"
+      ],
+      "adjectives": [
+        "In parallel",
+        "Redundant / Unnecessary"
+      ],
+      "functionWords": []
+    },
+    "focusAreas": [
+      "Describing location and directions",
+      "Longer narrative chains (3+ steps, varying connectives)"
+    ],
+    "reviewed": false,
+    "partnerReviewed": false,
+    "missedVocabulary": [],
+    "sourceMaterial": {
+      "title": "DevOps: מה זה? מדריך ברור למתחילים (ג'ון ברייס — Lobby Magazine)",
+      "url": "https://www.johnbryce.co.il/lobby-magazine/articles/%D7%9E%D7%94-%D7%96%D7%94-devops-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%91%D7%A8%D7%95%D7%A8-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D/"
+    },
+    "notes": "",
+    "comments": [],
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "Hey Mark, do you need something?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, I wanted to talk to you about something. Let's walk over there, I know a good spot for it.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "Sure. Where are we going?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "There's a terrace behind room E101 I found a while ago. It has a small roof, a table, and a whiteboard. You've never been there.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "How do we get there?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "First we go up to the lobby, then walk up the stairs next to the coffee corner. That gets us to a small terrace, and we go through it into Building E.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "And after that?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "After that we walk through Building E and pass through room E101. The terrace we want is right behind it.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "context": "They arrive at the terrace behind room E101.",
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "This is a nice spot. Let's sit at the table.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good idea. So, about the CI problem, it's still way too slow. A mid-sized project can take twenty to thirty minutes just to get a new version ready.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "Yeah, I know. Let's go through the pipeline together, step by step.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Sure. First we install the dependencies, then we build the code.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "And after the build?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Then we run all the tests, and after that we pack everything into a Docker image.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "And then?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "We upload the image to Artifactory, and after that a new version is ready.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "Okay, so where exactly does it get stuck?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Mostly in the install step. We install the dependencies again every time, and most of the time that's unnecessary.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "I agree. If we cache the dependencies, the install step would be much faster.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Exactly. Second, all the tests run together right now. We should split the unit tests from the end-to-end tests.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "That makes sense. The unit tests are fast, so they can run first, and the end-to-end tests can run separately.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Right. And third, right now the end-to-end tests wait for the unit tests to finish, and then install and build everything again from scratch. If we run them in parallel, right after the build, we skip that unnecessary duplication.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "Good idea. I have another idea too. We could also cache the build artifact, so we don't build it again every time.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "That's a good idea too. If we do all of this, the whole process could be much shorter.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Oran",
+                "text": "Agreed. Let's write this down on the whiteboard and bring it to the team.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Sounds good. Let's start with the cache, that's the easiest one to do first.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

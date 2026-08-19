@@ -6469,5 +6469,32 @@
     "old": "פְּרוֹדַקְשֶׁן",
     "new": "פְּרוֹדַקְשֶׁן / יִצּוּר",
     "source": "nadav suggestion"
+  },
+  {
+    "field": "hebrew",
+    "date": "2026-08-12",
+    "word": "PIN",
+    "type": "nouns",
+    "old": "קוֹד סוֹד",
+    "new": "קוֹד סוֹדי",
+    "source": "nadav suggestion"
+  },
+  {
+    "field": "english",
+    "date": "2026-08-12",
+    "word": "To hurt",
+    "type": "verbs",
+    "old": "To hurt",
+    "new": "To be in pain",
+    "source": "mark suggestion"
+  },
+  {
+    "field": "hebrew",
+    "date": "2026-08-12",
+    "word": "To be in pain",
+    "type": "verbs",
+    "old": "לִכְאֹב",
+    "new": "כואב לי",
+    "source": "nadav suggestion"
   }
 ]

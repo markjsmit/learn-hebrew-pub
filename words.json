@@ -299,7 +299,7 @@
     },
     {
       "english": "PIN",
-      "hebrew": "קוֹד סוֹד",
+      "hebrew": "קוֹד סוֹדי",
       "subject": "Bank & Finance",
       "score": 5,
       "last": "lesson-008"
@@ -1570,13 +1570,6 @@
       "last": "practice-0005"
     },
     {
-      "english": "To hurt",
-      "hebrew": "לִכְאֹב",
-      "subject": "General",
-      "score": 5,
-      "last": "practice-0004"
-    },
-    {
       "english": "To check",
       "hebrew": "לִבְדֹּק",
       "subject": "General",
@@ -2405,6 +2398,13 @@
       "english": "The rest / what's left",
       "hebrew": "הַשְּׁאָר",
       "subject": "General"
+    },
+    {
+      "english": "To be in pain (expression)",
+      "hebrew": "כואב לי",
+      "subject": "General",
+      "score": 5,
+      "last": "practice-0004"
     }
   ]
 }
