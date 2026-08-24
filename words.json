@@ -1559,6 +1559,104 @@
       "english": "Access",
       "hebrew": "גִּישָׁה",
       "subject": "Workplace"
+    },
+    {
+      "english": "Terrace",
+      "hebrew": "מִרְפֶּסֶת",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Stairs",
+      "hebrew": "מַדְרֵגוֹת",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Coffee corner",
+      "hebrew": "פִּנַּת קָפֶה",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Roof",
+      "hebrew": "גַּג",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Whiteboard",
+      "hebrew": "לוּחַ",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Dependencies",
+      "hebrew": "תְּלוּיוֹת",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Cache",
+      "hebrew": "קָאש",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Artifact",
+      "hebrew": "אַרְטִיפַקְט",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Unit test",
+      "hebrew": "בְּדִיקַת יְחִידָה / יוּנִיט טֶסְט",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "End-to-end test",
+      "hebrew": "בְּדִיקַת קָצֶה לְקָצֶה / אִי-טוּ-אִי",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Duplication",
+      "hebrew": "כְּפִילוּת",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Problem",
+      "hebrew": "בְּעָיָה",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Idea",
+      "hebrew": "רַעְיוֹן",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-023"
+    },
+    {
+      "english": "Image (Docker image)",
+      "hebrew": "אִימָג'",
+      "subject": "Workplace",
+      "score": null,
+      "last": "lesson-023"
     }
   ],
   "verbs": [
@@ -2081,6 +2179,36 @@
       "english": "To replace",
       "hebrew": "לְהַחְלִיף",
       "subject": "General"
+    },
+    {
+      "english": "To install",
+      "hebrew": "לְהַתְקִין",
+      "subject": "General",
+      "last": "lesson-023"
+    },
+    {
+      "english": "To cache",
+      "hebrew": "לַעֲשׂוֹת קָאשִׁינְג",
+      "subject": "General",
+      "last": "lesson-023"
+    },
+    {
+      "english": "To split",
+      "hebrew": "לְפַצֵּל",
+      "subject": "General",
+      "last": "lesson-023"
+    },
+    {
+      "english": "To skip",
+      "hebrew": "לְדַלֵּג",
+      "subject": "General",
+      "last": "lesson-023"
+    },
+    {
+      "english": "To upload",
+      "hebrew": "לְהַעֲלוֹת",
+      "subject": "General",
+      "last": "lesson-023"
     }
   ],
   "adjectives": [
@@ -2255,6 +2383,18 @@
       "english": "Real",
       "hebrew": "אֲמִיתִּי",
       "subject": "General"
+    },
+    {
+      "english": "In parallel",
+      "hebrew": "בְּמַקְבִּיל",
+      "subject": "General",
+      "last": "lesson-023"
+    },
+    {
+      "english": "Redundant / Unnecessary",
+      "hebrew": "מְיוּתָּר",
+      "subject": "General",
+      "last": "lesson-023"
     }
   ],
   "functionWords": [
