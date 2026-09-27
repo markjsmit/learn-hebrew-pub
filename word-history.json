@@ -6496,5 +6496,239 @@
     "old": "לִכְאֹב",
     "new": "כואב לי",
     "source": "nadav suggestion"
+  },
+  {
+    "field": "hebrew",
+    "date": "2026-09-07",
+    "word": "Terrace",
+    "type": "nouns",
+    "old": "מִרְפֶּסֶת",
+    "new": "טֶרַסָה",
+    "source": "nadav suggestion"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Afterward / after that",
+    "type": "Function Word",
+    "old": "—",
+    "new": 4,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Artifact",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Cache",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Coffee corner",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Dependencies",
+    "type": "Noun",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Duplication",
+    "type": "Noun",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "End-to-end test",
+    "type": "Noun",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Idea",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Image (Docker image)",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "In parallel",
+    "type": "Adjective",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Pipeline",
+    "type": "Noun",
+    "old": "4",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Problem",
+    "type": "Noun",
+    "old": "—",
+    "new": 4,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Redundant / Unnecessary",
+    "type": "Adjective",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Roof",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Stairs",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Terrace",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To agree",
+    "type": "Verb",
+    "old": "3",
+    "new": 4,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To cache",
+    "type": "Verb",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To install",
+    "type": "Verb",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To pack",
+    "type": "Verb",
+    "old": "4",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To skip",
+    "type": "Verb",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To split",
+    "type": "Verb",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "To upload",
+    "type": "Verb",
+    "old": "—",
+    "new": 4,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Unit test",
+    "type": "Noun",
+    "old": "—",
+    "new": 3,
+    "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-07",
+    "word": "Whiteboard",
+    "type": "Noun",
+    "old": "—",
+    "new": 5,
+    "source": "lesson-023"
   }
 ]

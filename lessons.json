@@ -7918,8 +7918,8 @@
       "Describing location and directions",
       "Longer narrative chains (3+ steps, varying connectives)"
     ],
-    "reviewed": false,
-    "partnerReviewed": false,
+    "reviewed": true,
+    "partnerReviewed": true,
     "missedVocabulary": [],
     "sourceMaterial": {
       "title": "DevOps: מה זה? מדריך ברור למתחילים (ג'ון ברייס — Lobby Magazine)",
@@ -8123,6 +8123,302 @@
               {
                 "speaker": "Mark",
                 "text": "Sounds good. Let's start with the cache, that's the easiest one to do first.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-024-residents-meeting-igor",
+    "number": 24,
+    "title": "Igor's Residents' Meeting",
+    "subject": "Home & Building",
+    "setting": "Friday evening at Heli's parents' apartment, before Mark and Heli head to the ice. The building's elevator has broken again, so Mark and Heli walked up the stairs. While Marina finishes dinner in the kitchen, Heli's father Igor tells Mark how the building's last residents' meeting went. The residents are deciding what to do about the elevator, which breaks down all the time. Igor is all for fixing it properly, whatever it costs. Mark has just read a children's story with Nadav about a residents' meeting, so he has a story of his own to tell.",
+    "goal": [
+      "Build vocabulary for apartment-building life: residents, neighbours, the residents' meeting, the shelter, the yard, petitions and municipal tax",
+      "Practice talking about what goes on in a building and between neighbours, reacting to a story and asking natural follow-up questions",
+      "Practice presenting a proposal and the arguments for and against it, as in the story Mark read"
+    ],
+    "wordsReused": [
+      "Elevator",
+      "Floor (of a building)",
+      "To sign",
+      "To agree",
+      "To suggest",
+      "Old",
+      "To install",
+      "Plan",
+      "To carry",
+      "Stuck",
+      "Stairs",
+      "Building",
+      "To work",
+      "To pay",
+      "To take",
+      "To decide",
+      "Ready",
+      "Exactly",
+      "Even",
+      "Ice"
+    ],
+    "newWords": {
+      "nouns": [
+        "Neighbour",
+        "Shelter",
+        "Pool",
+        "Apartment",
+        "Door",
+        "Resident",
+        "Residents' meeting",
+        "Yard",
+        "Sign (notice)",
+        "Municipal tax",
+        "Change (improvement)",
+        "Balcony",
+        "Petition",
+        "Sketch"
+      ],
+      "verbs": [
+        "To shout",
+        "To participate",
+        "To gather",
+        "To set (a time/date)",
+        "To represent"
+      ],
+      "adjectives": [
+        "Missing",
+        "Seriously"
+      ],
+      "functionWords": [
+        "In advance"
+      ]
+    },
+    "focusAreas": [
+      "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
+      "Describing location / giving directions"
+    ],
+    "reviewed": false,
+    "partnerReviewed": false,
+    "missedVocabulary": [],
+    "sourceMaterial": {
+      "title": "אסיפת דיירים — אדם צעיר",
+      "url": "https://adamtsair.co.il/%D7%90%D7%A1%D7%99%D7%A4%D7%AA-%D7%93%D7%99%D7%99%D7%A8%D7%99%D7%9D/"
+    },
+    "notes": "",
+    "comments": [],
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "Mark, come in! Sorry, the elevator isn't working again.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "It's fine, we took the stairs. But I had to carry the drinks up to the fifth floor.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "Last week the elevator got stuck, and our neighbour was inside for half an hour.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Seriously? Is he okay?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "He's fine. But because of that we had a residents' meeting on Tuesday.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good. Did a lot of residents participate?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "Almost everyone. We set the date two weeks in advance.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Where was the meeting? In one of the apartments?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "No, in the shelter. We put a sign on the door so people would know where the meeting was.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I know where that is. It's under the building, next to the stairs.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "Exactly. Why are you smiling?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Because I just read a story with Nadav about exactly this. The kids of a building gathered in the back yard and wrote a petition. Then one boy went down to the shelter to represent them at the meeting.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "And what did the kids want?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "A pool in the yard! All the kids signed, and even a few adults. They also made a sketch of the pool.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "A pool! Our neighbours didn't even want to pay for the elevator.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "So what's the plan for the elevator now?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "There are two options. We do a big repair on the old elevator, or we install a new one.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "And what did you suggest?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "A new one, of course. For a change like this, I'm ready to pay.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I agree with you. The old one gets stuck every month, and then everyone has to carry everything up the stairs.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "Not everyone agreed. The old woman from the first floor said she doesn't need an elevator. And she doesn't hear well, so everyone had to shout everything twice.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "In the story there was an old woman like that too. She didn't hear what the boy said.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "And then Moshe from the third floor talked about the municipal tax for twenty minutes. It has nothing to do with the building!",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "So in the end, what did you decide?",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "Most residents signed, and next month they're installing a new elevator.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Great. It's like the balconies five years ago. That was a big change too, and now everyone loves them.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "lines": [
+              {
+                "speaker": "Igor",
+                "text": "True. So, what else is missing in our building? A pool?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Maybe next year! But now I'm hungry, and we need to leave for the ice at nine.",
                 "turn": "student"
               }
             ]
