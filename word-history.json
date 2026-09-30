@@ -6730,5 +6730,266 @@
     "old": "—",
     "new": 5,
     "source": "lesson-023"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Apartment",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Balcony",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Change (improvement)",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Door",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "In advance",
+    "type": "functionWords",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Missing",
+    "type": "adjectives",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Municipal tax",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Neighbour",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Old",
+    "type": "adjectives",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Petition",
+    "type": "nouns",
+    "old": "—",
+    "new": "2",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Plan",
+    "type": "nouns",
+    "old": "3",
+    "new": "4",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Pool",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Resident",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Residents' meeting",
+    "type": "nouns",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Seriously",
+    "type": "adjectives",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Shelter",
+    "type": "nouns",
+    "old": "—",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Sign (notice)",
+    "type": "nouns",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Sketch",
+    "type": "nouns",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Stuck",
+    "type": "adjectives",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To agree",
+    "type": "verbs",
+    "old": "4",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To carry",
+    "type": "verbs",
+    "old": "2",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To gather",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To install",
+    "type": "verbs",
+    "old": "3",
+    "new": "5",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To participate",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To represent",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To set (a time/date)",
+    "type": "verbs",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To shout",
+    "type": "verbs",
+    "old": "—",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "To suggest",
+    "type": "verbs",
+    "old": "4",
+    "new": "3",
+    "source": "lesson-024"
+  },
+  {
+    "field": "score",
+    "date": "2026-09-28",
+    "word": "Yard",
+    "type": "nouns",
+    "old": "—",
+    "new": "4",
+    "source": "lesson-024"
   }
 ]

@@ -636,7 +636,7 @@
       "hebrew": "בִּנְיָן",
       "subject": "Street & City",
       "score": 5,
-      "last": "lesson-024"
+      "last": "lesson-025"
     },
     {
       "english": "Traffic light",
@@ -862,7 +862,7 @@
       "hebrew": "מִגְלָשַׁיִם",
       "subject": "Gym & Sport",
       "score": 5,
-      "last": "practice-0003"
+      "last": "lesson-025"
     },
     {
       "english": "Changing room",
@@ -1511,7 +1511,7 @@
       "hebrew": "תָּכְנִית",
       "subject": "Workplace",
       "last": "lesson-024",
-      "score": 3
+      "score": 4
     },
     {
       "english": "Update",
@@ -1664,99 +1664,155 @@
       "english": "Neighbour",
       "hebrew": "שָׁכֵן",
       "subject": "Home & Building",
-      "score": null,
-      "last": "lesson-024"
+      "score": 4,
+      "last": "lesson-025"
     },
     {
       "english": "Shelter",
       "hebrew": "מִקְלָט",
       "subject": "Home & Building",
-      "score": null,
-      "last": "lesson-024"
+      "score": 5,
+      "last": "lesson-025"
     },
     {
       "english": "Pool",
       "hebrew": "בְּרֵכָה",
       "subject": "Home & Building",
-      "score": null,
-      "last": "lesson-024"
+      "score": 5,
+      "last": "lesson-025"
     },
     {
       "english": "Apartment",
       "hebrew": "דִּירָה",
       "subject": "Home & Building",
-      "score": null,
+      "score": 5,
       "last": "lesson-024"
     },
     {
       "english": "Door",
       "hebrew": "דֶּלֶת",
       "subject": "Home & Building",
-      "score": null,
+      "score": 5,
       "last": "lesson-024"
     },
     {
       "english": "Resident",
       "hebrew": "דַּיָּר",
       "subject": "Home & Building",
-      "score": null,
-      "last": "lesson-024"
+      "score": 4,
+      "last": "lesson-025"
     },
     {
       "english": "Residents' meeting",
       "hebrew": "אֲסִיפַת דַּיָּרִים",
       "subject": "Home & Building",
-      "score": null,
+      "score": 3,
       "last": "lesson-024"
     },
     {
       "english": "Yard",
       "hebrew": "חָצֵר",
       "subject": "Home & Building",
-      "score": null,
-      "last": "lesson-024"
+      "score": 4,
+      "last": "lesson-025"
     },
     {
       "english": "Sign (notice)",
       "hebrew": "שֶׁלֶט",
       "subject": "Home & Building",
-      "score": null,
+      "score": 3,
       "last": "lesson-024"
     },
     {
       "english": "Municipal tax",
       "hebrew": "אַרְנוֹנָה",
       "subject": "Home & Building",
-      "score": null,
+      "score": 5,
       "last": "lesson-024"
     },
     {
       "english": "Change (improvement)",
       "hebrew": "שִׁנּוּי",
       "subject": "Home & Building",
-      "score": null,
+      "score": 5,
       "last": "lesson-024"
     },
     {
       "english": "Balcony",
       "hebrew": "מִרְפֶּסֶת",
       "subject": "Home & Building",
-      "score": null,
+      "score": 5,
       "last": "lesson-024"
     },
     {
       "english": "Petition",
       "hebrew": "עֲצוּמָה",
       "subject": "Home & Building",
-      "score": null,
-      "last": "lesson-024"
+      "score": 2,
+      "last": "lesson-025"
     },
     {
       "english": "Sketch",
       "hebrew": "שִׂרְטוּט",
       "subject": "Home & Building",
-      "score": null,
+      "score": 3,
       "last": "lesson-024"
+    },
+    {
+      "english": "School",
+      "hebrew": "בֵּית סֵפֶר",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Stone",
+      "hebrew": "אֶבֶן",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Junk",
+      "hebrew": "גְּרוּטָאוֹת",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Suggestion",
+      "hebrew": "הַצָּעָה",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Chance",
+      "hebrew": "סִכּוּי",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Stairwell",
+      "hebrew": "חֲדַר מַדְרֵגוֹת",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Mailbox",
+      "hebrew": "תֵּבַת דֹּאַר",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Compromise",
+      "hebrew": "פְּשָׁרָה",
+      "subject": "Home & Building",
+      "score": null,
+      "last": "lesson-025"
     }
   ],
   "verbs": [
@@ -1849,13 +1905,13 @@
       "hebrew": "לִבְנוֹת",
       "subject": "General",
       "score": 5,
-      "last": "lesson-023"
+      "last": "lesson-025"
     },
     {
       "english": "To carry",
       "hebrew": "לִסחוב",
       "subject": "General",
-      "score": 2,
+      "score": 3,
       "last": "lesson-024"
     },
     {
@@ -1863,14 +1919,14 @@
       "hebrew": "לִצְבֹּעַ",
       "subject": "General",
       "score": 5,
-      "last": "practice-0004"
+      "last": "lesson-025"
     },
     {
       "english": "To clean",
       "hebrew": "לְנַקּוֹת",
       "subject": "General",
       "score": 4,
-      "last": "practice-0004"
+      "last": "lesson-025"
     },
     {
       "english": "To hold",
@@ -1926,7 +1982,7 @@
       "hebrew": "לַחֲכוֹת",
       "subject": "General",
       "score": 5,
-      "last": "lesson-018"
+      "last": "lesson-025"
     },
     {
       "english": "To notice",
@@ -1974,8 +2030,8 @@
       "english": "To agree",
       "hebrew": "לְהַסְכִּים",
       "subject": "General",
-      "score": 4,
-      "last": "lesson-024"
+      "score": 5,
+      "last": "lesson-025"
     },
     {
       "english": "To mention",
@@ -2148,9 +2204,9 @@
     {
       "english": "To suggest",
       "hebrew": "לְהַצִּיעַ",
-      "score": 4,
+      "score": 3,
       "subject": "General",
-      "last": "lesson-024"
+      "last": "lesson-025"
     },
     {
       "english": "To dry",
@@ -2239,7 +2295,7 @@
       "english": "To explain",
       "hebrew": "לְהַסְבִּיר",
       "subject": "General",
-      "last": "lesson-022",
+      "last": "lesson-025",
       "score": 5
     },
     {
@@ -2282,14 +2338,14 @@
       "hebrew": "לְהַחְלִיף",
       "subject": "General",
       "score": null,
-      "last": "lesson-022"
+      "last": "lesson-025"
     },
     {
       "english": "To install",
       "hebrew": "לְהַתְקִין",
       "subject": "General",
       "last": "lesson-024",
-      "score": 3
+      "score": 5
     },
     {
       "english": "To cache",
@@ -2323,36 +2379,71 @@
       "english": "To shout",
       "hebrew": "לִצְעֹק",
       "subject": "General",
-      "score": null,
-      "last": "lesson-024"
+      "score": 3,
+      "last": "lesson-025"
     },
     {
       "english": "To participate",
       "hebrew": "לְהִשְׁתַּתֵּף",
       "subject": "General",
-      "score": null,
+      "score": 3,
       "last": "lesson-024"
     },
     {
       "english": "To gather",
       "hebrew": "לְהִתְאַסֵּף",
       "subject": "General",
-      "score": null,
-      "last": "lesson-024"
+      "score": 3,
+      "last": "lesson-025"
     },
     {
       "english": "To set (a time/date)",
       "hebrew": "לִקְבֹּעַ",
       "subject": "General",
-      "score": null,
+      "score": 4,
       "last": "lesson-024"
     },
     {
       "english": "To represent",
       "hebrew": "לְיַצֵּג",
       "subject": "General",
-      "score": null,
+      "score": 3,
       "last": "lesson-024"
+    },
+    {
+      "english": "To laugh",
+      "hebrew": "לִצְחוֹק",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "To be sorry",
+      "hebrew": "לְהִצְטַעֵר",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "To listen",
+      "hebrew": "לְהַקְשִׁיב",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "To fall asleep",
+      "hebrew": "לְהֵרָדֵם",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "To hang out",
+      "hebrew": "לְבַלּוֹת",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
     }
   ],
   "adjectives": [
@@ -2437,7 +2528,7 @@
       "english": "Old",
       "hebrew": "יָשָׁן",
       "subject": "General",
-      "score": 3,
+      "score": 5,
       "last": "lesson-024",
       "contextual": "זָקֵן"
     },
@@ -2446,7 +2537,7 @@
       "hebrew": "לְבַד",
       "subject": "General",
       "score": 5,
-      "last": "lesson-021"
+      "last": "lesson-025"
     },
     {
       "english": "Fresh",
@@ -2517,7 +2608,7 @@
       "hebrew": "תָּקוּעַ",
       "subject": "General",
       "last": "lesson-024",
-      "score": 2
+      "score": 3
     },
     {
       "english": "Automatically",
@@ -2551,15 +2642,71 @@
       "english": "Missing",
       "hebrew": "חָסֵר",
       "subject": "General",
-      "score": null,
-      "last": "lesson-024"
+      "score": 2,
+      "last": "lesson-025"
     },
     {
       "english": "Seriously",
       "hebrew": "בִּרְצִינוּת",
       "subject": "General",
+      "score": 3,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Funny",
+      "hebrew": "מַצְחִיק",
+      "subject": "General",
       "score": null,
-      "last": "lesson-024"
+      "last": "lesson-025"
+    },
+    {
+      "english": "Stressed",
+      "hebrew": "לָחוּץ",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Disappointed",
+      "hebrew": "מְאֻכְזָב",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Hurt (feelings)",
+      "hebrew": "פָּגוּעַ",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Right (correct)",
+      "hebrew": "צוֹדֵק",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Busy (occupied)",
+      "hebrew": "עָסוּק",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Neglected",
+      "hebrew": "מֻזְנָח",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Practical",
+      "hebrew": "פְּרַקְטִי / מַעֲשִׂי",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
     }
   ],
   "functionWords": [
@@ -2681,7 +2828,8 @@
       "english": "The next day",
       "hebrew": "לְמָחֳרָת",
       "subject": "General",
-      "last": "lesson-020"
+      "last": "lesson-025",
+      "score": null
     },
     {
       "english": "Especially",
@@ -2714,8 +2862,22 @@
       "english": "In advance",
       "hebrew": "מֵרֹאשׁ",
       "subject": "General",
-      "score": null,
+      "score": 4,
       "last": "lesson-024"
+    },
+    {
+      "english": "Completely",
+      "hebrew": "לְגַמְרֵי",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
+    },
+    {
+      "english": "Together",
+      "hebrew": "בְּיַחַד",
+      "subject": "General",
+      "score": null,
+      "last": "lesson-025"
     }
   ]
 }

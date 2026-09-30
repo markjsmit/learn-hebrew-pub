@@ -8200,8 +8200,8 @@
       "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
       "Describing location / giving directions"
     ],
-    "reviewed": false,
-    "partnerReviewed": false,
+    "reviewed": true,
+    "partnerReviewed": true,
     "missedVocabulary": [],
     "sourceMaterial": {
       "title": "אסיפת דיירים — אדם צעיר",
@@ -8419,6 +8419,365 @@
               {
                 "speaker": "Mark",
                 "text": "Maybe next year! But now I'm hungry, and we need to leave for the ice at nine.",
+                "turn": "student"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-025-story-continued-shira",
+    "number": 25,
+    "title": "The Rest of the Story, for Shira",
+    "subject": "Home & Building",
+    "setting": "Friday evening, in the car on the way from Heli's parents' apartment to the ice. Mark is driving, Heli sits next to him, and her thirteen-year-old sister Shira sits in the back with the ice skates and the bags. At dinner Shira overheard Mark telling Igor about a children's story he read with Nadav, and now she wants to know what happened next. Shira is very optimistic and has an opinion on everything, so she has plenty to say about the adults in the story.",
+    "goal": [
+      "Build vocabulary for feelings and reactions: laughing at someone, being hurt, disappointed, stressed, sorry, and being right",
+      "Practice describing a neglected place and what should change there",
+      "Practice admitting that someone else was right and suggesting a compromise instead of the original idea"
+    ],
+    "wordsReused": [
+      "Pool",
+      "Yard",
+      "Shelter",
+      "Neighbour",
+      "Resident",
+      "To gather",
+      "To suggest",
+      "Seriously",
+      "Petition",
+      "Missing",
+      "To shout",
+      "To wait",
+      "To paint",
+      "To replace",
+      "To clean",
+      "Building",
+      "To agree",
+      "The next day",
+      "Alone",
+      "To explain",
+      "To build",
+      "Ice skates"
+    ],
+    "newWords": {
+      "nouns": [
+        "School",
+        "Stone",
+        "Junk",
+        "Suggestion",
+        "Chance",
+        "Stairwell",
+        "Mailbox",
+        "Compromise"
+      ],
+      "verbs": [
+        "To laugh",
+        "To be sorry",
+        "To listen",
+        "To fall asleep",
+        "To hang out"
+      ],
+      "adjectives": [
+        "Funny",
+        "Stressed",
+        "Disappointed",
+        "Hurt (feelings)",
+        "Right (correct)",
+        "Busy (occupied)",
+        "Neglected",
+        "Practical"
+      ],
+      "functionWords": [
+        "Completely",
+        "Together"
+      ]
+    },
+    "focusAreas": [
+      "Longer narrative chains (3+ steps, avoiding repetition of the same connective)",
+      "Time expressions (yesterday / tomorrow / last week)"
+    ],
+    "reviewed": false,
+    "partnerReviewed": false,
+    "missedVocabulary": [],
+    "sourceMaterial": {
+      "title": "אסיפת דיירים — אדם צעיר",
+      "url": "https://adamtsair.co.il/%D7%90%D7%A1%D7%99%D7%A4%D7%AA-%D7%93%D7%99%D7%99%D7%A8%D7%99%D7%9D/"
+    },
+    "notes": "",
+    "comments": [],
+    "conversations": [
+      {
+        "title": null,
+        "blocks": [
+          {
+            "id": 1,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Mark, I heard you telling Dad about a story. What happened with the kids and the pool?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "You were listening? Okay. So the boy showed the petition at the residents' meeting.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "And? Did the neighbours like it?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "No. First everyone was quiet, and then all the residents started to laugh.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "They laughed at him? That's not funny at all!",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "He didn't think it was funny either. He shouted, \"I don't understand what's funny here!\"",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "And where were the other kids?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "They were waiting in the yard, very stressed. When they heard the laughing, they went down to the shelter and gathered around him.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "So what did the parents say?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "His mom said, \"It's a very sweet suggestion, but it's not practical.\" The kids asked what \"practical\" means, and then they understood that there was no chance for a pool.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "That's so sad. What did they do?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "The boy put the petition down on the floor, and they all went home without saying anything. They felt really hurt.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "I would be so disappointed.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, they were very disappointed. That night the kids fell asleep fast, but the adults couldn't fall asleep.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Why not?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Because they were sorry that they laughed at the kids.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Good, they should be sorry! And then?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "The next day, when the kids were at school, each of the neighbours went down to the back yard alone.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "So they all met there by accident?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes. They hadn't been there in a long time. The yard was completely neglected, full of stones and old junk.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Wait, and that's where the kids play?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, the kids hang out there every afternoon. Then the boy's mom said that the kids were completely right.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Wow, so she changed her mind?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes. She said the adults were busy painting the stairwell and replacing the mailboxes. They forgot that the kids live in the building too.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "So now they're building the pool? I was sure!",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "No. A neighbour said that you can't build a pool in the yard, and everyone agreed. But maybe something else.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Something else? What do you think they should do?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "I think they should clean the yard together and add what's missing. A pool is too expensive.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "That's boring. I would keep asking for the pool.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Maybe. But the important thing is to listen to the kids and take them seriously.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "And tell them that the pool isn't possible?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Yes, and explain that it's a compromise.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Fine, a compromise. But next summer I'm going to suggest a pool for our building.",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "Good luck! We read this part with Nadav on Wednesday. Maybe next week we'll read the end, and I'll tell you.",
+                "turn": "student"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "lines": [
+              {
+                "speaker": "Shira",
+                "text": "Wait, are we there already? Where are my skates?",
+                "turn": "teacher"
+              },
+              {
+                "speaker": "Mark",
+                "text": "They're in the bag next to you. Come on, Heli is already out of the car.",
                 "turn": "student"
               }
             ]
